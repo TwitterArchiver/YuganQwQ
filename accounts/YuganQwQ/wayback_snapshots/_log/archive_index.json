@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-01T02:52:59",
+  "last_updated": "2026-08-01T02:53:18",
   "html": {
     "https://web.archive.org/web/20260610010407if_/https://twitter.com/YuganQwQ/status/2064513911467213221": {
       "status": "done",
@@ -4189,9 +4189,9 @@
       "referenced_by": [
         "20260725122338_twitter_com_YuganQwQ_status_2080992367750828376.json"
       ],
-      "last_updated": "2026-08-01T02:25:41",
+      "last_updated": "2026-08-01T02:53:18",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260725122338if_/https://pbs.twimg.com/profile_images/2079938129046499328/mlonenPi_normal.jpg",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2079647310347395072/dzS4w1M5_normal.jpg": {
       "status": "done",
