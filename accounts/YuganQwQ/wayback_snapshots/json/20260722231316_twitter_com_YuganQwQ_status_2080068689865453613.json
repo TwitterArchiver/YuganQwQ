@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2079897347618697315",
+    "created_at": "2026-07-22T23:13:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T00:13:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080068689865453613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2048294267421085696",
+          "start": 0,
+          "username": "YuyuOw0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080068689865453613",
+    "in_reply_to_user_id": "2048294267421085696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079997204576784662",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuyuOw0 163邮箱喵，好诡异呀！其实这个号也是我开的小号。。但是他刚刚让我认证邮箱了，我不知道现在还能不能正常看那个隐私内容，我得试试"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2079897347618697315",
+        "created_at": "2026-07-22T23:13:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T00:13:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080068689865453613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2048294267421085696",
+              "start": 0,
+              "username": "YuyuOw0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080068689865453613",
+        "in_reply_to_user_id": "2048294267421085696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079997204576784662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuyuOw0 163邮箱喵，好诡异呀！其实这个号也是我开的小号。。但是他刚刚让我认证邮箱了，我不知道现在还能不能正常看那个隐私内容，我得试试"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048294267421085696",
+        "conversation_id": "2079897347618697315",
+        "created_at": "2026-07-22T18:29:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T19:29:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079997204576784662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2047425753227333632",
+              "start": 0,
+              "username": "YuganQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079997204576784662",
+        "in_reply_to_user_id": "2047425753227333632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079897347618697315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuganQwQ 你用啥注册的我小号和你一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 直fo是因为喜欢你呀 |永远怀念@yuganbb823",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "yuganbb823"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "name": "为何人生如此悲惨2.0互关巡回",
+        "pinned_tweet_id": "2079370925015715919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 307
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-26T06:53:53.000Z",
+        "description": "骂我的人默认破防😂",
+        "id": "2048294267421085696",
+        "name": "Yuyu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076726507955970048/YSUEsa43_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 16,
+          "like_count": 6,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 52
+        },
+        "url": "",
+        "username": "YuyuOw0",
+        "verified": false
+      }
+    ]
+  }
+}

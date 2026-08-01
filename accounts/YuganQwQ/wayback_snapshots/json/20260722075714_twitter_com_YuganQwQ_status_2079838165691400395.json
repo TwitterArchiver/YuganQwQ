@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2079838165691400395",
+    "created_at": "2026-07-22T07:57:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T08:57:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079838165691400395"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2079838165691400395",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不知道为什么有人关注我推特不给我发通知。。没有回关的戳戳我呀😢😢😢😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2079838165691400395",
+        "created_at": "2026-07-22T07:57:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T08:57:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079838165691400395"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079838165691400395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道为什么有人关注我推特不给我发通知。。没有回关的戳戳我呀😢😢😢😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 直fo是因为喜欢你呀 |永远怀念@yuganbb823",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "yuganbb823"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "name": "为何人生如此悲惨2.0互关巡回",
+        "pinned_tweet_id": "2079370925015715919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 169,
+          "like_count": 798,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 299
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

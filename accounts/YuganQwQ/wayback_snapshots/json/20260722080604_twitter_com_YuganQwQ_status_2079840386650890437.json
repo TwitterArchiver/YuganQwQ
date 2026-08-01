@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2079373406642794594",
+    "created_at": "2026-07-22T08:06:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T09:06:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079840386650890437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2040694589275738112",
+          "start": 0,
+          "username": "RajPushpa87283"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079840386650890437",
+    "in_reply_to_user_id": "2040694589275738112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079512689920118859",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RajPushpa87283 ╰😱╯我申诉他老是自己退走"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2079373406642794594",
+        "created_at": "2026-07-22T08:06:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T09:06:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079840386650890437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2040694589275738112",
+              "start": 0,
+              "username": "RajPushpa87283"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079840386650890437",
+        "in_reply_to_user_id": "2040694589275738112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079512689920118859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RajPushpa87283 ╰😱╯我申诉他老是自己退走"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040694589275738112",
+        "conversation_id": "2079373406642794594",
+        "created_at": "2026-07-21T10:23:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T11:23:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079512689920118859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2047425753227333632",
+              "start": 0,
+              "username": "YuganQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079512689920118859",
+        "in_reply_to_user_id": "2040694589275738112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079512606948344182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuganQwQ 冻结了可以申诉呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 直fo是因为喜欢你呀 |永远怀念@yuganbb823",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "yuganbb823"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "name": "为何人生如此悲惨2.0互关巡回",
+        "pinned_tweet_id": "2079370925015715919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 170,
+          "like_count": 800,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 301
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-05T07:34:58.000Z",
+        "description": "オレは誰でもない、誰でもいたくないのさ。\nKimi🇮🇹",
+        "id": "2040694589275738112",
+        "name": "那年夏末未至",
+        "pinned_tweet_id": "2073816852678295706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079430898739744768/movvgDXq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 47,
+          "like_count": 362,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 624
+        },
+        "url": "",
+        "username": "RajPushpa87283",
+        "verified": true
+      }
+    ]
+  }
+}

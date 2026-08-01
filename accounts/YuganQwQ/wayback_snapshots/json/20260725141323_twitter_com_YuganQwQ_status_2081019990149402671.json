@@ -1,0 +1,587 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080623048978472960",
+        "3_2080623048961757184",
+        "3_2080623048924045313",
+        "3_2080623048882028544"
+      ],
+      "media_source_tweet_id": [
+        "2080623063369130266",
+        "2080623063369130266",
+        "2080623063369130266",
+        "2080623063369130266"
+      ]
+    },
+    "author_id": "2047425753227333632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2081019990149402671",
+    "created_at": "2026-07-25T14:13:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T15:13:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081019990149402671"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 71,
+          "start": 68,
+          "tag": "sm"
+        },
+        {
+          "end": 75,
+          "start": 72,
+          "tag": "门槛"
+        },
+        {
+          "end": 79,
+          "start": 76,
+          "tag": "半绿"
+        },
+        {
+          "end": 83,
+          "start": 80,
+          "tag": "小圈"
+        },
+        {
+          "end": 87,
+          "start": 84,
+          "tag": "图包"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2066325460158713856",
+          "start": 3,
+          "username": "IDKgx4k"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EHkY9ca087",
+          "end": 111,
+          "expanded_url": "https://x.com/IDKgx4k/status/2080623063369130266/photo/1",
+          "media_key": "3_2080623048978472960",
+          "start": 88,
+          "url": "https://t.co/EHkY9ca087"
+        },
+        {
+          "display_url": "pic.x.com/EHkY9ca087",
+          "end": 111,
+          "expanded_url": "https://x.com/IDKgx4k/status/2080623063369130266/photo/1",
+          "media_key": "3_2080623048961757184",
+          "start": 88,
+          "url": "https://t.co/EHkY9ca087"
+        },
+        {
+          "display_url": "pic.x.com/EHkY9ca087",
+          "end": 111,
+          "expanded_url": "https://x.com/IDKgx4k/status/2080623063369130266/photo/1",
+          "media_key": "3_2080623048924045313",
+          "start": 88,
+          "url": "https://t.co/EHkY9ca087"
+        },
+        {
+          "display_url": "pic.x.com/EHkY9ca087",
+          "end": 111,
+          "expanded_url": "https://x.com/IDKgx4k/status/2080623063369130266/photo/1",
+          "media_key": "3_2080623048882028544",
+          "start": 88,
+          "url": "https://t.co/EHkY9ca087"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081019990149402671",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080623063369130266",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IDKgx4k: 一个平白无奇的女m 喜欢cosplay \n希望能有主人认领这条小狗\n会售卖一下cos和原皮的图包 谢谢支持\n\n#sm #门槛 #半绿 #小圈 #图包 https://t.co/EHkY9ca087"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080623048978472960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_bo7HaIAAoekp.jpg",
+        "width": 942
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2080623048961757184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_bo7DbEAAo0ca.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2080623048924045313",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_bo66boAEt8wm.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080623048882028544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_bo6wagAAbG_q.jpg",
+        "width": 920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080623048978472960",
+            "3_2080623048961757184",
+            "3_2080623048924045313",
+            "3_2080623048882028544"
+          ]
+        },
+        "author_id": "2066325460158713856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2080623063369130266",
+        "created_at": "2026-07-24T11:56:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T12:56:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080623063369130266"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 58,
+              "start": 55,
+              "tag": "sm"
+            },
+            {
+              "end": 62,
+              "start": 59,
+              "tag": "门槛"
+            },
+            {
+              "end": 66,
+              "start": 63,
+              "tag": "半绿"
+            },
+            {
+              "end": 70,
+              "start": 67,
+              "tag": "小圈"
+            },
+            {
+              "end": 74,
+              "start": 71,
+              "tag": "图包"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EHkY9ca087",
+              "end": 98,
+              "expanded_url": "https://x.com/IDKgx4k/status/2080623063369130266/photo/1",
+              "media_key": "3_2080623048978472960",
+              "start": 75,
+              "url": "https://t.co/EHkY9ca087"
+            },
+            {
+              "display_url": "pic.x.com/EHkY9ca087",
+              "end": 98,
+              "expanded_url": "https://x.com/IDKgx4k/status/2080623063369130266/photo/1",
+              "media_key": "3_2080623048961757184",
+              "start": 75,
+              "url": "https://t.co/EHkY9ca087"
+            },
+            {
+              "display_url": "pic.x.com/EHkY9ca087",
+              "end": 98,
+              "expanded_url": "https://x.com/IDKgx4k/status/2080623063369130266/photo/1",
+              "media_key": "3_2080623048924045313",
+              "start": 75,
+              "url": "https://t.co/EHkY9ca087"
+            },
+            {
+              "display_url": "pic.x.com/EHkY9ca087",
+              "end": 98,
+              "expanded_url": "https://x.com/IDKgx4k/status/2080623063369130266/photo/1",
+              "media_key": "3_2080623048882028544",
+              "start": 75,
+              "url": "https://t.co/EHkY9ca087"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080623063369130266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 347,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "一个平白无奇的女m 喜欢cosplay \n希望能有主人认领这条小狗\n会售卖一下cos和原皮的图包 谢谢支持\n\n#sm #门槛 #半绿 #小圈 #图包 https://t.co/EHkY9ca087"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080623048978472960",
+            "3_2080623048961757184",
+            "3_2080623048924045313",
+            "3_2080623048882028544"
+          ],
+          "media_source_tweet_id": [
+            "2080623063369130266",
+            "2080623063369130266",
+            "2080623063369130266",
+            "2080623063369130266"
+          ]
+        },
+        "author_id": "2047425753227333632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2081019990149402671",
+        "created_at": "2026-07-25T14:13:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T15:13:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081019990149402671"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 71,
+              "start": 68,
+              "tag": "sm"
+            },
+            {
+              "end": 75,
+              "start": 72,
+              "tag": "门槛"
+            },
+            {
+              "end": 79,
+              "start": 76,
+              "tag": "半绿"
+            },
+            {
+              "end": 83,
+              "start": 80,
+              "tag": "小圈"
+            },
+            {
+              "end": 87,
+              "start": 84,
+              "tag": "图包"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2066325460158713856",
+              "start": 3,
+              "username": "IDKgx4k"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EHkY9ca087",
+              "end": 111,
+              "expanded_url": "https://x.com/IDKgx4k/status/2080623063369130266/photo/1",
+              "media_key": "3_2080623048978472960",
+              "start": 88,
+              "url": "https://t.co/EHkY9ca087"
+            },
+            {
+              "display_url": "pic.x.com/EHkY9ca087",
+              "end": 111,
+              "expanded_url": "https://x.com/IDKgx4k/status/2080623063369130266/photo/1",
+              "media_key": "3_2080623048961757184",
+              "start": 88,
+              "url": "https://t.co/EHkY9ca087"
+            },
+            {
+              "display_url": "pic.x.com/EHkY9ca087",
+              "end": 111,
+              "expanded_url": "https://x.com/IDKgx4k/status/2080623063369130266/photo/1",
+              "media_key": "3_2080623048924045313",
+              "start": 88,
+              "url": "https://t.co/EHkY9ca087"
+            },
+            {
+              "display_url": "pic.x.com/EHkY9ca087",
+              "end": 111,
+              "expanded_url": "https://x.com/IDKgx4k/status/2080623063369130266/photo/1",
+              "media_key": "3_2080623048882028544",
+              "start": 88,
+              "url": "https://t.co/EHkY9ca087"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081019990149402671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080623063369130266",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IDKgx4k: 一个平白无奇的女m 喜欢cosplay \n希望能有主人认领这条小狗\n会售卖一下cos和原皮的图包 谢谢支持\n\n#sm #门槛 #半绿 #小圈 #图包 https://t.co/EHkY9ca087"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 加联系方式🚪188纯绿互关不需要喵 | 只跟同类互fo 直fo是因为喜欢你呀 |永远怀念@yuganbb823",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "yuganbb823"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "name": "为何人生如此悲惨2.0互关巡回",
+        "pinned_tweet_id": "2079370925015715919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 230,
+          "like_count": 1342,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 390
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-15T01:03:12.000Z",
+        "description": "女s不用问了ip广西南宁 🚪88/188/288/520/1314\n私信只会互转和口令红包",
+        "id": "2066325460158713856",
+        "location": "距离你三公里",
+        "name": "MK28",
+        "pinned_tweet_id": "2080623063369130266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079566356106928128/lMPN6dew_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 32,
+          "like_count": 84,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 117
+        },
+        "url": "",
+        "username": "IDKgx4k",
+        "verified": false
+      }
+    ]
+  }
+}

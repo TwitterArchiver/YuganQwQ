@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2066065259992060192",
+    "created_at": "2026-06-14T07:48:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T08:48:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066065259992060192"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yuganbb823/sta…",
+          "end": 84,
+          "expanded_url": "https://twitter.com/yuganbb823/status/2066064670331674897",
+          "start": 61,
+          "url": "https://t.co/a7EuwNM548"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066065259992060192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066064670331674897",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "快点关注我的大号喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵，我这个号废了咩咩喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵 https://t.co/a7EuwNM548"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066064641533542401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwi2FGaAAEbg8u.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066064642481500160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwi2IoasAAPLrh.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2066064642481549312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwi2IobcAAnPzw.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2066065259992060192",
+        "created_at": "2026-06-14T07:48:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T08:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066065259992060192"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuganbb823/sta…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/yuganbb823/status/2066064670331674897",
+              "start": 61,
+              "url": "https://t.co/a7EuwNM548"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066065259992060192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066064670331674897",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "快点关注我的大号喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵，我这个号废了咩咩喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵 https://t.co/a7EuwNM548"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066064641533542401",
+            "3_2066064642481500160",
+            "3_2066064642481549312"
+          ]
+        },
+        "author_id": "2047867480576794624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066064670331674897",
+        "created_at": "2026-06-14T07:46:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T08:46:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066064670331674897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 28,
+              "id": "2047425753227333632",
+              "start": 19,
+              "username": "YuganQwQ"
+            },
+            {
+              "end": 83,
+              "id": "2053298751863676935",
+              "start": 72,
+              "username": "Xiaohutysd"
+            },
+            {
+              "end": 98,
+              "id": "1826281483675299840",
+              "start": 84,
+              "username": "ci_shang85157"
+            },
+            {
+              "end": 111,
+              "id": "1619331344705916931",
+              "start": 99,
+              "username": "Mikasuda765"
+            },
+            {
+              "end": 121,
+              "id": "2058593205067841536",
+              "start": 112,
+              "username": "mndfu1s7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mOp4vXossW",
+              "end": 145,
+              "expanded_url": "https://x.com/yuganbb823/status/2066064670331674897/photo/1",
+              "media_key": "3_2066064641533542401",
+              "start": 122,
+              "url": "https://t.co/mOp4vXossW"
+            },
+            {
+              "display_url": "pic.x.com/mOp4vXossW",
+              "end": 145,
+              "expanded_url": "https://x.com/yuganbb823/status/2066064670331674897/photo/1",
+              "media_key": "3_2066064642481500160",
+              "start": 122,
+              "url": "https://t.co/mOp4vXossW"
+            },
+            {
+              "display_url": "pic.x.com/mOp4vXossW",
+              "end": 145,
+              "expanded_url": "https://x.com/yuganbb823/status/2066064670331674897/photo/1",
+              "media_key": "3_2066064642481549312",
+              "start": 122,
+              "url": "https://t.co/mOp4vXossW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066064670331674897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "置顶🔝\n我是一只小鱼干呀！！！\n2号机@YuganQwQ \n餐券 哦滴 自伤 🚬 🩸🩸\n无属性，我们一起玩吧＞𐋣＜\n我的超级超级好朋友！！！！\n@Xiaohutysd @ci_shang85157 @Mikasuda765 @mndfu1s7 https://t.co/mOp4vXossW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 直fo是因为喜欢你呀 |大号@yuganbb823",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 42,
+                "username": "yuganbb823"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "name": "擦去妳眼角的泪",
+        "pinned_tweet_id": "2063650171343536256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060716224359645186/AcKCB0iq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 79,
+          "like_count": 433,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 160
+        },
+        "username": "YuganQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-25T02:40:37.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 直fo是因为喜欢你呀 |",
+        "id": "2047867480576794624",
+        "location": "你身后",
+        "name": "为何人生如此凄惨",
+        "pinned_tweet_id": "2066064670331674897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058530430505107456/xZ6M8S5D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 200,
+          "like_count": 4099,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 686
+        },
+        "username": "yuganbb823",
+        "verified": false
+      }
+    ]
+  }
+}

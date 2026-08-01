@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2079845888348885341",
+    "created_at": "2026-07-22T23:47:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T00:47:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080077323622125946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2072663855566618624",
+          "start": 0,
+          "username": "falsehood10086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080077323622125946",
+    "in_reply_to_user_id": "2072663855566618624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079845888348885341",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@falsehood10086 这死推特啊。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2079845888348885341",
+        "created_at": "2026-07-22T23:47:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T00:47:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080077323622125946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2072663855566618624",
+              "start": 0,
+              "username": "falsehood10086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080077323622125946",
+        "in_reply_to_user_id": "2072663855566618624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079845888348885341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@falsehood10086 这死推特啊。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2072663855566618624",
+        "conversation_id": "2079845888348885341",
+        "created_at": "2026-07-22T08:27:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T09:27:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079845888348885341"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079845888348885341",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这死黑叉呀。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 直fo是因为喜欢你呀 |永远怀念@yuganbb823",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "yuganbb823"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "name": "为何人生如此悲惨2.0互关巡回",
+        "pinned_tweet_id": "2079370925015715919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 9,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 314
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-02T12:49:56.000Z",
+        "description": "🤡☃丨双相bpd丨🔪🩸💊丨碎碎念丨会发追泰腐男的内容丨请随意丨不喜欢可以不理丨取关随意丨VPN关了我就死了不要那么大戾气喔丨peace＆love🫶",
+        "id": "2072663855566618624",
+        "name": "言谎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072676963752271872/JJcfcEBQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 158,
+          "like_count": 445,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 177
+        },
+        "url": "",
+        "username": "falsehood10086",
+        "verified": false
+      }
+    ]
+  }
+}

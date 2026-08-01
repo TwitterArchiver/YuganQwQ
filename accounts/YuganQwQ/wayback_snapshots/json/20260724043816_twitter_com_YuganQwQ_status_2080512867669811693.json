@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2080169303731524016",
+    "created_at": "2026-07-24T04:38:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T05:38:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080512867669811693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1795591717401640960",
+          "start": 0,
+          "username": "2015agopoe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080512867669811693",
+    "in_reply_to_user_id": "1795591717401640960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080337909937574200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2015agopoe 他都说请我od了怎么可能不是晶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2080169303731524016",
+        "created_at": "2026-07-24T04:38:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T05:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080512867669811693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1795591717401640960",
+              "start": 0,
+              "username": "2015agopoe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080512867669811693",
+        "in_reply_to_user_id": "1795591717401640960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080337909937574200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2015agopoe 他都说请我od了怎么可能不是晶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795591717401640960",
+        "conversation_id": "2080169303731524016",
+        "created_at": "2026-07-23T17:03:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T18:03:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080337909937574200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2047425753227333632",
+              "start": 0,
+              "username": "YuganQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080337909937574200",
+        "in_reply_to_user_id": "2047425753227333632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 267,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080169303731524016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuganQwQ 不是吧 这怎么分辨出是不是晶哥的 再说他找你有何意义 有可能就是卖vpn或者卖茶叶的吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 加联系方式🚪188纯绿互关不需要喵 | 只跟同类互fo 直fo是因为喜欢你呀 |永远怀念@yuganbb823",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "yuganbb823"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "name": "为何人生如此悲惨2.0互关巡回",
+        "pinned_tweet_id": "2079370925015715919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 229,
+          "like_count": 1202,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 375
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-28T23:03:28.000Z",
+        "description": "agopoe",
+        "id": "1795591717401640960",
+        "name": "救世主尼奥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795887098836430848/reILRq8h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 6,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 36
+        },
+        "url": "",
+        "username": "2015agopoe",
+        "verified": false
+      }
+    ]
+  }
+}

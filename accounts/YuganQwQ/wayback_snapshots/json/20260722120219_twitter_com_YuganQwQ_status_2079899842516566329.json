@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2079327496885948787",
+    "created_at": "2026-07-22T12:02:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T13:02:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079899842516566329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2058623145423388672",
+          "start": 0,
+          "username": "Nosameyer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079899842516566329",
+    "in_reply_to_user_id": "2058623145423388672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079899380283310269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nosameyer 没办法，开到四盒，我太兴奋了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2079327496885948787",
+        "created_at": "2026-07-22T12:02:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T13:02:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079899842516566329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2058623145423388672",
+              "start": 0,
+              "username": "Nosameyer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079899842516566329",
+        "in_reply_to_user_id": "2058623145423388672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079899380283310269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nosameyer 没办法，开到四盒，我太兴奋了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058623145423388672",
+        "conversation_id": "2079327496885948787",
+        "created_at": "2026-07-22T12:00:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T13:00:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079899380283310269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2047425753227333632",
+              "start": 0,
+              "username": "YuganQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079899380283310269",
+        "in_reply_to_user_id": "2047425753227333632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079327496885948787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuganQwQ 这么狂？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 直fo是因为喜欢你呀 |永远怀念@yuganbb823",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "yuganbb823"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "name": "为何人生如此悲惨2.0互关巡回",
+        "pinned_tweet_id": "2079370925015715919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 172,
+          "like_count": 829,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 306
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-24T18:57:06.000Z",
+        "description": "梦想是成为阴雨消肿逼，酒蒙子，furry控，直的，有礼貌的小男生也可以找我扩不厌男不恐同（前提有礼貌）qq3432175995欢迎找我扩\n来玩推特想交朋友🥺🥺🥺",
+        "id": "2058623145423388672",
+        "location": "in your heart",
+        "name": "No sa（看见我请私信我和我聊天）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070506723484241921/YjIV6mP1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 98,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 347
+        },
+        "url": "",
+        "username": "Nosameyer",
+        "verified": true
+      }
+    ]
+  }
+}

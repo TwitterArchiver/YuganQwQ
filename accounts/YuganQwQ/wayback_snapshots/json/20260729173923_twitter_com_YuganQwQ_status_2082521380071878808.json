@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2082521380071878808",
+    "created_at": "2026-07-29T17:39:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T18:39:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082521380071878808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1729436345913995265",
+          "start": 3,
+          "username": "p1NRed1_A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082521380071878808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082105558728085873",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @p1NRed1_A: 。看到朋友发自杀言论很想关心一下但是转念一想我说要自杀的时候也没人鸟我感觉还是算了而且有人劝你别死还挺烦的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2082521380071878808",
+        "created_at": "2026-07-29T17:39:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T18:39:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082521380071878808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1729436345913995265",
+              "start": 3,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082521380071878808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082105558728085873",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @p1NRed1_A: 。看到朋友发自杀言论很想关心一下但是转念一想我说要自杀的时候也没人鸟我感觉还是算了而且有人劝你别死还挺烦的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "2082105558728085873",
+        "created_at": "2026-07-28T14:07:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T15:07:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082105558728085873"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082105558728085873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3671,
+          "like_count": 135,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "。看到朋友发自杀言论很想关心一下但是转念一想我说要自杀的时候也没人鸟我感觉还是算了而且有人劝你别死还挺烦的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 加联系方式🚪188纯绿互关不需要喵 | 只跟同类互fo 直fo是因为喜欢你呀 |永远怀念@yuganbb823",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "yuganbb823"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "name": "为何人生如此悲惨2.0互关巡回",
+        "pinned_tweet_id": "2079370925015715919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 246,
+          "like_count": 1687,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 449
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死全家星人\n我的画@O_044_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 9,
+                "username": "O_044_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gudong1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gudong1",
+                "start": 0,
+                "url": "https://t.co/9GooAZ0z7o"
+              }
+            ]
+          }
+        },
+        "id": "1729436345913995265",
+        "location": "死全家星",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076577294790139904/Fz-jPCGp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 748,
+          "following_count": 592,
+          "like_count": 1806,
+          "listed_count": 3,
+          "media_count": 449,
+          "tweet_count": 7224
+        },
+        "url": "https://t.co/9GooAZ0z7o",
+        "username": "p1NRed1_A",
+        "verified": false
+      }
+    ]
+  }
+}

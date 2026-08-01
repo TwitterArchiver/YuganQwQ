@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2079327389838929920"
+      ]
+    },
+    "author_id": "2047425753227333632",
+    "conversation_id": "2079327496885948787",
+    "created_at": "2026-07-20T22:08:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T23:08:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079327496885948787"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0WMJCwSB3W",
+          "end": 29,
+          "expanded_url": "https://x.com/YuganQwQ/status/2079327496885948787/video/1",
+          "media_key": "13_2079327389838929920",
+          "start": 6,
+          "url": "https://t.co/0WMJCwSB3W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079327496885948787",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想我了吗？ https://t.co/0WMJCwSB3W"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26900,
+        "height": 1280,
+        "media_key": "13_2079327389838929920",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079327389838929920/img/3De6loXZik2PQ2_3.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079327389838929920/vid/avc1/320x568/KonPfMXD5ckWXZaU.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079327389838929920/vid/avc1/480x852/KUGjhzCKxjGY20MO.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079327389838929920/vid/avc1/720x1280/GHu6BHDvjiYvGx8U.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079327389838929920/pl/QJtzFuXlcno9t0FM.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079327389838929920"
+          ]
+        },
+        "author_id": "2047425753227333632",
+        "conversation_id": "2079327496885948787",
+        "created_at": "2026-07-20T22:08:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T23:08:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079327496885948787"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0WMJCwSB3W",
+              "end": 29,
+              "expanded_url": "https://x.com/YuganQwQ/status/2079327496885948787/video/1",
+              "media_key": "13_2079327389838929920",
+              "start": 6,
+              "url": "https://t.co/0WMJCwSB3W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079327496885948787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想我了吗？ https://t.co/0WMJCwSB3W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 直fo是因为喜欢你呀 |大号@yuganbb823",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 42,
+                "username": "yuganbb823"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "name": "擦去妳眼角的泪",
+        "pinned_tweet_id": "2066065259992060192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060716224359645186/AcKCB0iq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 75,
+          "like_count": 449,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 174
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

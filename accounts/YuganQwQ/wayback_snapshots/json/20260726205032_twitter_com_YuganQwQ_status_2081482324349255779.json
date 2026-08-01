@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2081481293892657264",
+    "created_at": "2026-07-26T20:50:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T21:50:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081482324349255779"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2081482324349255779",
+    "in_reply_to_user_id": "2047425753227333632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081481293892657264",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我好想死掉，被队友骂的时候我就好难受，好难受呀，但是大家都说菜菜逼，凭啥骂我呀？你跟我一个段位的，你凭啥骂我呀？你也是个臭菜逼，你不是说是来炸鱼的吗？你他妈的怎么怎么这把赢了之后把我踢了，我哭了呀我杀了你们把全家都屠杀光光光光光光光光光光"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2081481293892657264",
+        "created_at": "2026-07-26T20:50:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T21:50:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081482324349255779"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081482324349255779",
+        "in_reply_to_user_id": "2047425753227333632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081481293892657264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我好想死掉，被队友骂的时候我就好难受，好难受呀，但是大家都说菜菜逼，凭啥骂我呀？你跟我一个段位的，你凭啥骂我呀？你也是个臭菜逼，你不是说是来炸鱼的吗？你他妈的怎么怎么这把赢了之后把我踢了，我哭了呀我杀了你们把全家都屠杀光光光光光光光光光光"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2081481293892657264",
+        "created_at": "2026-07-26T20:46:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T21:46:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081481293892657264"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081481293892657264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没有人没有人没有人陪我没有人。打一个游戏终于他妈的进了一个招募的队伍，结果菜得要死，人家最后都是不讲话，就我跟个傻逼一样在说话，我好难受，好想割手，我好想自残割手啊但是我在家他们每天都要检查我的手臂。然后又要阴阳怪气，说买了一把很利的刀，可以给我割手。我已经两天没有吃药了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 加联系方式🚪188纯绿互关不需要喵 | 只跟同类互fo 直fo是因为喜欢你呀 |永远怀念@yuganbb823",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "yuganbb823"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "name": "为何人生如此悲惨2.0互关巡回",
+        "pinned_tweet_id": "2079370925015715919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 234,
+          "like_count": 1508,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 409
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

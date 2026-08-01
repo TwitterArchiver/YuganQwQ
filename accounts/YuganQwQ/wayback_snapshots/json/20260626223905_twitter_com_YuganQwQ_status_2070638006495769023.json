@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2070637187453030673",
+    "created_at": "2026-06-26T22:39:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T23:39:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070638006495769023"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2070638006495769023",
+    "in_reply_to_user_id": "2047425753227333632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070637891949297964",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "他妈的，那个死小孩什么时候能死？我真的恨死了，所有的都是我的，明明本来这些东西都是我的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2070637187453030673",
+        "created_at": "2026-06-26T22:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T23:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070638006495769023"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070638006495769023",
+        "in_reply_to_user_id": "2047425753227333632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070637891949297964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他妈的，那个死小孩什么时候能死？我真的恨死了，所有的都是我的，明明本来这些东西都是我的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2070637187453030673",
+        "created_at": "2026-06-26T22:38:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T23:38:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070637891949297964"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070637891949297964",
+        "in_reply_to_user_id": "2047425753227333632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070637187453030673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就很难受，很难受呀，我那个时候肯定是精神病，已经有点发错了，然后呢，那天是父亲节，我妈就买了一个冰淇淋的蛋糕，那个蛋糕非常非常非常的难吃，我把冰淇淋全吃了，蛋糕全给我吃了，恶心死了，那个死妈小孩还要在那里说这是我的生日，给我唱生日歌，我快吐了我好想捅死他们。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 直fo是因为喜欢你呀 |大号@yuganbb823",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 42,
+                "username": "yuganbb823"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "name": "擦去妳眼角的泪",
+        "pinned_tweet_id": "2066065259992060192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060716224359645186/AcKCB0iq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 75,
+          "like_count": 428,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 164
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

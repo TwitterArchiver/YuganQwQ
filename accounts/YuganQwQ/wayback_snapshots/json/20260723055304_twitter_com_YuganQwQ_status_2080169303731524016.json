@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080169295376429056"
+      ]
+    },
+    "author_id": "2047425753227333632",
+    "conversation_id": "2080169303731524016",
+    "created_at": "2026-07-23T05:53:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T06:53:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080169303731524016"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VbhNQ9p2pT",
+          "end": 31,
+          "expanded_url": "https://x.com/YuganQwQ/status/2080169303731524016/photo/1",
+          "media_key": "3_2080169295376429056",
+          "start": 8,
+          "url": "https://t.co/VbhNQ9p2pT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080169303731524016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "呃，晶哥别钓了 https://t.co/VbhNQ9p2pT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080169295376429056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN4-8_OWMAA2L_m.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080169295376429056"
+          ]
+        },
+        "author_id": "2047425753227333632",
+        "conversation_id": "2080169303731524016",
+        "created_at": "2026-07-23T05:53:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T06:53:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080169303731524016"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VbhNQ9p2pT",
+              "end": 31,
+              "expanded_url": "https://x.com/YuganQwQ/status/2080169303731524016/photo/1",
+              "media_key": "3_2080169295376429056",
+              "start": 8,
+              "url": "https://t.co/VbhNQ9p2pT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080169303731524016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呃，晶哥别钓了 https://t.co/VbhNQ9p2pT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 直fo是因为喜欢你呀 |永远怀念@yuganbb823我的号不知道怎么了显示我的关注人只有几个，但是我从来没有取关过任何人。。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "yuganbb823"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "name": "为何人生如此悲惨2.0互关巡回",
+        "pinned_tweet_id": "2079370925015715919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 196,
+          "like_count": 1174,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 356
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

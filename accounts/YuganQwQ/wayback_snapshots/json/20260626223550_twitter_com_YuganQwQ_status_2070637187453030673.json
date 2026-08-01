@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2070637187453030673",
+    "created_at": "2026-06-26T22:35:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T23:35:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070637187453030673"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2070637187453030673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好吧，我只能在小号说一些让我很生气，很生气的事情了。我真的受不了他们对那个死马小孩好，我真的受不了那些明明都是我的以前明明都是这样对我的，他们以前的名都是这样对的，但是我现在真的旁边咳咳嘎嘎的笑。然后呢我在吃饭的时候试图插嘴说两一句话，结果我一说话，我妈就给我翻白眼，疯狂地翻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2070637187453030673",
+        "created_at": "2026-06-26T22:35:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T23:35:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070637187453030673"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070637187453030673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好吧，我只能在小号说一些让我很生气，很生气的事情了。我真的受不了他们对那个死马小孩好，我真的受不了那些明明都是我的以前明明都是这样对我的，他们以前的名都是这样对的，但是我现在真的旁边咳咳嘎嘎的笑。然后呢我在吃饭的时候试图插嘴说两一句话，结果我一说话，我妈就给我翻白眼，疯狂地翻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 直fo是因为喜欢你呀 |大号@yuganbb823",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 42,
+                "username": "yuganbb823"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "name": "擦去妳眼角的泪",
+        "pinned_tweet_id": "2066065259992060192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060716224359645186/AcKCB0iq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 75,
+          "like_count": 426,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 162
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

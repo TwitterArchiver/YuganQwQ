@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2079372964500512966",
+    "created_at": "2026-07-21T02:16:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T03:16:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079389987632517520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2071197111950155776",
+          "start": 0,
+          "username": "Qafgvv9"
+        },
+        {
+          "end": 20,
+          "id": "1778719380639014913",
+          "start": 9,
+          "username": "Ancde_1118"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079389987632517520",
+    "in_reply_to_user_id": "2071197111950155776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079372964500512966",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qafgvv9 @Ancde_1118 妈妈我想跟你互fo哎呀你萌死了！"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [2079372964500512966].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2079372964500512966",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2079372964500512966"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2079372964500512966",
+        "created_at": "2026-07-21T02:16:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T03:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079389987632517520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2071197111950155776",
+              "start": 0,
+              "username": "Qafgvv9"
+            },
+            {
+              "end": 20,
+              "id": "1778719380639014913",
+              "start": 9,
+              "username": "Ancde_1118"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079389987632517520",
+        "in_reply_to_user_id": "2071197111950155776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079372964500512966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qafgvv9 @Ancde_1118 妈妈我想跟你互fo哎呀你萌死了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 直fo是因为喜欢你呀 |永远怀念@yuganbb823",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "yuganbb823"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "name": "为何人生如此悲惨2.0",
+        "pinned_tweet_id": "2079370925015715919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 110,
+          "like_count": 576,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 215
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-28T11:49:44.000Z",
+        "description": "🚪88+",
+        "id": "2071197111950155776",
+        "name": "你与我亲手铸造的地狱",
+        "pinned_tweet_id": "2079372964500512966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078543259035746304/Q2hDeWiO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 4,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 24
+        },
+        "url": "",
+        "username": "Qafgvv9",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "防走失小号@Sakura_l1in118\n双相 精分 od ed 割手/我是穿孔师/tg@Sakura_sakura01118/不经常上线找我直接DM/可以找我买电子烟（不卖加料的 只是普通电子烟 想买加料的请不要私信我）我想交朋友 互fo互转大欢迎 ¯꒳¯",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 5,
+                "username": "Sakura_l1in118"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sakura1118",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sakura1118",
+                "start": 0,
+                "url": "https://t.co/puqa4nzVpC"
+              }
+            ]
+          }
+        },
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "2076970964613755207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2254,
+          "following_count": 701,
+          "like_count": 159,
+          "listed_count": 0,
+          "media_count": 284,
+          "tweet_count": 1745
+        },
+        "url": "https://t.co/puqa4nzVpC",
+        "username": "Ancde_1118",
+        "verified": false
+      }
+    ]
+  }
+}

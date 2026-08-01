@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2079383027378000031",
+    "created_at": "2026-07-22T03:06:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T04:06:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079765114060751312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1803382504977735681",
+          "start": 0,
+          "username": "fasdada256185"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079765114060751312",
+    "in_reply_to_user_id": "1803382504977735681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079690355902169597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fasdada256185 我 才 不 管 呢 喜欢我就必须只喜欢我。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2079383027378000031",
+        "created_at": "2026-07-22T03:06:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T04:06:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079765114060751312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1803382504977735681",
+              "start": 0,
+              "username": "fasdada256185"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079765114060751312",
+        "in_reply_to_user_id": "1803382504977735681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079690355902169597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fasdada256185 我 才 不 管 呢 喜欢我就必须只喜欢我。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803382504977735681",
+        "conversation_id": "2079383027378000031",
+        "created_at": "2026-07-21T22:09:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T23:09:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079690355902169597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2047425753227333632",
+              "start": 0,
+              "username": "YuganQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079690355902169597",
+        "in_reply_to_user_id": "2047425753227333632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079383027378000031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuganQwQ 不能这么想的。每个人都有喜欢与不喜欢别人的权利。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 直fo是因为喜欢你呀 |永远怀念@yuganbb823",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "yuganbb823"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "name": "为何人生如此悲惨2.0",
+        "pinned_tweet_id": "2079370925015715919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 156,
+          "like_count": 781,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 286
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-19T11:01:15.000Z",
+        "description": "我是半个机器人，所以我并不会尝试与您私信或者添加联系方式。",
+        "id": "1803382504977735681",
+        "name": "值班记录表测试中",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079591114378756096/fR_k5747_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 79
+        },
+        "url": "",
+        "username": "fasdada256185",
+        "verified": false
+      }
+    ]
+  }
+}

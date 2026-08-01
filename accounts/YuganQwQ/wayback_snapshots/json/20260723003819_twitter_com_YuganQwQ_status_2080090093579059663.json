@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2080090093579059663",
+    "created_at": "2026-07-23T00:38:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T01:38:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080090093579059663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1955287316055916544",
+          "start": 3,
+          "username": "pccqrr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080090093579059663",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7896
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079354688420323532",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @pccqrr: mundo de mierda, con razón la gente se droga"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2080090093579059663",
+        "created_at": "2026-07-23T00:38:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T01:38:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080090093579059663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1955287316055916544",
+              "start": 3,
+              "username": "pccqrr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080090093579059663",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7896
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079354688420323532",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @pccqrr: mundo de mierda, con razón la gente se droga"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955287316055916544",
+        "conversation_id": "2079354688420323532",
+        "created_at": "2026-07-20T23:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T00:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079354688420323532"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079354688420323532",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 526,
+          "impression_count": 209694,
+          "like_count": 23785,
+          "quote_count": 98,
+          "reply_count": 0,
+          "retweet_count": 7896
+        },
+        "reply_settings": "following",
+        "text": "mundo de mierda, con razón la gente se droga"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 直fo是因为喜欢你呀 |永远怀念@yuganbb823我的号不知道怎么了显示我的关注人只有几个，但是我从来没有取关过任何人。。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "yuganbb823"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "name": "为何人生如此悲惨2.0互关巡回",
+        "pinned_tweet_id": "2079370925015715919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 12,
+          "like_count": 185,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 330
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-12T15:16:51.000Z",
+        "description": "disfrútame, no se cuando moriré.  Im trying.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "arrivederchi.⠀",
+                "end": 23,
+                "expanded_url": "http://arrivederchi.xn--6ii/",
+                "start": 0,
+                "url": "https://t.co/nJs4MGyipo"
+              }
+            ]
+          }
+        },
+        "id": "1955287316055916544",
+        "location": "de izquierda ",
+        "name": "salishh goat",
+        "pinned_tweet_id": "2078570981946196102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078189945924075520/L9nko5ix_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 206,
+          "like_count": 5461,
+          "listed_count": 2,
+          "media_count": 6,
+          "tweet_count": 1418
+        },
+        "url": "https://t.co/nJs4MGyipo",
+        "username": "pccqrr",
+        "verified": false
+      }
+    ]
+  }
+}

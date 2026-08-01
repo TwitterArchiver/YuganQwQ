@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2079402918659149997",
+    "created_at": "2026-07-21T04:35:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T05:35:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079425115461222864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2058593205067841536",
+          "start": 0,
+          "username": "mndfu1s7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079425115461222864",
+    "in_reply_to_user_id": "2058593205067841536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079424978982944997",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mndfu1s7 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2079402918659149997",
+        "created_at": "2026-07-21T04:35:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T05:35:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079425115461222864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2058593205067841536",
+              "start": 0,
+              "username": "mndfu1s7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079425115461222864",
+        "in_reply_to_user_id": "2058593205067841536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079424978982944997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mndfu1s7 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058593205067841536",
+        "conversation_id": "2079402918659149997",
+        "created_at": "2026-07-21T04:35:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T05:35:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079424978982944997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2047425753227333632",
+              "start": 0,
+              "username": "YuganQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079424978982944997",
+        "in_reply_to_user_id": "2047425753227333632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079402918659149997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuganQwQ 我的占有欲by bike"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 直fo是因为喜欢你呀 |永远怀念@yuganbb823",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "yuganbb823"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "name": "为何人生如此悲惨2.0",
+        "pinned_tweet_id": "2079370925015715919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 126,
+          "like_count": 658,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 236
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-24T16:58:27.000Z",
+        "description": "=钰柠 09女高餐券妹 中抑 精神状态很差 我是le 贝贝们来和我互fo互推呀TvT\n我的置顶被谋害了 我现在没有精力写一个新的X_X 我好累。",
+        "id": "2058593205067841536",
+        "name": "為什麽我們不能成為永恆",
+        "pinned_tweet_id": "2069791503774523416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058594428982603776/w9DolSRO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 234,
+          "like_count": 4890,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 863
+        },
+        "url": "",
+        "username": "mndfu1s7",
+        "verified": false
+      }
+    ]
+  }
+}

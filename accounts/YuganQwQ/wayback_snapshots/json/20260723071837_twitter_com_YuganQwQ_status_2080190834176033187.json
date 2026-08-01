@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2080190834176033187",
+    "created_at": "2026-07-23T07:18:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T08:18:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080190834176033187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2077351812286558208",
+          "start": 3,
+          "username": "ovoqinbao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080190834176033187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080074734193324352",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ovoqinbao: 大家好我是兔耳\n163/84斤/上海/御姐风格/jk\n家里人欠一屁股债没招了 \n好心人来过门槛吧\n可以验证 全国飞 禁口嗨 禁骂人 只回复过🚪 喜欢我的可以来过门\n可互转窝欢迎！\n转发此条贴抽2*52🧧 1*视频自慰30分钟 8月16号开 中奖会私…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13003,
+        "height": 960,
+        "media_key": "13_2080074707764920320",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080074707764920320/img/wddCicqUd7-Y4klG.jpg",
+        "public_metrics": {
+          "view_count": 14
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080074707764920320/vid/avc1/320x426/jylna7qsLokjZ2Cs.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080074707764920320/vid/avc1/480x640/Pe3MuYPs8QTlqYqv.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080074707764920320/vid/avc1/720x960/E6Z8KceD5onqdFgI.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080074707764920320/pl/3Zx0vzAXHllK0mqx.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 964,
+        "media_key": "3_2080074707790176256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN3o7RAboAABRxi.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2080190834176033187",
+        "created_at": "2026-07-23T07:18:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T08:18:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080190834176033187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2077351812286558208",
+              "start": 3,
+              "username": "ovoqinbao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080190834176033187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080074734193324352",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ovoqinbao: 大家好我是兔耳\n163/84斤/上海/御姐风格/jk\n家里人欠一屁股债没招了 \n好心人来过门槛吧\n可以验证 全国飞 禁口嗨 禁骂人 只回复过🚪 喜欢我的可以来过门\n可互转窝欢迎！\n转发此条贴抽2*52🧧 1*视频自慰30分钟 8月16号开 中奖会私…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080074707764920320",
+            "3_2080074707790176256"
+          ]
+        },
+        "author_id": "2077351812286558208",
+        "conversation_id": "2080074734193324352",
+        "created_at": "2026-07-22T23:37:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T00:37:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080074734193324352"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 134,
+              "start": 131,
+              "tag": "门槛"
+            },
+            {
+              "end": 138,
+              "start": 135,
+              "tag": "线下"
+            },
+            {
+              "end": 142,
+              "start": 139,
+              "tag": "上海"
+            },
+            {
+              "end": 146,
+              "start": 143,
+              "tag": "站街"
+            },
+            {
+              "end": 150,
+              "start": 147,
+              "tag": "原脚"
+            },
+            {
+              "end": 154,
+              "start": 151,
+              "tag": "母狗"
+            },
+            {
+              "end": 158,
+              "start": 155,
+              "tag": "榨干"
+            },
+            {
+              "end": 162,
+              "start": 159,
+              "tag": "金主"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eGs4JI3Wwp",
+              "end": 186,
+              "expanded_url": "https://x.com/ovoqinbao/status/2080074734193324352/video/1",
+              "media_key": "13_2080074707764920320",
+              "start": 163,
+              "url": "https://t.co/eGs4JI3Wwp"
+            },
+            {
+              "display_url": "pic.x.com/eGs4JI3Wwp",
+              "end": 186,
+              "expanded_url": "https://x.com/ovoqinbao/status/2080074734193324352/video/1",
+              "media_key": "3_2080074707790176256",
+              "start": 163,
+              "url": "https://t.co/eGs4JI3Wwp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080074734193324352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "大家好我是兔耳\n163/84斤/上海/御姐风格/jk\n家里人欠一屁股债没招了 \n好心人来过门槛吧\n可以验证 全国飞 禁口嗨 禁骂人 只回复过🚪 喜欢我的可以来过门\n可互转窝欢迎！\n转发此条贴抽2*52🧧 1*视频自慰30分钟 8月16号开 中奖会私信 注意查收\n#门槛 #线下 #上海 #站街 #原脚 #母狗 #榨干 #金主 https://t.co/eGs4JI3Wwp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 直fo是因为喜欢你呀 |永远怀念@yuganbb823我的号不知道怎么了显示我的关注人只有几个，但是我从来没有取关过任何人。。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "yuganbb823"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "name": "为何人生如此悲惨2.0互关巡回",
+        "pinned_tweet_id": "2079370925015715919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 199,
+          "like_count": 1176,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 359
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-15T11:18:20.000Z",
+        "description": "07/163/84/坐标20r 支持验证 拒绝口嗨 只回复发口令红包的 救救我吧我很听话什么都愿意做",
+        "id": "2077351812286558208",
+        "location": "上海",
+        "name": "兔耳",
+        "pinned_tweet_id": "2080074734193324352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077356151675691008/ZPtJOLzm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 41,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 30
+        },
+        "url": "",
+        "username": "ovoqinbao",
+        "verified": false
+      }
+    ]
+  }
+}

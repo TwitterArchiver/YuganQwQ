@@ -1,0 +1,417 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2079922979891486720",
+        "3_2079922717034455040",
+        "3_2079922717017636864",
+        "13_2079922717026054144"
+      ],
+      "media_source_tweet_id": [
+        "2079923130014064811",
+        "2079923130014064811",
+        "2079923130014064811",
+        "2079923130014064811"
+      ]
+    },
+    "author_id": "2047425753227333632",
+    "conversation_id": "2081020257196560460",
+    "created_at": "2026-07-25T14:14:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T15:14:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081020257196560460"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2079637338591010816",
+          "start": 3,
+          "username": "xradgo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uNte5YPez8",
+          "end": 101,
+          "expanded_url": "https://x.com/xradgo/status/2079923130014064811/video/1",
+          "media_key": "13_2079922979891486720",
+          "start": 78,
+          "url": "https://t.co/uNte5YPez8"
+        },
+        {
+          "display_url": "pic.x.com/uNte5YPez8",
+          "end": 101,
+          "expanded_url": "https://x.com/xradgo/status/2079923130014064811/video/1",
+          "media_key": "3_2079922717034455040",
+          "start": 78,
+          "url": "https://t.co/uNte5YPez8"
+        },
+        {
+          "display_url": "pic.x.com/uNte5YPez8",
+          "end": 101,
+          "expanded_url": "https://x.com/xradgo/status/2079923130014064811/video/1",
+          "media_key": "3_2079922717017636864",
+          "start": 78,
+          "url": "https://t.co/uNte5YPez8"
+        },
+        {
+          "display_url": "pic.x.com/uNte5YPez8",
+          "end": 101,
+          "expanded_url": "https://x.com/xradgo/status/2079923130014064811/video/1",
+          "media_key": "13_2079922717026054144",
+          "start": 78,
+          "url": "https://t.co/uNte5YPez8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081020257196560460",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079923130014064811",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xradgo: 我是江乌冬 坐标天津北京和上海 接任何线下\n详情请看图谢谢泥 喜欢我可以入门 我比较恋爱脑和缺爱 对我好的人招招手我就摇尾巴过去了 https://t.co/uNte5YPez8"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18272,
+        "height": 1280,
+        "media_key": "13_2079922979891486720",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079922979891486720/img/50TRZFeaV5bPBUhU.jpg",
+        "public_metrics": {
+          "view_count": 223
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079922979891486720/vid/avc1/320x568/GYcEoM5Fkv7sxbuR.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079922979891486720/vid/avc1/480x852/Zw6Qw-3ZJVON7mD6.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079922979891486720/vid/avc1/720x1280/IrahapWLhOzx56SL.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079922979891486720/pl/7TUpw9y--JG8fnLC.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2079922717034455040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1esPUaoAACFU0.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1828,
+        "media_key": "3_2079922717017636864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1esPQaAAAPSHw.jpg",
+        "width": 1320
+      },
+      {
+        "duration_ms": 9199,
+        "height": 1280,
+        "media_key": "13_2079922717026054144",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079922717026054144/img/o_hoRqV5KAxSdbIw.jpg",
+        "public_metrics": {
+          "view_count": 31
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079922717026054144/vid/avc1/320x568/ZBKtW5Y2FA8KZ6Y2.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079922717026054144/vid/avc1/480x852/E4pyNXcWhFP6Ja-s.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079922717026054144/vid/avc1/720x1280/Lfqfmy6AIuKfwvKp.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079922717026054144/pl/-0QCPuedHYrdBH5r.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079922979891486720",
+            "3_2079922717034455040",
+            "3_2079922717017636864",
+            "13_2079922717026054144"
+          ]
+        },
+        "author_id": "2079637338591010816",
+        "conversation_id": "2079923130014064811",
+        "created_at": "2026-07-22T13:34:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T14:34:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079923130014064811"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uNte5YPez8",
+              "end": 89,
+              "expanded_url": "https://x.com/xradgo/status/2079923130014064811/video/1",
+              "media_key": "13_2079922979891486720",
+              "start": 66,
+              "url": "https://t.co/uNte5YPez8"
+            },
+            {
+              "display_url": "pic.x.com/uNte5YPez8",
+              "end": 89,
+              "expanded_url": "https://x.com/xradgo/status/2079923130014064811/video/1",
+              "media_key": "3_2079922717034455040",
+              "start": 66,
+              "url": "https://t.co/uNte5YPez8"
+            },
+            {
+              "display_url": "pic.x.com/uNte5YPez8",
+              "end": 89,
+              "expanded_url": "https://x.com/xradgo/status/2079923130014064811/video/1",
+              "media_key": "3_2079922717017636864",
+              "start": 66,
+              "url": "https://t.co/uNte5YPez8"
+            },
+            {
+              "display_url": "pic.x.com/uNte5YPez8",
+              "end": 89,
+              "expanded_url": "https://x.com/xradgo/status/2079923130014064811/video/1",
+              "media_key": "13_2079922717026054144",
+              "start": 66,
+              "url": "https://t.co/uNte5YPez8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079923130014064811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 759,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我是江乌冬 坐标天津北京和上海 接任何线下\n详情请看图谢谢泥 喜欢我可以入门 我比较恋爱脑和缺爱 对我好的人招招手我就摇尾巴过去了 https://t.co/uNte5YPez8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079922979891486720",
+            "3_2079922717034455040",
+            "3_2079922717017636864",
+            "13_2079922717026054144"
+          ],
+          "media_source_tweet_id": [
+            "2079923130014064811",
+            "2079923130014064811",
+            "2079923130014064811",
+            "2079923130014064811"
+          ]
+        },
+        "author_id": "2047425753227333632",
+        "conversation_id": "2081020257196560460",
+        "created_at": "2026-07-25T14:14:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T15:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081020257196560460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2079637338591010816",
+              "start": 3,
+              "username": "xradgo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uNte5YPez8",
+              "end": 101,
+              "expanded_url": "https://x.com/xradgo/status/2079923130014064811/video/1",
+              "media_key": "13_2079922979891486720",
+              "start": 78,
+              "url": "https://t.co/uNte5YPez8"
+            },
+            {
+              "display_url": "pic.x.com/uNte5YPez8",
+              "end": 101,
+              "expanded_url": "https://x.com/xradgo/status/2079923130014064811/video/1",
+              "media_key": "3_2079922717034455040",
+              "start": 78,
+              "url": "https://t.co/uNte5YPez8"
+            },
+            {
+              "display_url": "pic.x.com/uNte5YPez8",
+              "end": 101,
+              "expanded_url": "https://x.com/xradgo/status/2079923130014064811/video/1",
+              "media_key": "3_2079922717017636864",
+              "start": 78,
+              "url": "https://t.co/uNte5YPez8"
+            },
+            {
+              "display_url": "pic.x.com/uNte5YPez8",
+              "end": 101,
+              "expanded_url": "https://x.com/xradgo/status/2079923130014064811/video/1",
+              "media_key": "13_2079922717026054144",
+              "start": 78,
+              "url": "https://t.co/uNte5YPez8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081020257196560460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079923130014064811",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xradgo: 我是江乌冬 坐标天津北京和上海 接任何线下\n详情请看图谢谢泥 喜欢我可以入门 我比较恋爱脑和缺爱 对我好的人招招手我就摇尾巴过去了 https://t.co/uNte5YPez8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 加联系方式🚪188纯绿互关不需要喵 | 只跟同类互fo 直fo是因为喜欢你呀 |永远怀念@yuganbb823",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "yuganbb823"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "name": "为何人生如此悲惨2.0互关巡回",
+        "pinned_tweet_id": "2079370925015715919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 230,
+          "like_count": 1343,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 391
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-21T18:40:14.000Z",
+        "description": "@yhterh  另一个我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 7,
+                "start": 0,
+                "username": "yhterh"
+              }
+            ]
+          }
+        },
+        "id": "2079637338591010816",
+        "name": "我的牙好疼",
+        "pinned_tweet_id": "2079923130014064811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079920892659093504/3DXnoOcb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 2,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 18
+        },
+        "url": "",
+        "username": "xradgo",
+        "verified": true
+      }
+    ]
+  }
+}

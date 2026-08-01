@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079565482278240256"
+      ],
+      "media_source_tweet_id": [
+        "2079565491266531784"
+      ]
+    },
+    "author_id": "2047425753227333632",
+    "conversation_id": "2080991792657203290",
+    "created_at": "2026-07-25T12:21:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T13:21:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080991792657203290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2077000098836545536",
+          "start": 3,
+          "username": "wwwyizhiku"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Nbp7ioCDcy",
+          "end": 64,
+          "expanded_url": "https://x.com/wwwyizhiku/status/2079565491266531784/photo/1",
+          "media_key": "3_2079565482278240256",
+          "start": 41,
+          "url": "https://t.co/Nbp7ioCDcy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080991792657203290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079565491266531784",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wwwyizhiku: 我想 互关…呀 可以 转转…妈，odsh妹我们来 https://t.co/Nbp7ioCDcy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2079565482278240256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNwZycJbwAAq8Rb.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079565482278240256"
+          ]
+        },
+        "author_id": "2077000098836545536",
+        "conversation_id": "2079565491266531784",
+        "created_at": "2026-07-21T13:53:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T14:53:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079565491266531784"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nbp7ioCDcy",
+              "end": 48,
+              "expanded_url": "https://x.com/wwwyizhiku/status/2079565491266531784/photo/1",
+              "media_key": "3_2079565482278240256",
+              "start": 25,
+              "url": "https://t.co/Nbp7ioCDcy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079565491266531784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我想 互关…呀 可以 转转…妈，odsh妹我们来 https://t.co/Nbp7ioCDcy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079565482278240256"
+          ],
+          "media_source_tweet_id": [
+            "2079565491266531784"
+          ]
+        },
+        "author_id": "2047425753227333632",
+        "conversation_id": "2080991792657203290",
+        "created_at": "2026-07-25T12:21:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T13:21:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080991792657203290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2077000098836545536",
+              "start": 3,
+              "username": "wwwyizhiku"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nbp7ioCDcy",
+              "end": 64,
+              "expanded_url": "https://x.com/wwwyizhiku/status/2079565491266531784/photo/1",
+              "media_key": "3_2079565482278240256",
+              "start": 41,
+              "url": "https://t.co/Nbp7ioCDcy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080991792657203290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079565491266531784",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wwwyizhiku: 我想 互关…呀 可以 转转…妈，odsh妹我们来 https://t.co/Nbp7ioCDcy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 加联系方式🚪188纯绿互关不需要喵 | 只跟同类互fo 直fo是因为喜欢你呀 |永远怀念@yuganbb823",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "yuganbb823"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "name": "为何人生如此悲惨2.0互关巡回",
+        "pinned_tweet_id": "2079370925015715919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 243,
+          "like_count": 1286,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 375
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-14T12:04:19.000Z",
+        "description": "kk/哭哭 一只海豹 sh/od内容 努力游出贝加尔湖 互关寻回中…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sealak",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sealak",
+                "start": 0,
+                "url": "https://t.co/mJiD4M1sS9"
+              }
+            ]
+          }
+        },
+        "id": "2077000098836545536",
+        "location": "贝加尔湖畔",
+        "name": "总而言之我哥哥非常非常好",
+        "pinned_tweet_id": "2079565491266531784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077002116032303104/OOsRJMcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 78,
+          "like_count": 409,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 325
+        },
+        "url": "https://t.co/mJiD4M1sS9",
+        "username": "wwwyizhiku",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2079717780694471096",
+    "created_at": "2026-07-22T23:46:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T00:46:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080077059263455446"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1771909316909604864",
+          "start": 0,
+          "username": "HTX_QAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080077059263455446",
+    "in_reply_to_user_id": "1771909316909604864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079717780694471096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HTX_QAQ 是啥呀？我想我想吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2079717780694471096",
+        "created_at": "2026-07-22T23:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T00:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080077059263455446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1771909316909604864",
+              "start": 0,
+              "username": "HTX_QAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080077059263455446",
+        "in_reply_to_user_id": "1771909316909604864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079717780694471096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HTX_QAQ 是啥呀？我想我想吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771909316909604864",
+        "conversation_id": "2079717780694471096",
+        "created_at": "2026-07-21T23:58:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T00:58:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079717780694471096"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079717780694471096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 9649,
+          "like_count": 122,
+          "quote_count": 1,
+          "reply_count": 64,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "发现了个普瑞的升级版 同等剂量下效果是普瑞的25倍！ 现缺少大剂量下的测试！且很容易在拼多多美团上面买到 我查找了下 发现没什么人吃 但确实是升级版普瑞\n\n等快递到了 测一测它！！\n\n目前知道的人并不多 知道的可以评论区打出来 一起交流呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 直fo是因为喜欢你呀 |永远怀念@yuganbb823",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "yuganbb823"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "name": "为何人生如此悲惨2.0互关巡回",
+        "pinned_tweet_id": "2079370925015715919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 9,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 313
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-24T14:38:03.000Z",
+        "description": "07 重抑重焦｜oder｜是个小笨蛋｜🈲政｜互fo｜无雷放心食用｜看心情的药代",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KIKOnb666",
+                "end": 23,
+                "expanded_url": "https://t.me/KIKOnb666",
+                "start": 0,
+                "url": "https://t.co/I1qBUCSlfD"
+              }
+            ]
+          }
+        },
+        "id": "1771909316909604864",
+        "name": "NEKOOOO🍥💻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079718343460970496/wDuU8Hxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 377,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 257
+        },
+        "url": "https://t.co/I1qBUCSlfD",
+        "username": "HTX_QAQ",
+        "verified": true
+      }
+    ]
+  }
+}

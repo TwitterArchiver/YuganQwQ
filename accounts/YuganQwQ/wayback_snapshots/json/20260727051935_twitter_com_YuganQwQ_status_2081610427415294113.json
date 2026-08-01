@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2081610427415294113",
+    "created_at": "2026-07-27T05:19:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T06:19:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081610427415294113"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lxl0102/status…",
+          "end": 68,
+          "expanded_url": "https://twitter.com/lxl0102/status/2080982238431436983",
+          "start": 45,
+          "url": "https://t.co/U6lJAriThX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081610427415294113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080982238431436983",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这两个傻逼快去死吧！！！要不是这群傻逼，天天墙内说什么欧滴这些东西💊根本不会被禁这么快。 https://t.co/U6lJAriThX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080982228864266240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOEiT8da8AAgMN7.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080982228843335680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOEiT8YbkAAysEw.jpg",
+        "width": 942
+      },
+      {
+        "height": 1184,
+        "media_key": "3_2080982228876886016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOEiT8gbgAADBau.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2081610427415294113",
+        "created_at": "2026-07-27T05:19:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T06:19:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081610427415294113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lxl0102/status…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/lxl0102/status/2080982238431436983",
+              "start": 45,
+              "url": "https://t.co/U6lJAriThX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081610427415294113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080982238431436983",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这两个傻逼快去死吧！！！要不是这群傻逼，天天墙内说什么欧滴这些东西💊根本不会被禁这么快。 https://t.co/U6lJAriThX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080982228864266240",
+            "3_2080982228843335680",
+            "3_2080982228876886016"
+          ]
+        },
+        "author_id": "1680544465671561216",
+        "conversation_id": "2080982238431436983",
+        "created_at": "2026-07-25T11:43:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T12:43:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080982238431436983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fg17UxGgsJ",
+              "end": 43,
+              "expanded_url": "https://x.com/LXL0102/status/2080982238431436983/photo/1",
+              "media_key": "3_2080982228864266240",
+              "start": 20,
+              "url": "https://t.co/fg17UxGgsJ"
+            },
+            {
+              "display_url": "pic.x.com/fg17UxGgsJ",
+              "end": 43,
+              "expanded_url": "https://x.com/LXL0102/status/2080982238431436983/photo/1",
+              "media_key": "3_2080982228843335680",
+              "start": 20,
+              "url": "https://t.co/fg17UxGgsJ"
+            },
+            {
+              "display_url": "pic.x.com/fg17UxGgsJ",
+              "end": 43,
+              "expanded_url": "https://x.com/LXL0102/status/2080982238431436983/photo/1",
+              "media_key": "3_2080982228876886016",
+              "start": 20,
+              "url": "https://t.co/fg17UxGgsJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080982238431436983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 181,
+          "impression_count": 1080050,
+          "like_count": 4768,
+          "quote_count": 73,
+          "reply_count": 909,
+          "retweet_count": 153
+        },
+        "reply_settings": "everyone",
+        "text": "一滴泪吉他张这帮傻逼终于要被封杀了🎉🎉 https://t.co/fg17UxGgsJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 加联系方式🚪188纯绿互关不需要喵 | 只跟同类互fo 直fo是因为喜欢你呀 |永远怀念@yuganbb823",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "yuganbb823"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "name": "为何人生如此悲惨2.0互关巡回",
+        "pinned_tweet_id": "2079370925015715919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 239,
+          "like_count": 1568,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 421
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학생🇰🇷 ||‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定||有男友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "https://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/k0zhGfMQFx"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "2044418589713973522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077418787192942592/nebR4rXo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2148,
+          "following_count": 375,
+          "like_count": 1696,
+          "listed_count": 4,
+          "media_count": 480,
+          "tweet_count": 3611
+        },
+        "url": "https://t.co/k0zhGfMQFx",
+        "username": "LXL0102",
+        "verified": false
+      }
+    ]
+  }
+}

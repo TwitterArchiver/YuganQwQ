@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2080230040940458423",
+    "created_at": "2026-07-23T12:18:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T13:18:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080266296642420886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2053121178437349379",
+          "start": 0,
+          "username": "mikuwppp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080266296642420886",
+    "in_reply_to_user_id": "2053121178437349379",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080230040940458423",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mikuwppp 哎呀萌死了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080230029683015680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN52MMJbQAAfEKq.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2080230040940458423",
+        "created_at": "2026-07-23T12:18:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T13:18:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080266296642420886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2053121178437349379",
+              "start": 0,
+              "username": "mikuwppp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080266296642420886",
+        "in_reply_to_user_id": "2053121178437349379",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080230040940458423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikuwppp 哎呀萌死了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080230029683015680"
+          ]
+        },
+        "author_id": "2053121178437349379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2080230040940458423",
+        "created_at": "2026-07-23T09:54:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T10:54:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080230040940458423"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZpVF00k0ww",
+              "end": 23,
+              "expanded_url": "https://x.com/mikuwppp/status/2080230040940458423/photo/1",
+              "media_key": "3_2080230029683015680",
+              "start": 0,
+              "url": "https://t.co/ZpVF00k0ww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080230040940458423",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ZpVF00k0ww"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 加联系方式🚪188纯绿互关不需要喵 | 只跟同类互fo 直fo是因为喜欢你呀 |永远怀念@yuganbb823",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "yuganbb823"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "name": "为何人生如此悲惨2.0互关巡回",
+        "pinned_tweet_id": "2079370925015715919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 206,
+          "like_count": 1186,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 366
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-09T14:33:56.000Z",
+        "description": "09 地雷系 餐券",
+        "id": "2053121178437349379",
+        "name": "小樱（找苏友）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080157392012976128/sEAfL-vk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 82,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 31
+        },
+        "url": "",
+        "username": "mikuwppp",
+        "verified": false
+      }
+    ]
+  }
+}

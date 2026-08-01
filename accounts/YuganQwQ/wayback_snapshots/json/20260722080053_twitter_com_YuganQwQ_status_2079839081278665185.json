@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2079402980764238231",
+    "created_at": "2026-07-22T08:00:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T09:00:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079839081278665185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1667904327791579136",
+          "start": 0,
+          "username": "Suzi_NB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079839081278665185",
+    "in_reply_to_user_id": "1667904327791579136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079505265716797824",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Suzi_NB 干嘛！！！我就是不能在朋友圈发这些话才发推特的！！而且我当朋友圈发怎又么啦🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2079402980764238231",
+        "created_at": "2026-07-22T08:00:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T09:00:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079839081278665185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1667904327791579136",
+              "start": 0,
+              "username": "Suzi_NB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079839081278665185",
+        "in_reply_to_user_id": "1667904327791579136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079505265716797824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Suzi_NB 干嘛！！！我就是不能在朋友圈发这些话才发推特的！！而且我当朋友圈发怎又么啦🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667904327791579136",
+        "conversation_id": "2079402980764238231",
+        "created_at": "2026-07-21T09:54:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T10:54:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079505265716797824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2047425753227333632",
+              "start": 0,
+              "username": "YuganQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079505265716797824",
+        "in_reply_to_user_id": "2047425753227333632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079402980764238231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuganQwQ 当朋友圈了是吧！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 直fo是因为喜欢你呀 |永远怀念@yuganbb823",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "yuganbb823"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "name": "为何人生如此悲惨2.0互关巡回",
+        "pinned_tweet_id": "2079370925015715919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 170,
+          "like_count": 800,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 300
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-11T14:39:24.000Z",
+        "description": "好看，爱看！",
+        "id": "1667904327791579136",
+        "name": "Suzi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1667921858610724869/H1zEy89__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 4,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 12
+        },
+        "url": "",
+        "username": "Suzi_NB",
+        "verified": false
+      }
+    ]
+  }
+}

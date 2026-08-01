@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2078533939531337864",
+    "created_at": "2026-07-21T01:02:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T02:02:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079371302893130221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2059212406451240960",
+          "start": 0,
+          "username": "Cxq6666"
+        },
+        {
+          "end": 21,
+          "id": "2046117898377379840",
+          "start": 9,
+          "username": "kawaii_imai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079371302893130221",
+    "in_reply_to_user_id": "2059212406451240960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078533939531337864",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cxq6666 @kawaii_imai 喵喵喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2078533939531337864",
+        "created_at": "2026-07-21T01:02:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T02:02:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079371302893130221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2059212406451240960",
+              "start": 0,
+              "username": "Cxq6666"
+            },
+            {
+              "end": 21,
+              "id": "2046117898377379840",
+              "start": 9,
+              "username": "kawaii_imai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079371302893130221",
+        "in_reply_to_user_id": "2059212406451240960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078533939531337864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cxq6666 @kawaii_imai 喵喵喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2078533939531337864",
+        "created_at": "2026-07-18T17:34:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T18:34:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078533939531337864"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078533939531337864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1405,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "我的妈呀，我竟然要100fo了！？\n我也入乡随俗搞个抽奖喵\n\n一等奖：泡面先生麻酱火鸡面10袋*1（可折现）因为我爱吃\n\n二等奖：15r*1\n\n三等奖：5.2r*3\n\n转发关注加评论参与抽奖好吗\n（参与的人太少会偷偷删掉）\n*本人此状态为哦pr哦大了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 直fo是因为喜欢你呀 |大号@yuganbb823",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 42,
+                "username": "yuganbb823"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "name": "为何人生如此悲惨",
+        "pinned_tweet_id": "2066065259992060192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 76,
+          "like_count": 455,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 179
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "description": "19｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "id": "2059212406451240960",
+        "location": "浙江",
+        "name": "小清分享普瑞巴林不好体验",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 91,
+          "like_count": 243,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 364
+        },
+        "url": "",
+        "username": "Cxq6666",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-20T06:46:12.000Z",
+        "description": "=小兰/07/🔪💊/🚪52/纯绿无线下/女孩子们请直接来找我扩列💞/同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lan33806",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lan33806",
+                "start": 0,
+                "url": "https://t.co/8Zf5ovcSut"
+              }
+            ]
+          }
+        },
+        "id": "2046117898377379840",
+        "name": "兰",
+        "pinned_tweet_id": "2068638722082709781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046118655868768256/mRYfjUzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 292,
+          "like_count": 1399,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 412
+        },
+        "url": "https://t.co/8Zf5ovcSut",
+        "username": "kawaii_imai",
+        "verified": false
+      }
+    ]
+  }
+}

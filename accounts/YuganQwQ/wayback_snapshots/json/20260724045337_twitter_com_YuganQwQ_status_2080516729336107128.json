@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2080516729336107128",
+    "created_at": "2026-07-24T04:53:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T05:53:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080516729336107128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1866405144193310720",
+          "start": 3,
+          "username": "123456lesbian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080516729336107128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 331
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080111586824638600",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @123456lesbian: 有些男同能不能不要再把屁眼叫做逼了…刷到一个视频，文案写着什么肉感馒头逼，网慢视频画面还没加载出来，由于实在太想看馒头逼所以一直坚持不懈的等待，视频加载出来，是个屁眼，还是个周围一圈像泡水里死了三天已经浮囊了烂了的突出来的屁眼，你他妈管这叫…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2080516729336107128",
+        "created_at": "2026-07-24T04:53:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T05:53:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080516729336107128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1866405144193310720",
+              "start": 3,
+              "username": "123456lesbian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080516729336107128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 331
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080111586824638600",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @123456lesbian: 有些男同能不能不要再把屁眼叫做逼了…刷到一个视频，文案写着什么肉感馒头逼，网慢视频画面还没加载出来，由于实在太想看馒头逼所以一直坚持不懈的等待，视频加载出来，是个屁眼，还是个周围一圈像泡水里死了三天已经浮囊了烂了的突出来的屁眼，你他妈管这叫…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866405144193310720",
+        "conversation_id": "2080111586824638600",
+        "created_at": "2026-07-23T02:03:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T03:03:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080111586824638600"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080111586824638600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 243,
+          "impression_count": 442729,
+          "like_count": 10044,
+          "quote_count": 80,
+          "reply_count": 898,
+          "retweet_count": 331
+        },
+        "reply_settings": "everyone",
+        "text": "有些男同能不能不要再把屁眼叫做逼了…刷到一个视频，文案写着什么肉感馒头逼，网慢视频画面还没加载出来，由于实在太想看馒头逼所以一直坚持不懈的等待，视频加载出来，是个屁眼，还是个周围一圈像泡水里死了三天已经浮囊了烂了的突出来的屁眼，你他妈管这叫肉感馒头逼，我等了那么久你他妈对得起我吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 加联系方式🚪188纯绿互关不需要喵 | 只跟同类互fo 直fo是因为喜欢你呀 |永远怀念@yuganbb823",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "yuganbb823"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "name": "为何人生如此悲惨2.0互关巡回",
+        "pinned_tweet_id": "2079370925015715919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 229,
+          "like_count": 1258,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 376
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-10T08:50:50.000Z",
+        "description": "🌈les 记录跟女友妹的恋爱日常以及碎碎念，发布内容纯属小情侣的情趣，不约，男的私信我死爹，别来烦我行不行，接推广",
+        "id": "1866405144193310720",
+        "location": "未知",
+        "name": "保证只对你坏",
+        "pinned_tweet_id": "1995422235214119054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031782763335237632/_aSWEtWm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6035,
+          "following_count": 24,
+          "like_count": 448,
+          "listed_count": 7,
+          "media_count": 34,
+          "tweet_count": 314
+        },
+        "url": "",
+        "username": "123456lesbian",
+        "verified": false
+      }
+    ]
+  }
+}

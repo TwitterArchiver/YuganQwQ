@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2080518641909391438",
+    "created_at": "2026-07-24T05:01:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T06:01:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080518641909391438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2070535590194655233",
+          "start": 3,
+          "username": "11pmhg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080518641909391438",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080285143265312789",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @11pmhg: 傻逼我自残没说痛，你说我割的是你生的肉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2080518641909391438",
+        "created_at": "2026-07-24T05:01:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T06:01:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080518641909391438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2070535590194655233",
+              "start": 3,
+              "username": "11pmhg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080518641909391438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080285143265312789",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @11pmhg: 傻逼我自残没说痛，你说我割的是你生的肉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070535590194655233",
+        "conversation_id": "2080285143265312789",
+        "created_at": "2026-07-23T13:33:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T14:33:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080285143265312789"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080285143265312789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "傻逼我自残没说痛，你说我割的是你生的肉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 加联系方式🚪188纯绿互关不需要喵 | 只跟同类互fo 直fo是因为喜欢你呀 |永远怀念@yuganbb823",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "yuganbb823"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "name": "为何人生如此悲惨2.0互关巡回",
+        "pinned_tweet_id": "2079370925015715919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 229,
+          "like_count": 1282,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 377
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-26T15:52:54.000Z",
+        "description": "电瓶车又被封了，我有精神病，有血负面文，来互fo",
+        "id": "2070535590194655233",
+        "location": "电瓶车上",
+        "name": "电瓶车3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080114070276153344/k1a-L4t2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 64,
+          "like_count": 104,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 31
+        },
+        "url": "",
+        "username": "11pmhg",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079410971047841793"
+      ],
+      "media_source_tweet_id": [
+        "2079410978920562935"
+      ]
+    },
+    "author_id": "2047425753227333632",
+    "conversation_id": "2079497154985337067",
+    "created_at": "2026-07-21T09:22:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T10:22:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079497154985337067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1729241207946313728",
+          "start": 3,
+          "username": "1sellmyself3ks"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1vpun4dqhz",
+          "end": 96,
+          "expanded_url": "https://x.com/1sellmyself3ks/status/2079410978920562935/photo/1",
+          "media_key": "3_2079410971047841793",
+          "start": 73,
+          "url": "https://t.co/1vpun4dqhz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079497154985337067",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079410978920562935",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1sellmyself3ks: 家人们家人们我又被封了\n即将秽土转生天逆每3.0.0.0.0.0\n眼熟的互关们麻烦转转好处大大的油www https://t.co/1vpun4dqhz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079410971047841793",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNuNQs9bUAEMJ0h.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079410971047841793"
+          ]
+        },
+        "author_id": "1729241207946313728",
+        "conversation_id": "2079410978920562935",
+        "created_at": "2026-07-21T03:39:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T04:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079410978920562935"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1vpun4dqhz",
+              "end": 76,
+              "expanded_url": "https://x.com/1sellmyself3ks/status/2079410978920562935/photo/1",
+              "media_key": "3_2079410971047841793",
+              "start": 53,
+              "url": "https://t.co/1vpun4dqhz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079410978920562935",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 588,
+          "like_count": 6,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "家人们家人们我又被封了\n即将秽土转生天逆每3.0.0.0.0.0\n眼熟的互关们麻烦转转好处大大的油www https://t.co/1vpun4dqhz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079410971047841793"
+          ],
+          "media_source_tweet_id": [
+            "2079410978920562935"
+          ]
+        },
+        "author_id": "2047425753227333632",
+        "conversation_id": "2079497154985337067",
+        "created_at": "2026-07-21T09:22:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T10:22:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079497154985337067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1729241207946313728",
+              "start": 3,
+              "username": "1sellmyself3ks"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1vpun4dqhz",
+              "end": 96,
+              "expanded_url": "https://x.com/1sellmyself3ks/status/2079410978920562935/photo/1",
+              "media_key": "3_2079410971047841793",
+              "start": 73,
+              "url": "https://t.co/1vpun4dqhz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079497154985337067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079410978920562935",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @1sellmyself3ks: 家人们家人们我又被封了\n即将秽土转生天逆每3.0.0.0.0.0\n眼熟的互关们麻烦转转好处大大的油www https://t.co/1vpun4dqhz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 直fo是因为喜欢你呀 |永远怀念@yuganbb823",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "yuganbb823"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "name": "为何人生如此悲惨2.0",
+        "pinned_tweet_id": "2079370925015715919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 138,
+          "like_count": 676,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 244
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-27T20:50:15.000Z",
+        "description": "亲自秽土转生中",
+        "id": "1729241207946313728",
+        "location": "上海🚪50过门发课表喵",
+        "name": "天逆每三代目",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079423245577748480/OXVPxOKZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 53,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 12
+        },
+        "url": "",
+        "username": "1sellmyself3ks",
+        "verified": false
+      }
+    ]
+  }
+}

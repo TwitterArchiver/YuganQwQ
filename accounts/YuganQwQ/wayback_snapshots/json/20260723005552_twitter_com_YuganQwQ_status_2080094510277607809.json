@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2079956542657581284",
+    "created_at": "2026-07-23T00:55:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T01:55:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080094510277607809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2014672546172698627",
+          "start": 0,
+          "username": "LDeng78395"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080094510277607809",
+    "in_reply_to_user_id": "2014672546172698627",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079956542657581284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LDeng78395 电瓶车人家换号了可以跟我互相fo吗喵喵喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2079956542657581284",
+        "created_at": "2026-07-23T00:55:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T01:55:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080094510277607809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2014672546172698627",
+              "start": 0,
+              "username": "LDeng78395"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080094510277607809",
+        "in_reply_to_user_id": "2014672546172698627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079956542657581284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LDeng78395 电瓶车人家换号了可以跟我互相fo吗喵喵喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014672546172698627",
+        "conversation_id": "2079956542657581284",
+        "created_at": "2026-07-22T15:47:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T16:47:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079956542657581284"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079956542657581284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 158,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "割手被骂\n被骂割手\n割手被骂\n被骂割手"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 直fo是因为喜欢你呀 |永远怀念@yuganbb823我的号不知道怎么了显示我的关注人只有几个，但是我从来没有取关过任何人。。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "yuganbb823"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "name": "为何人生如此悲惨2.0互关巡回",
+        "pinned_tweet_id": "2079370925015715919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 13,
+          "like_count": 269,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 337
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-23T12:12:34.000Z",
+        "description": "叫啥都行啥都有🩸。原号被封我只是孩子。含负能量碎碎念随便吧，不是跨不是直不是弯我是个女乐乐",
+        "id": "2014672546172698627",
+        "location": "地狱",
+        "name": "电瓶车陨落",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064507994625445888/dz1BFtB8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 102,
+          "like_count": 949,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 174
+        },
+        "url": "",
+        "username": "LDeng78395",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2080089548311187578",
+    "created_at": "2026-07-23T00:36:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T01:36:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080089548311187578"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lll_libujin/st…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/lll_libujin/status/2079739019139932570",
+          "start": 35,
+          "url": "https://t.co/RTft72vdvw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080089548311187578",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079739019139932570",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "以前的厕妹好多都重开了吧。。现在厕所都是健全逼萌萌人装温良我都懒得看 https://t.co/RTft72vdvw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2080089548311187578",
+        "created_at": "2026-07-23T00:36:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T01:36:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080089548311187578"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lll_libujin/st…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/lll_libujin/status/2079739019139932570",
+              "start": 35,
+              "url": "https://t.co/RTft72vdvw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080089548311187578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079739019139932570",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "以前的厕妹好多都重开了吧。。现在厕所都是健全逼萌萌人装温良我都懒得看 https://t.co/RTft72vdvw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780055196460048385",
+        "conversation_id": "2079739019139932570",
+        "created_at": "2026-07-22T01:23:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T02:23:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079739019139932570"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079739019139932570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 18013,
+          "like_count": 353,
+          "quote_count": 5,
+          "reply_count": 49,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "以前厕妹接爸爸活圆角od割手不是很常见的吗 怎么现在谈及都跟碰到鬼了一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 直fo是因为喜欢你呀 |永远怀念@yuganbb823我的号不知道怎么了显示我的关注人只有几个，但是我从来没有取关过任何人。。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "yuganbb823"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "name": "为何人生如此悲惨2.0互关巡回",
+        "pinned_tweet_id": "2079370925015715919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 12,
+          "like_count": 166,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 328
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "Amor Fati.",
+        "id": "1780055196460048385",
+        "location": "Welcome to Apocalypse.",
+        "name": "理不尽",
+        "pinned_tweet_id": "2072034532090601722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 352,
+          "like_count": 6819,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 1455
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false
+      }
+    ]
+  }
+}

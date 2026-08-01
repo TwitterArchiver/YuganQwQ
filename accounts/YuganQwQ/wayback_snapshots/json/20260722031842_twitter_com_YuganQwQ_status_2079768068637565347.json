@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079491528557543424"
+      ],
+      "media_source_tweet_id": [
+        "2079491542772019510"
+      ]
+    },
+    "author_id": "2047425753227333632",
+    "conversation_id": "2079768068637565347",
+    "created_at": "2026-07-22T03:18:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T04:18:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079768068637565347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1678171777409875968",
+          "start": 3,
+          "username": "420420420CTL"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3RyGt3dLGU",
+          "end": 104,
+          "expanded_url": "https://x.com/420420420CTL/status/2079491542772019510/photo/1",
+          "media_key": "3_2079491528557543424",
+          "start": 81,
+          "url": "https://t.co/3RyGt3dLGU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079768068637565347",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079491542772019510",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @420420420CTL: 杭州空投10，点赞评论转发 ,发送给@caidantu_420，7月23日 22:00开奖 （仅限x有50个以上关注者参加） https://t.co/3RyGt3dLGU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1334,
+        "media_key": "3_2079491528557543424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNvWhxEbQAA0XBb.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079491528557543424"
+          ]
+        },
+        "author_id": "1678171777409875968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2079491542772019510",
+        "created_at": "2026-07-21T08:59:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T09:59:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079491542772019510"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3RyGt3dLGU",
+              "end": 86,
+              "expanded_url": "https://x.com/420420420CTL/status/2079491542772019510/photo/1",
+              "media_key": "3_2079491528557543424",
+              "start": 63,
+              "url": "https://t.co/3RyGt3dLGU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079491542772019510",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1983,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 54,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "杭州空投10，点赞评论转发 ,发送给@caidantu_420，7月23日 22:00开奖 （仅限x有50个以上关注者参加） https://t.co/3RyGt3dLGU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079491528557543424"
+          ],
+          "media_source_tweet_id": [
+            "2079491542772019510"
+          ]
+        },
+        "author_id": "2047425753227333632",
+        "conversation_id": "2079768068637565347",
+        "created_at": "2026-07-22T03:18:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T04:18:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079768068637565347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1678171777409875968",
+              "start": 3,
+              "username": "420420420CTL"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3RyGt3dLGU",
+              "end": 104,
+              "expanded_url": "https://x.com/420420420CTL/status/2079491542772019510/photo/1",
+              "media_key": "3_2079491528557543424",
+              "start": 81,
+              "url": "https://t.co/3RyGt3dLGU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079768068637565347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079491542772019510",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @420420420CTL: 杭州空投10，点赞评论转发 ,发送给@caidantu_420，7月23日 22:00开奖 （仅限x有50个以上关注者参加） https://t.co/3RyGt3dLGU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 直fo是因为喜欢你呀 |永远怀念@yuganbb823",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "yuganbb823"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "name": "为何人生如此悲惨2.0",
+        "pinned_tweet_id": "2079370925015715919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 157,
+          "like_count": 789,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 296
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-09T22:38:41.000Z",
+        "description": "支持亞洲大麻合法化，大麻除罪，正視醫療大麻用途，MTF🏳️‍⚧️🏳️‍🌈LGBTQ友好🧑‍🤝‍🧑👭只有x和谷歌電郵聯繫方式，會回私信，社群：https://t.co/YwMarw2XdU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/i/communities/…",
+                "end": 93,
+                "expanded_url": "https://x.com/i/communities/2002034506979750304",
+                "start": 70,
+                "url": "https://t.co/YwMarw2XdU"
+              }
+            ]
+          }
+        },
+        "id": "1678171777409875968",
+        "location": "Los Angeles, CA",
+        "name": "邦尼兔weed_420（大麻/電子煙）",
+        "pinned_tweet_id": "2056029691916713996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018807810830770177/xgp8x96H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4532,
+          "following_count": 705,
+          "like_count": 667,
+          "listed_count": 0,
+          "media_count": 197,
+          "tweet_count": 1146
+        },
+        "url": "",
+        "username": "420420420CTL",
+        "verified": true
+      }
+    ]
+  }
+}

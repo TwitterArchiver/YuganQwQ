@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2079370925015715919",
+    "created_at": "2026-07-21T09:25:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T10:25:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079497876225327140"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2079497876225327140",
+    "in_reply_to_user_id": "2047425753227333632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079370925015715919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我竟然把我竟然会忘记把我的那个赞赏码放上去"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079370893969534979",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNtoz6NXMAMx75v.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2079370893986312192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNtoz6RXMAAYtD1.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2079370893998845952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNtoz6UWcAA5xk4.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2079370893990547456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNtoz6SX0AAfend.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2079370925015715919",
+        "created_at": "2026-07-21T09:25:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T10:25:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079497876225327140"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079497876225327140",
+        "in_reply_to_user_id": "2047425753227333632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079370925015715919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我竟然把我竟然会忘记把我的那个赞赏码放上去"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079370893969534979",
+            "3_2079370893986312192",
+            "3_2079370893998845952",
+            "3_2079370893990547456"
+          ]
+        },
+        "author_id": "2047425753227333632",
+        "conversation_id": "2079370925015715919",
+        "created_at": "2026-07-21T01:00:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T02:00:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079370925015715919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 92,
+              "id": "1619331344705916931",
+              "start": 80,
+              "username": "Mikasuda765"
+            },
+            {
+              "end": 104,
+              "id": "2053298751863676935",
+              "start": 93,
+              "username": "Xiaohutysd"
+            },
+            {
+              "end": 119,
+              "id": "1826281483675299840",
+              "start": 105,
+              "username": "ci_shang85157"
+            },
+            {
+              "end": 129,
+              "id": "2058593205067841536",
+              "start": 120,
+              "username": "mndfu1s7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HJkIAlmIQx",
+              "end": 153,
+              "expanded_url": "https://x.com/YuganQwQ/status/2079370925015715919/photo/1",
+              "media_key": "3_2079370893969534979",
+              "start": 130,
+              "url": "https://t.co/HJkIAlmIQx"
+            },
+            {
+              "display_url": "pic.x.com/HJkIAlmIQx",
+              "end": 153,
+              "expanded_url": "https://x.com/YuganQwQ/status/2079370925015715919/photo/1",
+              "media_key": "3_2079370893986312192",
+              "start": 130,
+              "url": "https://t.co/HJkIAlmIQx"
+            },
+            {
+              "display_url": "pic.x.com/HJkIAlmIQx",
+              "end": 153,
+              "expanded_url": "https://x.com/YuganQwQ/status/2079370925015715919/photo/1",
+              "media_key": "3_2079370893998845952",
+              "start": 130,
+              "url": "https://t.co/HJkIAlmIQx"
+            },
+            {
+              "display_url": "pic.x.com/HJkIAlmIQx",
+              "end": 153,
+              "expanded_url": "https://x.com/YuganQwQ/status/2079370925015715919/photo/1",
+              "media_key": "3_2079370893990547456",
+              "start": 130,
+              "url": "https://t.co/HJkIAlmIQx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079370925015715919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 481,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "置顶🔝\n爸爸妈妈们帮我转转助力我寻回前世互关\n我是鱼干 前世被贱人所害，永久封号了\n互关回家……直fo是暗恋你\nod餐券🔪我这辈子再也不会发🩸在这了\n我的杯子们@Mikasuda765 @Xiaohutysd @ci_shang85157 @mndfu1s7 https://t.co/HJkIAlmIQx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 直fo是因为喜欢你呀 |永远怀念@yuganbb823",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "yuganbb823"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "name": "为何人生如此悲惨2.0",
+        "pinned_tweet_id": "2079370925015715919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 138,
+          "like_count": 677,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 247
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

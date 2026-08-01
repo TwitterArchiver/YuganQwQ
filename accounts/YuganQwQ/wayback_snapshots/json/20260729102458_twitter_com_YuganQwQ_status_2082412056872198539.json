@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078161143198343168"
+      ],
+      "media_source_tweet_id": [
+        "2078161146008481858"
+      ]
+    },
+    "author_id": "2047425753227333632",
+    "conversation_id": "2082412056872198539",
+    "created_at": "2026-07-29T10:24:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T11:24:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082412056872198539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1881818955859509248",
+          "start": 3,
+          "username": "KanA_e316"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QRMK9dD1MP",
+          "end": 38,
+          "expanded_url": "https://x.com/KanA_e316/status/2078161146008481858/photo/1",
+          "media_key": "3_2078161143198343168",
+          "start": 15,
+          "url": "https://t.co/QRMK9dD1MP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082412056872198539",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078161146008481858",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KanA_e316: https://t.co/QRMK9dD1MP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078161143198343168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNccjJZbYAAaEu6.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078161143198343168"
+          ]
+        },
+        "author_id": "1881818955859509248",
+        "conversation_id": "2078161146008481858",
+        "created_at": "2026-07-17T16:53:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T17:53:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078161146008481858"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QRMK9dD1MP",
+              "end": 23,
+              "expanded_url": "https://x.com/KanA_e316/status/2078161146008481858/photo/1",
+              "media_key": "3_2078161143198343168",
+              "start": 0,
+              "url": "https://t.co/QRMK9dD1MP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078161146008481858",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3239,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/QRMK9dD1MP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078161143198343168"
+          ],
+          "media_source_tweet_id": [
+            "2078161146008481858"
+          ]
+        },
+        "author_id": "2047425753227333632",
+        "conversation_id": "2082412056872198539",
+        "created_at": "2026-07-29T10:24:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T11:24:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082412056872198539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1881818955859509248",
+              "start": 3,
+              "username": "KanA_e316"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QRMK9dD1MP",
+              "end": 38,
+              "expanded_url": "https://x.com/KanA_e316/status/2078161146008481858/photo/1",
+              "media_key": "3_2078161143198343168",
+              "start": 15,
+              "url": "https://t.co/QRMK9dD1MP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082412056872198539",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078161146008481858",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KanA_e316: https://t.co/QRMK9dD1MP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 加联系方式🚪188纯绿互关不需要喵 | 只跟同类互fo 直fo是因为喜欢你呀 |永远怀念@yuganbb823",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "yuganbb823"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "name": "为何人生如此悲惨2.0互关巡回",
+        "pinned_tweet_id": "2079370925015715919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 238,
+          "like_count": 1617,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 428
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-21T21:39:47.000Z",
+        "description": "追寻快乐，也追寻痛苦。\n❤️穿孔/分舌/人体改造/蛇蜈蚣马陆/纹身/伤痕\nig：https://t.co/zS7vPQQVMv\n📮：https://t.co/A4aSGsM9PL\n喜欢我请🚪88",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kana_e316?igsh…",
+                "end": 63,
+                "expanded_url": "https://www.instagram.com/kana_e316?igsh=bjByb3d3cWpkbnJz",
+                "start": 40,
+                "url": "https://t.co/zS7vPQQVMv"
+              },
+              {
+                "display_url": "ngl.link/kanaeee90929",
+                "end": 89,
+                "expanded_url": "https://ngl.link/kanaeee90929",
+                "start": 66,
+                "url": "https://t.co/A4aSGsM9PL"
+              }
+            ]
+          }
+        },
+        "id": "1881818955859509248",
+        "name": "Kanae",
+        "pinned_tweet_id": "2078161146008481858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077937777455611904/cpb_v8yG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 34,
+          "like_count": 3240,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 175
+        },
+        "url": "",
+        "username": "KanA_e316",
+        "verified": false
+      }
+    ]
+  }
+}

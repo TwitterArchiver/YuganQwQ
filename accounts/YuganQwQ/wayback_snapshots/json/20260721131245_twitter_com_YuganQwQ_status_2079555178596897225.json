@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2079516036882133060",
+    "created_at": "2026-07-21T13:12:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T14:12:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079555178596897225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1841626911228780545",
+          "start": 0,
+          "username": "kujou_king"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079555178596897225",
+    "in_reply_to_user_id": "1841626911228780545",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079555086011793713",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kujou_king 我觉得挺好玩的🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2079516036882133060",
+        "created_at": "2026-07-21T13:12:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T14:12:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079555178596897225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1841626911228780545",
+              "start": 0,
+              "username": "kujou_king"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079555178596897225",
+        "in_reply_to_user_id": "1841626911228780545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079555086011793713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kujou_king 我觉得挺好玩的🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841626911228780545",
+        "conversation_id": "2079516036882133060",
+        "created_at": "2026-07-21T13:12:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T14:12:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079555086011793713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2047425753227333632",
+              "start": 0,
+              "username": "YuganQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079555086011793713",
+        "in_reply_to_user_id": "2047425753227333632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079516036882133060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuganQwQ 这个游戏这么好玩吗为什么网上现在都在聊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 直fo是因为喜欢你呀 |永远怀念@yuganbb823",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "yuganbb823"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "name": "为何人生如此悲惨2.0",
+        "pinned_tweet_id": "2079370925015715919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 149,
+          "like_count": 763,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 280
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-02T23:50:53.000Z",
+        "description": "中国人别骂我了，我最喜欢中国人了，女孩都回fo的（请直接告诉我），",
+        "id": "1841626911228780545",
+        "location": "没有🚪不加V不扩列不要问了",
+        "name": "🧸愛莉莎大爱中国猪🍺",
+        "pinned_tweet_id": "1871831076504735759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074828437475430400/3AkBvFn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2570,
+          "following_count": 356,
+          "like_count": 5473,
+          "listed_count": 20,
+          "media_count": 59,
+          "tweet_count": 2289
+        },
+        "url": "",
+        "username": "kujou_king",
+        "verified": false
+      }
+    ]
+  }
+}

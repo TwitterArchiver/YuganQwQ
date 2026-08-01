@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082455253140602880"
+      ]
+    },
+    "author_id": "2047425753227333632",
+    "conversation_id": "2082455268370125271",
+    "created_at": "2026-07-29T13:16:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T14:16:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082455268370125271"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VA1JnMyJbn",
+          "end": 26,
+          "expanded_url": "https://x.com/YuganQwQ/status/2082455268370125271/photo/1",
+          "media_key": "3_2082455253140602880",
+          "start": 3,
+          "url": "https://t.co/VA1JnMyJbn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082455268370125271",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哎呀 https://t.co/VA1JnMyJbn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082455253140602880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZeBPgXgAADL0Z.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082455253140602880"
+          ]
+        },
+        "author_id": "2047425753227333632",
+        "conversation_id": "2082455268370125271",
+        "created_at": "2026-07-29T13:16:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T14:16:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082455268370125271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VA1JnMyJbn",
+              "end": 26,
+              "expanded_url": "https://x.com/YuganQwQ/status/2082455268370125271/photo/1",
+              "media_key": "3_2082455253140602880",
+              "start": 3,
+              "url": "https://t.co/VA1JnMyJbn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082455268370125271",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎呀 https://t.co/VA1JnMyJbn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 加联系方式🚪188纯绿互关不需要喵 | 只跟同类互fo 直fo是因为喜欢你呀 |永远怀念@yuganbb823",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "yuganbb823"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "name": "为何人生如此悲惨2.0互关巡回",
+        "pinned_tweet_id": "2079370925015715919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 245,
+          "like_count": 1652,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 436
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false
+      }
+    ]
+  }
+}
