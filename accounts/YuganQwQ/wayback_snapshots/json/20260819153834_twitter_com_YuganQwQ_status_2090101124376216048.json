@@ -1,0 +1,404 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2090074522661814401",
+    "created_at": "2026-08-19T15:38:34.000Z",
+    "display_text_range": [
+      32,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T16:38:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090101124376216048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1815253637985443840",
+          "start": 0,
+          "username": "HASUMI117"
+        },
+        {
+          "end": 19,
+          "id": "1132729630245265408",
+          "start": 11,
+          "username": "pr80net"
+        },
+        {
+          "end": 31,
+          "id": "357176113",
+          "start": 20,
+          "username": "soobin4869"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090101124376216048",
+    "in_reply_to_user_id": "1815253637985443840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090100804598595897",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HASUMI117 @pr80net @soobin4869 对啊！竟然丢了气死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2090074522661814401",
+        "created_at": "2026-08-19T15:38:34.000Z",
+        "display_text_range": [
+          32,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T16:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090101124376216048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1815253637985443840",
+              "start": 0,
+              "username": "HASUMI117"
+            },
+            {
+              "end": 19,
+              "id": "1132729630245265408",
+              "start": 11,
+              "username": "pr80net"
+            },
+            {
+              "end": 31,
+              "id": "357176113",
+              "start": 20,
+              "username": "soobin4869"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090101124376216048",
+        "in_reply_to_user_id": "1815253637985443840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090100804598595897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HASUMI117 @pr80net @soobin4869 对啊！竟然丢了气死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1815253637985443840",
+        "conversation_id": "2090074522661814401",
+        "created_at": "2026-08-19T15:37:18.000Z",
+        "display_text_range": [
+          31,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T16:37:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090100804598595897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2047425753227333632",
+              "start": 0,
+              "username": "YuganQwQ"
+            },
+            {
+              "end": 18,
+              "id": "1132729630245265408",
+              "start": 10,
+              "username": "pr80net"
+            },
+            {
+              "end": 30,
+              "id": "357176113",
+              "start": 19,
+              "username": "soobin4869"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090100804598595897",
+        "in_reply_to_user_id": "2047425753227333632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090076723710706124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuganQwQ @pr80net @soobin4869 还以为会被拿去卖掉，这种是报复社会？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 查成分回fo 直fo是因为喜欢你呀 |\n前世@yuganbb823 宝宝@ci_shang85157\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yuganbb823"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "ci_shang85157"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuganqwq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuganqwq",
+                "start": 0,
+                "url": "https://t.co/19gBB14uzC"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "is_identity_verified": false,
+        "location": "距离你4.5km",
+        "most_recent_tweet_id": "2090101124376216048",
+        "name": "为何人生如此悲惨2.0",
+        "pinned_tweet_id": "2083060079872389410",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047425753227333632/1786741767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 386,
+          "like_count": 4250,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 1070
+        },
+        "url": "https://t.co/19gBB14uzC",
+        "username": "YuganQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-22T05:13:01.000Z",
+        "description": "isfj-t｜天蝎座\n欢迎大家留言：https://t.co/YcwUUBK7pZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hasumi33027",
+                "end": 41,
+                "expanded_url": "https://ngl.link/hasumi33027",
+                "start": 18,
+                "url": "https://t.co/YcwUUBK7pZ"
+              }
+            ]
+          }
+        },
+        "id": "1815253637985443840",
+        "is_identity_verified": false,
+        "location": "北京朝阳区",
+        "most_recent_tweet_id": "2090100804598595897",
+        "name": "HASUMI",
+        "pinned_tweet_id": "1815740856013574421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1815253637985443840/1721638123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821856172485570561/tZFR-wb__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 1460,
+          "like_count": 4140,
+          "listed_count": 0,
+          "media_count": 243,
+          "tweet_count": 1829
+        },
+        "url": "",
+        "username": "HASUMI117",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @soobin4869\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 98,
+                "username": "soobin4869"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "is_identity_verified": false,
+        "location": "永夜安港",
+        "most_recent_tweet_id": "2090094101211550202",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2090074522661814401",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132729630245265408/1785053954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1014,
+          "following_count": 574,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 291
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-08-17T23:44:14.000Z",
+        "description": "https://t.co/bUgrQZuqss\n扎鸡兄弟 Los Pollos Hermanos ，99.7%精品Ｐｒ原粉\n上班时间 12:00 - 00:00",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "https://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/bUgrQZuqss"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "https://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/bUgrQZuqss"
+              }
+            ]
+          }
+        },
+        "id": "357176113",
+        "is_identity_verified": false,
+        "location": "阿尔伯克基",
+        "most_recent_tweet_id": "2090086787150692585",
+        "name": "ZakkysLab扎鸡叔",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/357176113/1785944029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085026434775724032/r4EQZgw0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 27,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 23
+        },
+        "url": "https://t.co/bUgrQZuqss",
+        "username": "soobin4869",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088174466497191936"
+      ],
+      "media_source_tweet_id": [
+        "2088174473849790689"
+      ]
+    },
+    "author_id": "2047425753227333632",
+    "conversation_id": "2088601470589374661",
+    "created_at": "2026-08-15T12:19:29.000Z",
+    "display_text_range": [
+      0,
+      80
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T13:19:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088601470589374661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1881351051988934656",
+          "start": 3,
+          "username": "wowyouzhi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dDeW52qtBR",
+          "end": 80,
+          "expanded_url": "https://x.com/wowyouzhi/status/2088174473849790689/photo/1",
+          "media_key": "3_2088174466497191936",
+          "start": 57,
+          "url": "https://t.co/dDeW52qtBR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088601470589374661",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088174466497191936"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088174473849790689",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wowyouzhi: 是孙笑川她又来扩关了。求转发抽一杯柠檬水过两天开，我想要餐券和乐子，直fo查成分回 https://t.co/dDeW52qtBR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088174466497191936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPqvnRibIAAsHSY.jpg",
+        "width": 1542
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088174466497191936"
+          ],
+          "media_source_tweet_id": [
+            "2088174473849790689"
+          ]
+        },
+        "author_id": "2047425753227333632",
+        "conversation_id": "2088601470589374661",
+        "created_at": "2026-08-15T12:19:29.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T13:19:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088601470589374661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1881351051988934656",
+              "start": 3,
+              "username": "wowyouzhi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dDeW52qtBR",
+              "end": 80,
+              "expanded_url": "https://x.com/wowyouzhi/status/2088174473849790689/photo/1",
+              "media_key": "3_2088174466497191936",
+              "start": 57,
+              "url": "https://t.co/dDeW52qtBR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088601470589374661",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088174466497191936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088174473849790689",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wowyouzhi: 是孙笑川她又来扩关了。求转发抽一杯柠檬水过两天开，我想要餐券和乐子，直fo查成分回 https://t.co/dDeW52qtBR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088174466497191936"
+          ]
+        },
+        "author_id": "1881351051988934656",
+        "conversation_id": "2088174473849790689",
+        "created_at": "2026-08-14T08:02:45.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T09:02:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088174473849790689"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dDeW52qtBR",
+              "end": 65,
+              "expanded_url": "https://x.com/wowyouzhi/status/2088174473849790689/photo/1",
+              "media_key": "3_2088174466497191936",
+              "start": 42,
+              "url": "https://t.co/dDeW52qtBR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088174473849790689",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088174466497191936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 844,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "是孙笑川她又来扩关了。求转发抽一杯柠檬水过两天开，我想要餐券和乐子，直fo查成分回 https://t.co/dDeW52qtBR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 查成分回fo 直fo是因为喜欢你呀 |\n前世@yuganbb823 仆人@ci_shang85157\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yuganbb823"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "ci_shang85157"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuganqwq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuganqwq",
+                "start": 0,
+                "url": "https://t.co/19gBB14uzC"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "is_identity_verified": false,
+        "location": "距离你4.5km",
+        "most_recent_tweet_id": "2088601470589374661",
+        "name": "为何人生如此悲惨2.0",
+        "pinned_tweet_id": "2083060079872389410",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047425753227333632/1786741767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 365,
+          "like_count": 3986,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 917
+        },
+        "url": "https://t.co/19gBB14uzC",
+        "username": "YuganQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-20T14:40:38.000Z",
+        "description": "可以叫我47，只是一具尸体。一个乐子餐券逼 od 自傷 喜欢直fo。只回关同类会查成分。非常焦虑。",
+        "id": "1881351051988934656",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088576427042201669",
+        "name": "与诗。 月",
+        "pinned_tweet_id": "2059998950590202264",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1881351051988934656/1781878125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015855876062814208/oFfueUcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 159,
+          "like_count": 198,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 736
+        },
+        "url": "",
+        "username": "wowyouzhi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

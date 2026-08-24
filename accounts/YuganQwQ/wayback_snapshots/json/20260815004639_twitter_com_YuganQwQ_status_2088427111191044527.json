@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2088427111191044527",
+    "created_at": "2026-08-15T00:46:39.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T01:46:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088427111191044527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1605093608910381056",
+          "start": 3,
+          "username": "suekageseikiyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088427111191044527",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088139529798775119",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @suekageseikiyo: 和我谈恋爱的好处\n1、早上拿刀捅你叫你起床，死了就结束，没死就下一条\n2、中午怀疑你出轨，拿刀捅你，死了你就出轨了，没死你就是无辜想死\n3、下午对你阴阳怪气，你不顶嘴就是在怪我，我就捅死你，你顶嘴我就要捅死你\n4、晚上开始冷暴力，你不哄我…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2088427111191044527",
+        "created_at": "2026-08-15T00:46:39.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T01:46:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088427111191044527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1605093608910381056",
+              "start": 3,
+              "username": "suekageseikiyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088427111191044527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088139529798775119",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @suekageseikiyo: 和我谈恋爱的好处\n1、早上拿刀捅你叫你起床，死了就结束，没死就下一条\n2、中午怀疑你出轨，拿刀捅你，死了你就出轨了，没死你就是无辜想死\n3、下午对你阴阳怪气，你不顶嘴就是在怪我，我就捅死你，你顶嘴我就要捅死你\n4、晚上开始冷暴力，你不哄我…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1605093608910381056",
+        "conversation_id": "2088139529798775119",
+        "created_at": "2026-08-14T05:43:54.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T06:43:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088139529798775119"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088139529798775119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "和我谈恋爱的好处\n1、早上拿刀捅你叫你起床，死了就结束，没死就下一条\n2、中午怀疑你出轨，拿刀捅你，死了你就出轨了，没死你就是无辜想死\n3、下午对你阴阳怪气，你不顶嘴就是在怪我，我就捅死你，你顶嘴我就要捅死你\n4、晚上开始冷暴力，你不哄我就是变心了，捅死你，你哄我你太油嘴滑舌了，捅死你\n5、十二点过说分手，你同意了就说明你不喜欢我，捅死你，你不同意那我就捅死你，我都提分手了你居然敢不分\n6、一点来找你，你还活着，捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你\n7、二十五点来找你，你还活着，恭喜你通过了考验，来陪我玩一把紧张刺激的pjsk吧喵喵喵 哈哈骗你的我会出其不意捅你一刀，死了你就死了，没死也给我断连"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 3276,
+          "like_count": 69,
+          "quote_count": 1,
+          "reply_count": 31,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "和我谈恋爱的好处\n1、早上拿刀捅你叫你起床，死了就结束，没死就下一条\n2、中午怀疑你出轨，拿刀捅你，死了你就出轨了，没死你就是无辜想死\n3、下午对你阴阳怪气，你不顶嘴就是在怪我，我就捅死你，你顶嘴我就要捅死你\n4、晚上开始冷暴力，你不哄我就是变心了，捅死你，你哄我你太油嘴滑舌了，捅死你"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 查成分回fo 直fo是因为喜欢你呀 |\n前世@yuganbb823 仆人@ci_shang85157\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yuganbb823"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "ci_shang85157"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "is_identity_verified": false,
+        "location": "距离你4.5km",
+        "most_recent_tweet_id": "2088427111191044527",
+        "name": "为何人生如此悲惨2.0",
+        "pinned_tweet_id": "2083060079872389410",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047425753227333632/1786741767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 338,
+          "like_count": 3738,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 845
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-20T06:51:57.000Z",
+        "description": "私がモテないのはどう考えてもお前らが悪い",
+        "id": "1605093608910381056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088319482460819482",
+        "name": "末々🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1605093608910381056/1771945016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026309621338820609/hO5ufogg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1269,
+          "following_count": 604,
+          "like_count": 9120,
+          "listed_count": 7,
+          "media_count": 195,
+          "tweet_count": 1453
+        },
+        "url": "",
+        "username": "suekageseikiyo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

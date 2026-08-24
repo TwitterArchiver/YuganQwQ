@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2083876723058266184",
+    "created_at": "2026-08-02T11:25:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T12:25:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083876723058266184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2049341106996035584",
+          "start": 3,
+          "username": "miru_room707"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083876723058266184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083554622057447846",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miru_room707: 我的第一次给了一个傻逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2083876723058266184",
+        "created_at": "2026-08-02T11:25:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T12:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083876723058266184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2049341106996035584",
+              "start": 3,
+              "username": "miru_room707"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083876723058266184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083554622057447846",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @miru_room707: 我的第一次给了一个傻逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049341106996035584",
+        "conversation_id": "2083554622057447846",
+        "created_at": "2026-08-01T14:05:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T15:05:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083554622057447846"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083554622057447846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 140905,
+          "like_count": 333,
+          "quote_count": 1,
+          "reply_count": 321,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "我的第一次给了一个傻逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 直fo是因为喜欢你呀 |永远怀念@yuganbb823\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "yuganbb823"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "name": "为何人生如此悲惨2.0互关巡回",
+        "pinned_tweet_id": "2083060079872389410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 268,
+          "like_count": 2147,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 556
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-29T04:13:25.000Z",
+        "description": "07 165/52 \n一个敏感多疑缺爱抑郁的女孩 发着玩的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/miru_room707",
+                "end": 23,
+                "expanded_url": "https://ngl.link/miru_room707",
+                "start": 0,
+                "url": "https://t.co/O3cp7n1LdZ"
+              }
+            ]
+          }
+        },
+        "id": "2049341106996035584",
+        "location": "🚪188 不做免费陪聊",
+        "name": "みる",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057848740510359552/X17LqbIy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1459,
+          "following_count": 419,
+          "like_count": 1812,
+          "listed_count": 8,
+          "media_count": 31,
+          "tweet_count": 307
+        },
+        "url": "https://t.co/O3cp7n1LdZ",
+        "username": "miru_room707",
+        "verified": false
+      }
+    ]
+  }
+}

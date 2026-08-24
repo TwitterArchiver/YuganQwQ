@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2083611556940583263",
+    "created_at": "2026-08-01T17:51:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T18:51:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083611556940583263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1738601198507487232",
+          "start": 3,
+          "username": "Fantaytut"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083611556940583263",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 128
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083175891052442087",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @Fantaytut: 我不是故意出轨的，我只是需要陪伴，但你总是不理我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2083611556940583263",
+        "created_at": "2026-08-01T17:51:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T18:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083611556940583263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1738601198507487232",
+              "start": 3,
+              "username": "Fantaytut"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083611556940583263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 128
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083175891052442087",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @Fantaytut: 我不是故意出轨的，我只是需要陪伴，但你总是不理我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738601198507487232",
+        "conversation_id": "2083175891052442087",
+        "created_at": "2026-07-31T13:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T14:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083175891052442087"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083175891052442087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 36886,
+          "like_count": 746,
+          "quote_count": 23,
+          "reply_count": 0,
+          "retweet_count": 128
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "我不是故意出轨的，我只是需要陪伴，但你总是不理我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 直fo是因为喜欢你呀 |永远怀念@yuganbb823\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "yuganbb823"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "name": "为何人生如此悲惨2.0互关巡回",
+        "pinned_tweet_id": "2083060079872389410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 259,
+          "like_count": 1953,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 535
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-23T16:43:34.000Z",
+        "description": "不加v",
+        "id": "1738601198507487232",
+        "name": "Fantay",
+        "pinned_tweet_id": "2070582810612564430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068569995076845568/HcfevrfM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 27,
+          "like_count": 4450,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 42
+        },
+        "url": "",
+        "username": "Fantaytut",
+        "verified": false
+      }
+    ]
+  }
+}

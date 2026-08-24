@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2082584377033167043",
+    "created_at": "2026-07-30T12:22:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T13:22:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082804067563078089"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2003081079931166720",
+          "start": 0,
+          "username": "Winterweather01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082804067563078089",
+    "in_reply_to_user_id": "2003081079931166720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082802456816402714",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Winterweather01 哎。我要是再多吃点就好了，我靠，我那个时候是还有意识，所以我才往后退的，烦死了，要是死了就好了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2082584377033167043",
+        "created_at": "2026-07-30T12:22:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T13:22:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082804067563078089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2003081079931166720",
+              "start": 0,
+              "username": "Winterweather01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082804067563078089",
+        "in_reply_to_user_id": "2003081079931166720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082802456816402714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Winterweather01 哎。我要是再多吃点就好了，我靠，我那个时候是还有意识，所以我才往后退的，烦死了，要是死了就好了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2003081079931166720",
+        "conversation_id": "2082584377033167043",
+        "created_at": "2026-07-30T12:16:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T13:16:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082802456816402714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2047425753227333632",
+              "start": 0,
+              "username": "YuganQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082802456816402714",
+        "in_reply_to_user_id": "2047425753227333632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082801925284573285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuganQwQ 确实是挺难受的 我当时是晕过去了应该快成功了被发现了 绳子是那种越挣扎越紧的 往前压你就套不出来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 加联系方式🚪188纯绿互关不需要喵 | 只跟同类互fo 直fo是因为喜欢你呀 |永远怀念@yuganbb823",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "yuganbb823"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "name": "为何人生如此悲惨2.0互关巡回",
+        "pinned_tweet_id": "2079370925015715919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 247,
+          "like_count": 1737,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 471
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-22T12:32:20.000Z",
+        "description": "你说依赖 是我们的阻碍",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hhhh33921",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hhhh33921",
+                "start": 0,
+                "url": "https://t.co/TftLGguoov"
+              }
+            ]
+          }
+        },
+        "id": "2003081079931166720",
+        "location": "杭州",
+        "name": "倒带",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079667715074306048/xNLOdXGi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 85,
+          "like_count": 662,
+          "listed_count": 1,
+          "media_count": 256,
+          "tweet_count": 1254
+        },
+        "url": "https://t.co/TftLGguoov",
+        "username": "Winterweather01",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2084669537929003311",
+    "created_at": "2026-08-04T15:55:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T16:55:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084669537929003311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 23,
+          "id": "1720665183188922368",
+          "start": 18,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/ci_shang85157/…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/ci_shang85157/status/2084575476371357994",
+          "start": 32,
+          "url": "https://t.co/lSUfOISxvd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084669537929003311",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084575476371357994",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "请告诉我这个账号上最恶心的帖子  \n@grok\n \n（用中文） https://t.co/lSUfOISxvd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2084669537929003311",
+        "created_at": "2026-08-04T15:55:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T16:55:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084669537929003311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 23,
+              "id": "1720665183188922368",
+              "start": 18,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/ci_shang85157/…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/ci_shang85157/status/2084575476371357994",
+              "start": 32,
+              "url": "https://t.co/lSUfOISxvd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084669537929003311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084575476371357994",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请告诉我这个账号上最恶心的帖子  \n@grok\n \n（用中文） https://t.co/lSUfOISxvd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826281483675299840",
+        "conversation_id": "2084575476371357994",
+        "created_at": "2026-08-04T09:41:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T10:41:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084575476371357994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 23,
+              "id": "1720665183188922368",
+              "start": 18,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Usam8964/statu…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/Usam8964/status/2084558919553413168",
+              "start": 32,
+              "url": "https://t.co/79BI8r5SJ5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084575476371357994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 235,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084558919553413168",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请告诉我这个账号上最恶心的帖子  \n@grok\n \n（用中文） https://t.co/79BI8r5SJ5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 查成分回fo  直fo是因为喜欢你呀 |\n前世@yuganbb823\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 51,
+                "username": "yuganbb823"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "location": "距离你4.5km",
+        "name": "为何人生如此悲惨2.0互关巡回",
+        "pinned_tweet_id": "2083060079872389410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 284,
+          "like_count": 2404,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 620
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8909890,
+          "following_count": 5,
+          "like_count": 122,
+          "listed_count": 7263,
+          "media_count": 9219308,
+          "tweet_count": 133954895
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-21T15:33:40.000Z",
+        "description": "好像丢失了一段时间线 算了 我们从新开始吧 https://t.co/ILEWFdOQz0。 ngl匿名问答。  嗯我是男生 不要认错了。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%8950122",
+                "end": 45,
+                "expanded_url": "https://ngl.link/%E6%B3%8950122",
+                "start": 22,
+                "url": "https://t.co/ILEWFdOQz0"
+              }
+            ]
+          }
+        },
+        "id": "1826281483675299840",
+        "name": "永雏泉",
+        "pinned_tweet_id": "2060026487768760460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978274114138996736/r_khhgIT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1146,
+          "following_count": 748,
+          "like_count": 25162,
+          "listed_count": 2,
+          "media_count": 282,
+          "tweet_count": 9042
+        },
+        "url": "",
+        "username": "ci_shang85157",
+        "verified": false
+      }
+    ]
+  }
+}

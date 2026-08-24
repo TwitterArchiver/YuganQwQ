@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2090129923876770298",
+    "created_at": "2026-08-20T05:29:42.000Z",
+    "display_text_range": [
+      37,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T06:29:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090310285139521700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2027785341495873540",
+          "start": 0,
+          "username": "Zhouzhou28ep"
+        },
+        {
+          "end": 28,
+          "id": "2055365812660133888",
+          "start": 14,
+          "username": "toskamxkl8964"
+        },
+        {
+          "end": 36,
+          "id": "2079545623632908289",
+          "start": 29,
+          "username": "ewhd6h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090310285139521700",
+    "in_reply_to_user_id": "2027785341495873540",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090129923876770298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zhouzhou28ep @toskamxkl8964 @ewhd6h 噢耶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2090129923876770298",
+        "created_at": "2026-08-20T05:29:42.000Z",
+        "display_text_range": [
+          37,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T06:29:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090310285139521700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2027785341495873540",
+              "start": 0,
+              "username": "Zhouzhou28ep"
+            },
+            {
+              "end": 28,
+              "id": "2055365812660133888",
+              "start": 14,
+              "username": "toskamxkl8964"
+            },
+            {
+              "end": 36,
+              "id": "2079545623632908289",
+              "start": 29,
+              "username": "ewhd6h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090310285139521700",
+        "in_reply_to_user_id": "2027785341495873540",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090129923876770298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zhouzhou28ep @toskamxkl8964 @ewhd6h 噢耶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027785341495873540",
+        "conversation_id": "2090129923876770298",
+        "created_at": "2026-08-19T17:33:01.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T18:33:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090129923876770298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "2055365812660133888",
+              "start": 8,
+              "username": "toskamxkl8964"
+            },
+            {
+              "end": 30,
+              "id": "2079545623632908289",
+              "start": 23,
+              "username": "ewhd6h"
+            },
+            {
+              "end": 40,
+              "id": "2047425753227333632",
+              "start": 31,
+              "username": "YuganQwQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/zhouzhou28ep/s…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/zhouzhou28ep/status/2089577873040363561",
+              "start": 52,
+              "url": "https://t.co/XbkbW1hlar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090129923876770298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 263,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089577873040363561",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我开了 中奖名单@toskamxkl8964 @ewhd6h @YuganQwQ 太难受了随便选了几个 https://t.co/XbkbW1hlar"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 查成分回fo 直fo是因为喜欢你呀 |\n前世@yuganbb823 宝宝@ci_shang85157\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yuganbb823"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "ci_shang85157"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuganqwq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuganqwq",
+                "start": 0,
+                "url": "https://t.co/19gBB14uzC"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "is_identity_verified": false,
+        "location": "距离你4.5km",
+        "most_recent_tweet_id": "2090310285139521700",
+        "name": "为何人生如此悲惨2.0",
+        "pinned_tweet_id": "2083060079872389410",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047425753227333632/1786741767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 393,
+          "like_count": 4257,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 1077
+        },
+        "url": "https://t.co/19gBB14uzC",
+        "username": "YuganQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-28T16:39:01.000Z",
+        "description": "本人没素质傻逼一个此账号发表的所有言论,意在取悦自己,并通过文字或图片强制干预他人的思想,如果翻阅之后出现不适等症状,恭喜你,你怀了我的孩子 查成分回fo",
+        "id": "2027785341495873540",
+        "is_identity_verified": false,
+        "location": "0.01km",
+        "most_recent_tweet_id": "2090307183195943194",
+        "name": "zhou",
+        "pinned_tweet_id": "2087256331161936304",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2027785341495873540/1786110842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085726540848152576/cmX7prxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 189,
+          "like_count": 1007,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 567
+        },
+        "url": "",
+        "username": "Zhouzhou28ep",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T19:15:56.000Z",
+        "description": "兄弟你不要跟我扯我告诉你，我爱玩贴吧红薯，还有抑郁症，我体内住着一个孙笑川和一个大只一个推特人一个微博批一个豆瓣吊，兄弟我有精神分裂你最好离我远点 叫我卡卡吧…我突然想出来的就是\n杀msk全家，互fo回家😭",
+        "id": "2055365812660133888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090299892564410852",
+        "name": "toska，梦想炸了（二代目）",
+        "pinned_tweet_id": "2082733972472148118",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055365812660133888/1785425775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082712747473502208/NZ6ADN4x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 184,
+          "like_count": 2514,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 573
+        },
+        "url": "",
+        "username": "toskamxkl8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-21T12:37:38.000Z",
+        "description": "不喜欢男的男的别恶心我\n🚪67 纯绿不闲聊  \n女生不用",
+        "id": "2079545623632908289",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090308559380922416",
+        "name": "嗯 e",
+        "pinned_tweet_id": "2089066262299394549",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086719366738178048/a_Jfm_Av_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 23,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 152
+        },
+        "url": "",
+        "username": "ewhd6h",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

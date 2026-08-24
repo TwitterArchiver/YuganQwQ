@@ -1,0 +1,378 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089736944217624576",
+        "3_2089736979508604928"
+      ],
+      "media_source_tweet_id": [
+        "2089737022244266315",
+        "2089737022244266315"
+      ]
+    },
+    "author_id": "2047425753227333632",
+    "conversation_id": "2089752239640334365",
+    "created_at": "2026-08-18T16:32:14.000Z",
+    "display_text_range": [
+      0,
+      116
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T17:32:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089752239640334365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2045075693231325184",
+          "start": 3,
+          "username": "zhiiii_tan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XmSQx3fqkv",
+          "end": 116,
+          "expanded_url": "https://x.com/zhiiii_tan/status/2089737022244266315/photo/1",
+          "media_key": "3_2089736944217624576",
+          "start": 93,
+          "url": "https://t.co/XmSQx3fqkv"
+        },
+        {
+          "display_url": "pic.x.com/XmSQx3fqkv",
+          "end": 116,
+          "expanded_url": "https://x.com/zhiiii_tan/status/2089737022244266315/photo/1",
+          "media_key": "3_2089736979508604928",
+          "start": 93,
+          "url": "https://t.co/XmSQx3fqkv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089752239640334365",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089736944217624576"
+      },
+      {
+        "media_key": "3_2089736979508604928"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089737022244266315",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhiiii_tan: 这些人是冒充别人开多个小号领奖的骗子啊，抽奖的话尽量不要抽他们！仔细辨别抽到的人的身份，这个用户名不仔细看根本看不出来是不是本人，查完成分再去私信他们🥺 https://t.co/XmSQx3fqkv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2089736944217624576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQA8rcoaEAAyGDL.jpg",
+        "width": 1832
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2089736979508604928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQA8tgGbsAAPRWC.jpg",
+        "width": 1240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089736944217624576",
+            "3_2089736979508604928"
+          ],
+          "media_source_tweet_id": [
+            "2089737022244266315",
+            "2089737022244266315"
+          ]
+        },
+        "author_id": "2047425753227333632",
+        "conversation_id": "2089752239640334365",
+        "created_at": "2026-08-18T16:32:14.000Z",
+        "display_text_range": [
+          0,
+          116
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T17:32:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089752239640334365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2045075693231325184",
+              "start": 3,
+              "username": "zhiiii_tan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XmSQx3fqkv",
+              "end": 116,
+              "expanded_url": "https://x.com/zhiiii_tan/status/2089737022244266315/photo/1",
+              "media_key": "3_2089736944217624576",
+              "start": 93,
+              "url": "https://t.co/XmSQx3fqkv"
+            },
+            {
+              "display_url": "pic.x.com/XmSQx3fqkv",
+              "end": 116,
+              "expanded_url": "https://x.com/zhiiii_tan/status/2089737022244266315/photo/1",
+              "media_key": "3_2089736979508604928",
+              "start": 93,
+              "url": "https://t.co/XmSQx3fqkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089752239640334365",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089736944217624576"
+          },
+          {
+            "media_key": "3_2089736979508604928"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089737022244266315",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhiiii_tan: 这些人是冒充别人开多个小号领奖的骗子啊，抽奖的话尽量不要抽他们！仔细辨别抽到的人的身份，这个用户名不仔细看根本看不出来是不是本人，查完成分再去私信他们🥺 https://t.co/XmSQx3fqkv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089736944217624576",
+            "3_2089736979508604928"
+          ]
+        },
+        "author_id": "2045075693231325184",
+        "conversation_id": "2089737022244266315",
+        "created_at": "2026-08-18T15:31:46.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T16:31:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089737022244266315"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XmSQx3fqkv",
+              "end": 100,
+              "expanded_url": "https://x.com/zhiiii_tan/status/2089737022244266315/photo/1",
+              "media_key": "3_2089736944217624576",
+              "start": 77,
+              "url": "https://t.co/XmSQx3fqkv"
+            },
+            {
+              "display_url": "pic.x.com/XmSQx3fqkv",
+              "end": 100,
+              "expanded_url": "https://x.com/zhiiii_tan/status/2089737022244266315/photo/1",
+              "media_key": "3_2089736979508604928",
+              "start": 77,
+              "url": "https://t.co/XmSQx3fqkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089737022244266315",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089736944217624576"
+          },
+          {
+            "media_key": "3_2089736979508604928"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这些人是冒充别人开多个小号领奖的骗子啊，抽奖的话尽量不要抽他们！仔细辨别抽到的人的身份，这个用户名不仔细看根本看不出来是不是本人，查完成分再去私信他们🥺 https://t.co/XmSQx3fqkv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 查成分回fo 直fo是因为喜欢你呀 |\n前世@yuganbb823 宝宝@ci_shang85157\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yuganbb823"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "ci_shang85157"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuganqwq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuganqwq",
+                "start": 0,
+                "url": "https://t.co/19gBB14uzC"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "is_identity_verified": false,
+        "location": "距离你4.5km",
+        "most_recent_tweet_id": "2089752239640334365",
+        "name": "为何人生如此悲惨2.0",
+        "pinned_tweet_id": "2083060079872389410",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047425753227333632/1786741767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 402,
+          "like_count": 4192,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 1034
+        },
+        "url": "https://t.co/19gBB14uzC",
+        "username": "YuganQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-17T09:43:45.000Z",
+        "description": "cafe114转生号\n可以叫我之之丨生理心理皆女丨lgbtq友好丨🔪🚬💊 丨不鉴证丨喜欢互动丨我没有🚪觉得我以后会在推上发点什么的不要关注我了丨没有门不接线上不接线下没有非绿没有半绿没有纯绿🍀丨互fo直关 没回fo私我\n@zhiiiii_tan   @zhiii_tan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "zhiiiii_tan"
+              },
+              {
+                "end": 135,
+                "start": 125,
+                "username": "zhiii_tan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qii53631",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qii53631",
+                "start": 0,
+                "url": "https://t.co/cLxvSY7XkK"
+              }
+            ]
+          }
+        },
+        "id": "2045075693231325184",
+        "is_identity_verified": false,
+        "location": "蓝色宇宙",
+        "most_recent_tweet_id": "2089737072550769049",
+        "name": "cafe114",
+        "pinned_tweet_id": "2088943715351941225",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2045075693231325184/1780829591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088942456536776704/dFHpyrPR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 210,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 153
+        },
+        "url": "https://t.co/cLxvSY7XkK",
+        "username": "zhiiii_tan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

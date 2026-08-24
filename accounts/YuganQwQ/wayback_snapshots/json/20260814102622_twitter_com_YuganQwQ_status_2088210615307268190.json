@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2088112372225277961",
+    "created_at": "2026-08-14T10:26:22.000Z",
+    "display_text_range": [
+      28,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T11:26:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088210615307268190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2071552995691732993",
+          "start": 0,
+          "username": "YuXi520LingLing"
+        },
+        {
+          "end": 27,
+          "id": "1852686868846092288",
+          "start": 17,
+          "username": "TL_Xingyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088210615307268190",
+    "in_reply_to_user_id": "2071552995691732993",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088112372225277961",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuXi520LingLing @TL_Xingyi 喵喵喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2088112361630810113",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPp3IS4bQAEGEKP.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2088112372225277961",
+        "created_at": "2026-08-14T10:26:22.000Z",
+        "display_text_range": [
+          28,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T11:26:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088210615307268190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2071552995691732993",
+              "start": 0,
+              "username": "YuXi520LingLing"
+            },
+            {
+              "end": 27,
+              "id": "1852686868846092288",
+              "start": 17,
+              "username": "TL_Xingyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088210615307268190",
+        "in_reply_to_user_id": "2071552995691732993",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088112372225277961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuXi520LingLing @TL_Xingyi 喵喵喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088112361630810113"
+          ]
+        },
+        "author_id": "2071552995691732993",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2088112372225277961",
+        "created_at": "2026-08-14T03:55:59.000Z",
+        "display_text_range": [
+          0,
+          152
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T04:55:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088112372225277961"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hdrpdxX4Gm",
+              "end": 176,
+              "expanded_url": "https://x.com/YuXi520LingLing/status/2088112372225277961/photo/1",
+              "media_key": "3_2088112361630810113",
+              "start": 153,
+              "url": "https://t.co/hdrpdxX4Gm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088112372225277961",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088112361630810113"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "唔唔从发帖到现在快两个星期，300fo了呢，语汐看到的时候很开心啦！\n准备了一些东西给大家呢，会用grok抽奖发给大家（可折现）\n1:  任意奶茶一杯x1（可折15r）\n2:  魔爪两瓶x2（可折8r）\n3:  小鱼板挂饰x3（可折2r）\n评论+转帖参加哦（和语汐互fo的）\n总之谢谢大家对语汐的支持啦！\n会继续努力的唔唔….\n（过两天开奖哦）"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2423,
+          "like_count": 79,
+          "quote_count": 0,
+          "reply_count": 43,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "唔唔从发帖到现在快两个星期，300fo了呢，语汐看到的时候很开心啦！\n准备了一些东西给大家呢，会用grok抽奖发给大家（可折现）\n1:  任意奶茶一杯x1（可折15r）\n2:  魔爪两瓶x2（可折8r）\n3:  小鱼板挂饰x3（可折2r）\n评论+转帖参加哦（和语汐互fo的）\n总之谢谢大家对语汐的支持啦！ https://t.co/hdrpdxX4Gm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 查成分回fo 直fo是因为喜欢你呀 |\n前世@yuganbb823  仆人@ci_shang85157\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yuganbb823"
+              },
+              {
+                "end": 79,
+                "start": 65,
+                "username": "ci_shang85157"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "is_identity_verified": false,
+        "location": "距离你4.5km",
+        "most_recent_tweet_id": "2088210615307268190",
+        "name": "为何人生如此悲惨2.0互关巡回",
+        "pinned_tweet_id": "2083060079872389410",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047425753227333632/1785103248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 321,
+          "like_count": 3468,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 795
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-29T11:20:03.000Z",
+        "description": "MTF｜無證含糖｜常在春风里，活在药效里｜💊｜🔪🩸｜生产日期：2009.3.26｜hrt：2026.1.16｜同类互fo｜晚安享受者｜ym重度依赖｜精神稳定？？？｜1米68高个子｜看成分回fo\n会发一些日常和自己唠叨\n最爱的妹妹：@LingLinghmiao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 115,
+                "username": "LingLinghmiao"
+              }
+            ]
+          }
+        },
+        "id": "2071552995691732993",
+        "is_identity_verified": false,
+        "location": "America",
+        "most_recent_tweet_id": "2088209884315828485",
+        "name": "语汐汐喵🍥",
+        "pinned_tweet_id": "2088112372225277961",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071552995691732993/1785931233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084566967743385600/tkDTpCpZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 418,
+          "like_count": 145,
+          "listed_count": 2,
+          "media_count": 38,
+          "tweet_count": 225
+        },
+        "url": "",
+        "username": "YuXi520LingLing",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-02T12:25:58.000Z",
+        "description": "5:30the car missin'  HRT：2025.12.9 无证💕\n马列毛主义/从马列角度支持LGBT无产化/偏新左？/现代毛派/反修正主义/反资反帝/脱产学生学习理论克服小资性。重度抑郁/中度焦虑。 友跨🏳️‍⚧️同类互fo喵。互fo都会回的喵😺如果你不知道自己为什么被ban，参见置顶简介",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xqzxmarxismclub.com",
+                "end": 23,
+                "expanded_url": "http://xqzxmarxismclub.com",
+                "start": 0,
+                "url": "https://t.co/slB5soWybu"
+              }
+            ]
+          }
+        },
+        "id": "1852686868846092288",
+        "is_identity_verified": true,
+        "location": "Roermond, Nederland",
+        "most_recent_tweet_id": "2088209480358207772",
+        "name": "Physic530🏳️‍⚧️🍥☭",
+        "pinned_tweet_id": "2076410044397314185",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1852686868846092288/1778247523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021662006047338496/LzTR6pRS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 552,
+          "like_count": 8131,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 1184
+        },
+        "url": "https://t.co/slB5soWybu",
+        "username": "TL_Xingyi",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

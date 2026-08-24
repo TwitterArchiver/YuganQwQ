@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2089809823281926302",
+    "created_at": "2026-08-18T20:21:03.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T21:21:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089809823281926302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1682815248531636224",
+          "start": 3,
+          "username": "LewisHamiIwjub"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089809823281926302",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023457363060285572",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @LewisHamiIwjub: 各位推友你们好，去年11月份我不幸确诊白血病入院，医生说目前需要通过化疗治疗，否则不治疗拖到后期会有生命危险，化疗费用高昂，我感觉很绝望。因为在墙内求助没啥热度，所以我只能无奈的来推特试试，想求求好心人帮我一把，谢谢大家! https:/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2023457360388517891",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBTDv6AbcAMxTpy.jpg",
+        "width": 1296
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2089809823281926302",
+        "created_at": "2026-08-18T20:21:03.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T21:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089809823281926302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1682815248531636224",
+              "start": 3,
+              "username": "LewisHamiIwjub"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089809823281926302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023457363060285572",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @LewisHamiIwjub: 各位推友你们好，去年11月份我不幸确诊白血病入院，医生说目前需要通过化疗治疗，否则不治疗拖到后期会有生命危险，化疗费用高昂，我感觉很绝望。因为在墙内求助没啥热度，所以我只能无奈的来推特试试，想求求好心人帮我一把，谢谢大家! https:/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023457360388517891"
+          ]
+        },
+        "author_id": "1682815248531636224",
+        "conversation_id": "2023457363060285572",
+        "created_at": "2026-02-16T18:00:04.000Z",
+        "display_text_range": [
+          0,
+          111
+        ],
+        "edit_controls": {
+          "editable_until": "2026-02-16T19:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023457363060285572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S0NlBYF5Gu",
+              "end": 135,
+              "expanded_url": "https://x.com/shang_xin_2026/status/2023457363060285572/photo/1",
+              "media_key": "3_2023457360388517891",
+              "start": 112,
+              "url": "https://t.co/S0NlBYF5Gu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023457363060285572",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2023457360388517891"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 14097,
+          "like_count": 23,
+          "quote_count": 6,
+          "reply_count": 1,
+          "retweet_count": 15
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "各位推友你们好，去年11月份我不幸确诊白血病入院，医生说目前需要通过化疗治疗，否则不治疗拖到后期会有生命危险，化疗费用高昂，我感觉很绝望。因为在墙内求助没啥热度，所以我只能无奈的来推特试试，想求求好心人帮我一把，谢谢大家! https://t.co/S0NlBYF5Gu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 查成分回fo 直fo是因为喜欢你呀 |\n前世@yuganbb823 宝宝@ci_shang85157\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yuganbb823"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "ci_shang85157"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuganqwq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuganqwq",
+                "start": 0,
+                "url": "https://t.co/19gBB14uzC"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "is_identity_verified": false,
+        "location": "距离你4.5km",
+        "most_recent_tweet_id": "2089809823281926302",
+        "name": "为何人生如此悲惨2.0",
+        "pinned_tweet_id": "2083060079872389410",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047425753227333632/1786741767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 401,
+          "like_count": 4206,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 1045
+        },
+        "url": "https://t.co/19gBB14uzC",
+        "username": "YuganQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-22T18:10:05.000Z",
+        "description": "生无可恋😭",
+        "id": "1682815248531636224",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089792538861584514",
+        "name": "Lewis",
+        "pinned_tweet_id": "2023457363060285572",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088807742085681152/w02lxoe5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 965,
+          "following_count": 418,
+          "like_count": 6330,
+          "listed_count": 3,
+          "media_count": 1772,
+          "tweet_count": 14601
+        },
+        "url": "",
+        "username": "LewisHamiIwjub",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2087892593635934566",
+    "created_at": "2026-08-13T23:26:08.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T00:26:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088044463432122427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1597251393592532995",
+          "start": 0,
+          "username": "mianmian0519"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088044463432122427",
+    "in_reply_to_user_id": "1597251393592532995",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087892593635934566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mianmian0519 喵喵喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2087892593635934566",
+        "created_at": "2026-08-13T23:26:08.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T00:26:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088044463432122427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1597251393592532995",
+              "start": 0,
+              "username": "mianmian0519"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088044463432122427",
+        "in_reply_to_user_id": "1597251393592532995",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087892593635934566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mianmian0519 喵喵喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597251393592532995",
+        "conversation_id": "2087892593635934566",
+        "created_at": "2026-08-13T13:22:40.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T14:22:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087892593635934566"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087892593635934566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 345,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "200fo了！🎉\n搞个小福利\n转发关注评论抽一人送橙普一盒\n一人送玉米片一盒\n三人5.2小红包\n欢迎同好找我互fo呀🥳"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 查成分回fo 直fo是因为喜欢你呀 |\n前世@yuganbb823  仆人@ci_shang85157\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yuganbb823"
+              },
+              {
+                "end": 79,
+                "start": 65,
+                "username": "ci_shang85157"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "is_identity_verified": false,
+        "location": "距离你4.5km",
+        "most_recent_tweet_id": "2088044463432122427",
+        "name": "为何人生如此悲惨2.0互关巡回",
+        "pinned_tweet_id": "2083060079872389410",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047425753227333632/1785103248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 317,
+          "like_count": 3375,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 783
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-28T15:29:51.000Z",
+        "description": "intp\n只回关同好",
+        "id": "1597251393592532995",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087976358001455566",
+        "name": "minaz",
+        "pinned_tweet_id": "2082123492582195367",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063250363445137408/15-qQaZn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 126,
+          "like_count": 1272,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 412
+        },
+        "url": "",
+        "username": "mianmian0519",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

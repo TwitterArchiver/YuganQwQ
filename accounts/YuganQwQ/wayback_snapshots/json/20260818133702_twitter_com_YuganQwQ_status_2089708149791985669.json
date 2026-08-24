@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2089653682266886210",
+    "created_at": "2026-08-18T13:37:02.000Z",
+    "display_text_range": [
+      21,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T14:37:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089708149791985669"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1811265295849598976",
+          "start": 0,
+          "username": "KiraMyao"
+        },
+        {
+          "end": 20,
+          "id": "1852686868846092288",
+          "start": 10,
+          "username": "TL_Xingyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089708149791985669",
+    "in_reply_to_user_id": "1811265295849598976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089653682266886210",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KiraMyao @TL_Xingyi 喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 630,
+        "media_key": "3_2089653675606360064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP_w8k4bQAABMn5.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2089653682266886210",
+        "created_at": "2026-08-18T13:37:02.000Z",
+        "display_text_range": [
+          21,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T14:37:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089708149791985669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1811265295849598976",
+              "start": 0,
+              "username": "KiraMyao"
+            },
+            {
+              "end": 20,
+              "id": "1852686868846092288",
+              "start": 10,
+              "username": "TL_Xingyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089708149791985669",
+        "in_reply_to_user_id": "1811265295849598976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089653682266886210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KiraMyao @TL_Xingyi 喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089653675606360064"
+          ]
+        },
+        "author_id": "1811265295849598976",
+        "conversation_id": "2089653682266886210",
+        "created_at": "2026-08-18T10:00:36.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T11:00:16.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089653599748136967",
+          "2089653682266886210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zuO0D81fr5",
+              "end": 167,
+              "expanded_url": "https://x.com/KiraMyao/status/2089653682266886210/photo/1",
+              "media_key": "3_2089653675606360064",
+              "start": 144,
+              "url": "https://t.co/zuO0D81fr5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089653682266886210",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089653675606360064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "感谢大家对 KiraEqual 和本账号的支持！\nKira 决定开启第一次抽奖活动🎉 \n抽奖规则如下： \n奖品：1名中奖者，获得 ¥50 CNY。 \n参与方式：点赞并转发评论本帖。\n截止时间：本周星期四 UTC+8\n \n抽奖方式：由人工根据参与条件整理最终参与名单，并使用 Python 程序进行随机抽取。抽取结果不受粉丝数量等主观因素影响。 \n获奖公布：将在最终得奖帖中公布获奖结果。\n奖品领取：中奖后通过 X 私信协商领取方式，可使用赞赏码、口令红包等方式领取。若获奖者明确希望，也可以协商代点 KFC 等实际消费形式。  \n\n感谢每一位愿意留下故事的人。 \n让真实的经历成为社会包容的起点。🏳️‍⚧️"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 409,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "感谢大家对 KiraEqual 和本账号的支持！\nKira 决定开启第一次抽奖活动🎉 \n抽奖规则如下： \n奖品：1名中奖者，获得 ¥50 CNY。 \n参与方式：点赞并转发评论本帖。\n截止时间：本周星期四 UTC+8\n \n抽奖方式：由人工根据参与条件整理最终参与名单，并使用 Python https://t.co/zuO0D81fr5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 查成分回fo 直fo是因为喜欢你呀 |\n前世@yuganbb823 仆人@ci_shang85157\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yuganbb823"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "ci_shang85157"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuganqwq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuganqwq",
+                "start": 0,
+                "url": "https://t.co/19gBB14uzC"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "is_identity_verified": false,
+        "location": "距离你4.5km",
+        "most_recent_tweet_id": "2089708149791985669",
+        "name": "为何人生如此悲惨2.0",
+        "pinned_tweet_id": "2083060079872389410",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047425753227333632/1786741767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 396,
+          "like_count": 4170,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 1013
+        },
+        "url": "https://t.co/19gBB14uzC",
+        "username": "YuganQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-11T05:04:57.000Z",
+        "description": "KiraMyao🌎きらみゃお🌏星绮喵                                      \n  \nTech💾 meme👻 Equal❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kiramyao.com",
+                "end": 23,
+                "expanded_url": "https://kiramyao.com/",
+                "start": 0,
+                "url": "https://t.co/NVGsHKEdLi"
+              }
+            ]
+          }
+        },
+        "id": "1811265295849598976",
+        "is_identity_verified": true,
+        "location": "Japan",
+        "most_recent_tweet_id": "2089656243958993332",
+        "name": "KiraMyao🐱",
+        "pinned_tweet_id": "2043007235786445150",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1811265295849598976/1772529789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050442466428616704/Cd6JwXLB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1520,
+          "following_count": 371,
+          "like_count": 10266,
+          "listed_count": 7,
+          "media_count": 424,
+          "tweet_count": 1898
+        },
+        "url": "https://t.co/NVGsHKEdLi",
+        "username": "KiraMyao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-02T12:25:58.000Z",
+        "description": "5:30the car missin'  HRT：2025.12.9 无证💕\n马列毛主义/从马列角度支持LGBT无产化/偏新左？/现代毛派/反修正主义/反资反帝/脱产学生学习理论克服小资性。重度抑郁/中度焦虑。 友跨🏳️‍⚧️同类互fo喵。互fo都会回的喵😺如果你不知道自己为什么被ban，参见置顶简介\n欢迎蓝V互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xqzxmarxismclub.com",
+                "end": 23,
+                "expanded_url": "http://xqzxmarxismclub.com",
+                "start": 0,
+                "url": "https://t.co/slB5soWybu"
+              }
+            ]
+          }
+        },
+        "id": "1852686868846092288",
+        "is_identity_verified": true,
+        "location": "Roermond, Nederland",
+        "most_recent_tweet_id": "2089702568968790018",
+        "name": "Physic530🏳️‍⚧️🍥☭",
+        "pinned_tweet_id": "2076410044397314185",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1852686868846092288/1778247523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021662006047338496/LzTR6pRS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 564,
+          "like_count": 8640,
+          "listed_count": 1,
+          "media_count": 119,
+          "tweet_count": 1284
+        },
+        "url": "https://t.co/slB5soWybu",
+        "username": "TL_Xingyi",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

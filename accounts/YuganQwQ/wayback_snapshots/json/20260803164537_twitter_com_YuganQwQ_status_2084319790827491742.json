@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082120776925503488",
+        "3_2082120776602501120",
+        "13_2082120776619319296"
+      ],
+      "media_source_tweet_id": [
+        "2082120812040212777",
+        "2082120812040212777",
+        "2082120812040212777"
+      ]
+    },
+    "author_id": "2047425753227333632",
+    "conversation_id": "2084319790827491742",
+    "created_at": "2026-08-03T16:45:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T17:45:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084319790827491742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1789755150527279104",
+          "start": 3,
+          "username": "always2990"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PSSZGMyPib",
+          "end": 120,
+          "expanded_url": "https://x.com/always2990/status/2082120812040212777/video/1",
+          "media_key": "3_2082120776925503488",
+          "start": 97,
+          "url": "https://t.co/PSSZGMyPib"
+        },
+        {
+          "display_url": "pic.x.com/PSSZGMyPib",
+          "end": 120,
+          "expanded_url": "https://x.com/always2990/status/2082120812040212777/video/1",
+          "media_key": "3_2082120776602501120",
+          "start": 97,
+          "url": "https://t.co/PSSZGMyPib"
+        },
+        {
+          "display_url": "pic.x.com/PSSZGMyPib",
+          "end": 120,
+          "expanded_url": "https://x.com/always2990/status/2082120812040212777/video/1",
+          "media_key": "13_2082120776619319296",
+          "start": 97,
+          "url": "https://t.co/PSSZGMyPib"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084319790827491742",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082120812040212777",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @always2990: 这里纸条owo 前世2k粉\n这里没有收入来源 来当门槛妹啦\n求爸爸入门 入门福利多多！\n大v可以找我认证哦\n验证20坐标10r 出原味\n互fo互转的宝宝找我❤️ https://t.co/PSSZGMyPib"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082120776925503488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOUt0Kga4AA9mYA.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082120776602501120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOUt0JTaQAAmu1f.jpg",
+        "width": 1536
+      },
+      {
+        "duration_ms": 9333,
+        "height": 960,
+        "media_key": "13_2082120776619319296",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2082120776619319296/img/A6jzdBNL2AUoRvj1.jpg",
+        "public_metrics": {
+          "view_count": 1051
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082120776619319296/vid/avc1/320x426/z2tvHbOO7jrUS_Sg.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082120776619319296/vid/avc1/480x640/zjSjUKxmBQ9Dg1QJ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082120776619319296/vid/avc1/720x960/xbjVPuG3Rt9LQ0kd.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2082120776619319296/pl/_wamHmBPg4RugCHS.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082120776925503488",
+            "3_2082120776602501120",
+            "13_2082120776619319296"
+          ]
+        },
+        "author_id": "1789755150527279104",
+        "conversation_id": "2082120812040212777",
+        "created_at": "2026-07-28T15:07:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T16:07:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082120812040212777"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PSSZGMyPib",
+              "end": 104,
+              "expanded_url": "https://x.com/always2990/status/2082120812040212777/video/1",
+              "media_key": "3_2082120776925503488",
+              "start": 81,
+              "url": "https://t.co/PSSZGMyPib"
+            },
+            {
+              "display_url": "pic.x.com/PSSZGMyPib",
+              "end": 104,
+              "expanded_url": "https://x.com/always2990/status/2082120812040212777/video/1",
+              "media_key": "3_2082120776602501120",
+              "start": 81,
+              "url": "https://t.co/PSSZGMyPib"
+            },
+            {
+              "display_url": "pic.x.com/PSSZGMyPib",
+              "end": 104,
+              "expanded_url": "https://x.com/always2990/status/2082120812040212777/video/1",
+              "media_key": "13_2082120776619319296",
+              "start": 81,
+              "url": "https://t.co/PSSZGMyPib"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082120812040212777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2719,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "这里纸条owo 前世2k粉\n这里没有收入来源 来当门槛妹啦\n求爸爸入门 入门福利多多！\n大v可以找我认证哦\n验证20坐标10r 出原味\n互fo互转的宝宝找我❤️ https://t.co/PSSZGMyPib"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082120776925503488",
+            "3_2082120776602501120",
+            "13_2082120776619319296"
+          ],
+          "media_source_tweet_id": [
+            "2082120812040212777",
+            "2082120812040212777",
+            "2082120812040212777"
+          ]
+        },
+        "author_id": "2047425753227333632",
+        "conversation_id": "2084319790827491742",
+        "created_at": "2026-08-03T16:45:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T17:45:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084319790827491742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1789755150527279104",
+              "start": 3,
+              "username": "always2990"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PSSZGMyPib",
+              "end": 120,
+              "expanded_url": "https://x.com/always2990/status/2082120812040212777/video/1",
+              "media_key": "3_2082120776925503488",
+              "start": 97,
+              "url": "https://t.co/PSSZGMyPib"
+            },
+            {
+              "display_url": "pic.x.com/PSSZGMyPib",
+              "end": 120,
+              "expanded_url": "https://x.com/always2990/status/2082120812040212777/video/1",
+              "media_key": "3_2082120776602501120",
+              "start": 97,
+              "url": "https://t.co/PSSZGMyPib"
+            },
+            {
+              "display_url": "pic.x.com/PSSZGMyPib",
+              "end": 120,
+              "expanded_url": "https://x.com/always2990/status/2082120812040212777/video/1",
+              "media_key": "13_2082120776619319296",
+              "start": 97,
+              "url": "https://t.co/PSSZGMyPib"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084319790827491742",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082120812040212777",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @always2990: 这里纸条owo 前世2k粉\n这里没有收入来源 来当门槛妹啦\n求爸爸入门 入门福利多多！\n大v可以找我认证哦\n验证20坐标10r 出原味\n互fo互转的宝宝找我❤️ https://t.co/PSSZGMyPib"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 直fo是因为喜欢你呀 |永远怀念@yuganbb823\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "yuganbb823"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "name": "为何人生如此悲惨2.0互关巡回",
+        "pinned_tweet_id": "2083060079872389410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 277,
+          "like_count": 2295,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 574
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-12T20:31:08.000Z",
+        "description": "一个重生n次的小纸条..入我🚪的我都会真心对待！",
+        "id": "1789755150527279104",
+        "location": "距离你53公里",
+        "name": "My",
+        "pinned_tweet_id": "2082120812040212777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083977417501319169/gZVyqfz__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 11,
+          "like_count": 6,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 48
+        },
+        "url": "",
+        "username": "always2990",
+        "verified": false
+      }
+    ]
+  }
+}

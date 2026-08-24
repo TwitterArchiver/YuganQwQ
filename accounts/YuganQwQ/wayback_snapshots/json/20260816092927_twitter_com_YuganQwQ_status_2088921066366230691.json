@@ -1,0 +1,494 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2088920944379326535",
+    "created_at": "2026-08-16T09:29:27.000Z",
+    "display_text_range": [
+      60,
+      62
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T10:29:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088921066366230691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "449641629",
+          "start": 0,
+          "username": "licar1949"
+        },
+        {
+          "end": 21,
+          "id": "2016246570312990720",
+          "start": 11,
+          "username": "YuChenawa"
+        },
+        {
+          "end": 32,
+          "id": "840169524011786241",
+          "start": 22,
+          "username": "sdfz77602"
+        },
+        {
+          "end": 45,
+          "id": "1874465078642388992",
+          "start": 33,
+          "username": "NevenL25237"
+        },
+        {
+          "end": 59,
+          "id": "1763450818886606848",
+          "start": 46,
+          "username": "Isunia177991"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088921066366230691",
+    "in_reply_to_user_id": "449641629",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088920944379326535",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@licar1949 @YuChenawa @sdfz77602 @NevenL25237 @Isunia177991 耶！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 712,
+        "media_key": "3_2088918957290147840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP1UuV3b0AAumuY.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2088920944379326535",
+        "created_at": "2026-08-16T09:29:27.000Z",
+        "display_text_range": [
+          60,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T10:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088921066366230691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "449641629",
+              "start": 0,
+              "username": "licar1949"
+            },
+            {
+              "end": 21,
+              "id": "2016246570312990720",
+              "start": 11,
+              "username": "YuChenawa"
+            },
+            {
+              "end": 32,
+              "id": "840169524011786241",
+              "start": 22,
+              "username": "sdfz77602"
+            },
+            {
+              "end": 45,
+              "id": "1874465078642388992",
+              "start": 33,
+              "username": "NevenL25237"
+            },
+            {
+              "end": 59,
+              "id": "1763450818886606848",
+              "start": 46,
+              "username": "Isunia177991"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088921066366230691",
+        "in_reply_to_user_id": "449641629",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088920944379326535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@licar1949 @YuChenawa @sdfz77602 @NevenL25237 @Isunia177991 耶！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088918957290147840"
+          ]
+        },
+        "author_id": "449641629",
+        "conversation_id": "2088920944379326535",
+        "created_at": "2026-08-16T09:28:58.000Z",
+        "display_text_range": [
+          0,
+          162
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T10:21:06.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088918966211338701",
+          "2088920944379326535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 38,
+              "id": "2016246570312990720",
+              "start": 28,
+              "username": "YuChenawa"
+            },
+            {
+              "end": 59,
+              "id": "2047425753227333632",
+              "start": 50,
+              "username": "YuganQwQ"
+            },
+            {
+              "end": 86,
+              "id": "840169524011786241",
+              "start": 76,
+              "username": "sdfz77602"
+            },
+            {
+              "end": 111,
+              "id": "1874465078642388992",
+              "start": 99,
+              "username": "NevenL25237"
+            },
+            {
+              "end": 133,
+              "id": "1763450818886606848",
+              "start": 120,
+              "username": "Isunia177991"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/82TDGzcHH3",
+              "end": 186,
+              "expanded_url": "https://x.com/licar1949/status/2088920944379326535/photo/1",
+              "media_key": "3_2088918957290147840",
+              "start": 163,
+              "url": "https://t.co/82TDGzcHH3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088920944379326535",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088918957290147840"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "随机选取的五位评论区用户（基于目前能获取到的部分回复）：@YuChenawa\n（𝒴𝓊𝒸𝒽ℯ𝓃）  \n@YuganQwQ\n（为何人生如此悲惨2.0）  \n@sdfz77602 \n（请带给我明天）  \n@NevenL25237 \n（静静）  \n@Isunia177991 \n（♡†Isuna†♡）\n请以上五位私信我呀\n5个10r https://t.co/82TDGzcHH3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 查成分回fo 直fo是因为喜欢你呀 |\n前世@yuganbb823 仆人@ci_shang85157\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yuganbb823"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "ci_shang85157"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuganqwq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuganqwq",
+                "start": 0,
+                "url": "https://t.co/19gBB14uzC"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "is_identity_verified": false,
+        "location": "距离你4.5km",
+        "most_recent_tweet_id": "2088921066366230691",
+        "name": "为何人生如此悲惨2.0",
+        "pinned_tweet_id": "2083060079872389410",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047425753227333632/1786741767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 362,
+          "like_count": 4032,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 937
+        },
+        "url": "https://t.co/19gBB14uzC",
+        "username": "YuganQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-12-29T09:58:30.000Z",
+        "description": "我是菜菜，大号@bisco91395061 被害，寻回互关中🥹🥹！｜od自伤｜傻福精神病休学中｜LGBTQ🏳️‍🌈友好｜一般路过同人女｜直fo是喜欢泥💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 7,
+                "username": "bisco91395061"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/himenonana",
+                "end": 23,
+                "expanded_url": "http://t.me/himenonana",
+                "start": 0,
+                "url": "https://t.co/PeMWnKgOVZ"
+              }
+            ]
+          }
+        },
+        "id": "449641629",
+        "is_identity_verified": false,
+        "location": "🚪52/188",
+        "most_recent_tweet_id": "2088920944379326535",
+        "name": "菜菜警官2.0（寻回互关）",
+        "pinned_tweet_id": "2086676463139561837",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/449641629/1786337077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086675062690807808/4roY9VYg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 214,
+          "like_count": 458,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 129
+        },
+        "url": "https://t.co/PeMWnKgOVZ",
+        "username": "licar1949",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-27T20:27:15.000Z",
+        "description": "这里的每一种颜色，都有属于你勇敢做自己的身影",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuchen86833",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuchen86833",
+                "start": 0,
+                "url": "https://t.co/vconkxHXnn"
+              }
+            ]
+          }
+        },
+        "id": "2016246570312990720",
+        "is_identity_verified": false,
+        "location": "天堂✝️",
+        "most_recent_tweet_id": "2088857235984097448",
+        "name": "𝒴𝓊𝒸𝒽ℯ𝓃",
+        "pinned_tweet_id": "2060749702883332402",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2016246570312990720/1769808210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017348660867305473/hJCnFu9n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 583,
+          "following_count": 544,
+          "like_count": 4842,
+          "listed_count": 3,
+          "media_count": 111,
+          "tweet_count": 1498
+        },
+        "url": "https://t.co/vconkxHXnn",
+        "username": "YuChenawa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-03-10T11:56:38.000Z",
+        "description": "03 | 焦虑抑郁障碍丨友一切丨生理心理女丨不是直的丨直关是喜欢你",
+        "id": "840169524011786241",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088728021985616256",
+        "name": "请带给我明天",
+        "pinned_tweet_id": "2077002899763483099",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/840169524011786241/1688750408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075139845656346624/nuq9WQcY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 289,
+          "like_count": 1217,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 1133
+        },
+        "url": "",
+        "username": "sdfz77602",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-01T14:38:53.000Z",
+        "description": "爱情是治疗一切的良药。                                          \n                  想被人提问：https://t.co/BR6MJY2HeZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nevenl25237",
+                "end": 101,
+                "expanded_url": "https://ngl.link/nevenl25237",
+                "start": 78,
+                "url": "https://t.co/BR6MJY2HeZ"
+              }
+            ]
+          }
+        },
+        "id": "1874465078642388992",
+        "is_identity_verified": false,
+        "location": "上海",
+        "most_recent_tweet_id": "2088904521380749765",
+        "name": "静静",
+        "pinned_tweet_id": "2082515164923150594",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1874465078642388992/1784858092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076470612927864832/xA874v1D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 598,
+          "like_count": 1847,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 690
+        },
+        "url": "",
+        "username": "NevenL25237",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-01T06:27:05.000Z",
+        "description": "＝久藤伊绪奈  🔪💊被迫戒_(:з」∠)_\n🥦💥 绿谷出久左位大欢迎 ‼️右位禁止‼️\n最喜欢的人是六条銀ÒωÓ♡♡ 有大量suki♡言论TT\n在生活着！会写一些东西！",
+        "id": "1763450818886606848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088868316693864908",
+        "name": "♡†Isuna†♡",
+        "pinned_tweet_id": "2088202657924358237",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1763450818886606848/1784719365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079070452736258048/JYYGnm03_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 224,
+          "like_count": 1392,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 351
+        },
+        "url": "",
+        "username": "Isunia177991",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

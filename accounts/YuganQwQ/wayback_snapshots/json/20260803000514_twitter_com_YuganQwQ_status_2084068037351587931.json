@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2083889720933650569",
+    "created_at": "2026-08-03T00:05:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T01:05:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084068037351587931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2005987011866615809",
+          "start": 0,
+          "username": "hhhmbbs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084068037351587931",
+    "in_reply_to_user_id": "2005987011866615809",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083915918544113735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hhhmbbs 我草。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3120,
+        "media_key": "3_2083915907257249792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOuOegHasAATh4j.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2083889720933650569",
+        "created_at": "2026-08-03T00:05:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T01:05:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084068037351587931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2005987011866615809",
+              "start": 0,
+              "username": "hhhmbbs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084068037351587931",
+        "in_reply_to_user_id": "2005987011866615809",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083915918544113735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hhhmbbs 我草。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083915907257249792"
+          ]
+        },
+        "author_id": "2005987011866615809",
+        "conversation_id": "2083889720933650569",
+        "created_at": "2026-08-02T14:00:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T15:00:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083915918544113735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2047425753227333632",
+              "start": 0,
+              "username": "YuganQwQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iFs4lytSRq",
+              "end": 39,
+              "expanded_url": "https://x.com/hhhmbbs/status/2083915918544113735/photo/1",
+              "media_key": "3_2083915907257249792",
+              "start": 16,
+              "url": "https://t.co/iFs4lytSRq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083915918544113735",
+        "in_reply_to_user_id": "2047425753227333632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083889720933650569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuganQwQ 没错就是我 https://t.co/iFs4lytSRq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 直fo是因为喜欢你呀 |永远怀念@yuganbb823\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "yuganbb823"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "name": "为何人生如此悲惨2.0互关巡回",
+        "pinned_tweet_id": "2083060079872389410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 273,
+          "like_count": 2250,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 566
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-30T12:59:18.000Z",
+        "description": "",
+        "id": "2005987011866615809",
+        "name": "高呼我名",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068063691975938048/uVGjhR_s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 59,
+          "like_count": 124,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 78
+        },
+        "url": "",
+        "username": "hhhmbbs",
+        "verified": false
+      }
+    ]
+  }
+}

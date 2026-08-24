@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088874138798522368",
+        "3_2088874152027459584"
+      ],
+      "media_source_tweet_id": [
+        "2088874163620413586",
+        "2088874163620413586"
+      ]
+    },
+    "author_id": "2047425753227333632",
+    "conversation_id": "2089073280657330379",
+    "created_at": "2026-08-16T19:34:17.000Z",
+    "display_text_range": [
+      0,
+      87
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T20:34:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089073280657330379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2037817579448807424",
+          "start": 3,
+          "username": "Yuki283113"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Qfyl2G5PQk",
+          "end": 87,
+          "expanded_url": "https://x.com/Yuki283113/status/2088874163620413586/photo/1",
+          "media_key": "3_2088874138798522368",
+          "start": 64,
+          "url": "https://t.co/Qfyl2G5PQk"
+        },
+        {
+          "display_url": "pic.x.com/Qfyl2G5PQk",
+          "end": 87,
+          "expanded_url": "https://x.com/Yuki283113/status/2088874163620413586/photo/1",
+          "media_key": "3_2088874152027459584",
+          "start": 64,
+          "url": "https://t.co/Qfyl2G5PQk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089073280657330379",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088874138798522368"
+      },
+      {
+        "media_key": "3_2088874152027459584"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088874163620413586",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yuki283113: 遗憾的，乐子岐3.0无法与您继续互动，现在出现的是4.0\n不嫌麻烦的朋友请帮转一下🥺寻回互fo https://t.co/Qfyl2G5PQk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1138,
+        "media_key": "3_2088874138798522368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP0r9j-WAAATaIh.jpg",
+        "width": 1063
+      },
+      {
+        "height": 1136,
+        "media_key": "3_2088874152027459584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP0r-VQXkAAU7_F.jpg",
+        "width": 968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088874138798522368",
+            "3_2088874152027459584"
+          ],
+          "media_source_tweet_id": [
+            "2088874163620413586",
+            "2088874163620413586"
+          ]
+        },
+        "author_id": "2047425753227333632",
+        "conversation_id": "2089073280657330379",
+        "created_at": "2026-08-16T19:34:17.000Z",
+        "display_text_range": [
+          0,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T20:34:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089073280657330379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2037817579448807424",
+              "start": 3,
+              "username": "Yuki283113"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qfyl2G5PQk",
+              "end": 87,
+              "expanded_url": "https://x.com/Yuki283113/status/2088874163620413586/photo/1",
+              "media_key": "3_2088874138798522368",
+              "start": 64,
+              "url": "https://t.co/Qfyl2G5PQk"
+            },
+            {
+              "display_url": "pic.x.com/Qfyl2G5PQk",
+              "end": 87,
+              "expanded_url": "https://x.com/Yuki283113/status/2088874163620413586/photo/1",
+              "media_key": "3_2088874152027459584",
+              "start": 64,
+              "url": "https://t.co/Qfyl2G5PQk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089073280657330379",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088874138798522368"
+          },
+          {
+            "media_key": "3_2088874152027459584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088874163620413586",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yuki283113: 遗憾的，乐子岐3.0无法与您继续互动，现在出现的是4.0\n不嫌麻烦的朋友请帮转一下🥺寻回互fo https://t.co/Qfyl2G5PQk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088874138798522368",
+            "3_2088874152027459584"
+          ]
+        },
+        "author_id": "2037817579448807424",
+        "conversation_id": "2088874163620413586",
+        "created_at": "2026-08-16T06:23:04.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T07:23:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088874163620413586"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qfyl2G5PQk",
+              "end": 71,
+              "expanded_url": "https://x.com/Yuki283113/status/2088874163620413586/photo/1",
+              "media_key": "3_2088874138798522368",
+              "start": 48,
+              "url": "https://t.co/Qfyl2G5PQk"
+            },
+            {
+              "display_url": "pic.x.com/Qfyl2G5PQk",
+              "end": 71,
+              "expanded_url": "https://x.com/Yuki283113/status/2088874163620413586/photo/1",
+              "media_key": "3_2088874152027459584",
+              "start": 48,
+              "url": "https://t.co/Qfyl2G5PQk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088874163620413586",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088874138798522368"
+          },
+          {
+            "media_key": "3_2088874152027459584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1630,
+          "like_count": 49,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "遗憾的，乐子岐3.0无法与您继续互动，现在出现的是4.0\n不嫌麻烦的朋友请帮转一下🥺寻回互fo https://t.co/Qfyl2G5PQk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 查成分回fo 直fo是因为喜欢你呀 |\n前世@yuganbb823 仆人@ci_shang85157\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yuganbb823"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "ci_shang85157"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuganqwq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuganqwq",
+                "start": 0,
+                "url": "https://t.co/19gBB14uzC"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "is_identity_verified": false,
+        "location": "距离你4.5km",
+        "most_recent_tweet_id": "2089073280657330379",
+        "name": "为何人生如此悲惨2.0",
+        "pinned_tweet_id": "2083060079872389410",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047425753227333632/1786741767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 380,
+          "like_count": 4071,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 955
+        },
+        "url": "https://t.co/19gBB14uzC",
+        "username": "YuganQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-28T09:02:43.000Z",
+        "description": "早已逝去之人，早已宽恕之罪。\n\n互fo回归，请，会微差成分，全友好\n\n这是第几个了。?",
+        "id": "2037817579448807424",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2089046394220740700",
+        "name": "岐哥，梦想跪了。4.0",
+        "pinned_tweet_id": "2088874163620413586",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2037817579448807424/1786884389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084998836246700033/-ARs9g6U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 151,
+          "like_count": 100,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 70
+        },
+        "url": "",
+        "username": "Yuki283113",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

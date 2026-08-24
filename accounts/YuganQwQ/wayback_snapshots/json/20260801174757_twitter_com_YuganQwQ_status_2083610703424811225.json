@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2083610703424811225",
+    "created_at": "2026-08-01T17:47:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T18:47:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083610703424811225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1935799186735431680",
+          "start": 3,
+          "username": "ink_linku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083610703424811225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 88
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083246087524004234",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ink_linku: 我的社交准则是墙外朋友可以加我墙内联系方式 但是墙内不能加我墙外。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2083610703424811225",
+        "created_at": "2026-08-01T17:47:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T18:47:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083610703424811225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1935799186735431680",
+              "start": 3,
+              "username": "ink_linku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083610703424811225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 88
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083246087524004234",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ink_linku: 我的社交准则是墙外朋友可以加我墙内联系方式 但是墙内不能加我墙外。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935799186735431680",
+        "conversation_id": "2083246087524004234",
+        "created_at": "2026-07-31T17:39:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T18:39:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083246087524004234"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083246087524004234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 72395,
+          "like_count": 1154,
+          "quote_count": 15,
+          "reply_count": 204,
+          "retweet_count": 88
+        },
+        "reply_settings": "everyone",
+        "text": "我的社交准则是墙外朋友可以加我墙内联系方式 但是墙内不能加我墙外。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 直fo是因为喜欢你呀 |永远怀念@yuganbb823\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "yuganbb823"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "name": "为何人生如此悲惨2.0互关巡回",
+        "pinned_tweet_id": "2083060079872389410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 259,
+          "like_count": 1935,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 532
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-19T20:37:58.000Z",
+        "description": "低浮上",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ink_linku",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ink_linku",
+                "start": 0,
+                "url": "https://t.co/4QnKpzTyrM"
+              }
+            ]
+          }
+        },
+        "id": "1935799186735431680",
+        "location": "天堂",
+        "name": "白昼夢中",
+        "pinned_tweet_id": "2082866721853952156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082867011441274881/5T2PZkHY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 144,
+          "like_count": 426,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 126
+        },
+        "url": "https://t.co/4QnKpzTyrM",
+        "username": "ink_linku",
+        "verified": false
+      }
+    ]
+  }
+}

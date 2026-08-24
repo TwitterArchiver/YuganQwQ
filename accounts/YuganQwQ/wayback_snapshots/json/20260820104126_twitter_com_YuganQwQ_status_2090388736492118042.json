@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2090375895634895256",
+    "created_at": "2026-08-20T10:41:26.000Z",
+    "display_text_range": [
+      24,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T11:41:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090388736492118042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2032064554684026880",
+          "start": 0,
+          "username": "Saya_Zzz77"
+        },
+        {
+          "end": 23,
+          "id": "2045921763553312768",
+          "start": 12,
+          "username": "_weiwudage"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090388736492118042",
+    "in_reply_to_user_id": "2032064554684026880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090375895634895256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Saya_Zzz77 @_weiwudage 喵喵喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2090375895634895256",
+        "created_at": "2026-08-20T10:41:26.000Z",
+        "display_text_range": [
+          24,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T11:41:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090388736492118042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2032064554684026880",
+              "start": 0,
+              "username": "Saya_Zzz77"
+            },
+            {
+              "end": 23,
+              "id": "2045921763553312768",
+              "start": 12,
+              "username": "_weiwudage"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090388736492118042",
+        "in_reply_to_user_id": "2032064554684026880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090375895634895256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Saya_Zzz77 @_weiwudage 喵喵喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032064554684026880",
+        "conversation_id": "2090375895634895256",
+        "created_at": "2026-08-20T09:50:25.000Z",
+        "display_text_range": [
+          0,
+          108
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T10:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090375895634895256"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090375895634895256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "終於100fo了謝謝大家呀&gt;&lt;\n\n求幫轉呀\n關注+評論+轉發 參與抽獎\n\n1.一等獎8.88\n2.二等獎5.2*2\n3.三等獎0.52*2\n\n一共抽五個寶貝嘿嘿\n8.28或8.29開獎因為我最近太忙惹TT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 查成分回fo 直fo是因为喜欢你呀 |\n前世@yuganbb823 宝宝@ci_shang85157\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yuganbb823"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "ci_shang85157"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuganqwq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuganqwq",
+                "start": 0,
+                "url": "https://t.co/19gBB14uzC"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "is_identity_verified": false,
+        "location": "距离你4.5km",
+        "most_recent_tweet_id": "2090388736492118042",
+        "name": "为何人生如此悲惨2.0",
+        "pinned_tweet_id": "2083060079872389410",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047425753227333632/1786741767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 398,
+          "like_count": 4272,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 1084
+        },
+        "url": "https://t.co/19gBB14uzC",
+        "username": "YuganQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T12:02:08.000Z",
+        "description": "請叫我紗｜愛與痛 糾纏不休\ncn/en🉑 #shtwt #costwt\n同類和cos互轉互fo/擴列私信哦",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 21,
+                "tag": "shtwt"
+              },
+              {
+                "end": 35,
+                "start": 28,
+                "tag": "costwt"
+              }
+            ]
+          }
+        },
+        "id": "2032064554684026880",
+        "is_identity_verified": false,
+        "location": "💊🩸🔪",
+        "most_recent_tweet_id": "2090375895634895256",
+        "name": "紗Saya",
+        "pinned_tweet_id": "2083677542167491044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2032064554684026880/1777985768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032065434527416322/MVu58gG3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 97,
+          "like_count": 652,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 269
+        },
+        "url": "",
+        "username": "Saya_Zzz77",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-19T17:45:48.000Z",
+        "description": "你别骂我我玻璃心   \n贫穷/内向（？）/餐劵/暂戒o割丨取向KAWAII\n只fo好感丨交友大欢迎丨留言请私丨非互fo🚪5.2\n这也是我@makeasweetdream",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 68,
+                "username": "makeasweetdream"
+              }
+            ]
+          }
+        },
+        "id": "2045921763553312768",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090381805199458582",
+        "name": "苦愛",
+        "pinned_tweet_id": "2083351160136818777",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2045921763553312768/1786613085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078407875937140736/kfwrb55X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 77,
+          "like_count": 2040,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 1083
+        },
+        "url": "",
+        "username": "_weiwudage",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

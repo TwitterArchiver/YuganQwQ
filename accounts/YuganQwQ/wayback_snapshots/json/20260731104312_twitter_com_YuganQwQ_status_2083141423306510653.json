@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2083139924350419030",
+    "created_at": "2026-07-31T10:43:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T11:43:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083141423306510653"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2083141423306510653",
+    "in_reply_to_user_id": "2047425753227333632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083139924350419030",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我找了闲鱼的那种能推票的，但是他们都说不可以帮我弄，说弄不了，我真的要哭了，好像就去给他真正的死亡证明"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2083139912178585600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOjMtpLX0AAzTfW.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2083139924350419030",
+        "created_at": "2026-07-31T10:43:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T11:43:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083141423306510653"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083141423306510653",
+        "in_reply_to_user_id": "2047425753227333632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083139924350419030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我找了闲鱼的那种能推票的，但是他们都说不可以帮我弄，说弄不了，我真的要哭了，好像就去给他真正的死亡证明"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083139912178585600"
+          ]
+        },
+        "author_id": "2047425753227333632",
+        "conversation_id": "2083139924350419030",
+        "created_at": "2026-07-31T10:37:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T11:37:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083139924350419030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sE9ec7Wvdq",
+              "end": 112,
+              "expanded_url": "https://x.com/YuganQwQ/status/2083139924350419030/photo/1",
+              "media_key": "3_2083139912178585600",
+              "start": 89,
+              "url": "https://t.co/sE9ec7Wvdq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083139924350419030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前阵子脑子一热买了机票准备去找诡秘紫砂的，然后他有点害怕，我就把机票给退了，结果他妈的没退成功也不告诉我，现在我花呗欠了1000块钱救命。。谁能给我一点钱。。。我真的好崩溃。。 https://t.co/sE9ec7Wvdq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 直fo是因为喜欢你呀 |永远怀念@yuganbb823\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "yuganbb823"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "name": "为何人生如此悲惨2.0互关巡回",
+        "pinned_tweet_id": "2083060079872389410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 247,
+          "like_count": 1812,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 493
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

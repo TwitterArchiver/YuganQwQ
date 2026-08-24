@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060979517091618816",
+        "3_2060979517079105536",
+        "3_2060979517091610625"
+      ],
+      "media_source_tweet_id": [
+        "2060979532749000940",
+        "2060979532749000940",
+        "2060979532749000940"
+      ]
+    },
+    "author_id": "2047425753227333632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2084207182325711201",
+    "created_at": "2026-08-03T09:18:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T10:18:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084207182325711201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2018501221393534977",
+          "start": 3,
+          "username": "1onglive_Love"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TbOtArH4sT",
+          "end": 53,
+          "expanded_url": "https://x.com/1onglive_Love/status/2060979532749000940/photo/1",
+          "media_key": "3_2060979517091618816",
+          "start": 30,
+          "url": "https://t.co/TbOtArH4sT"
+        },
+        {
+          "display_url": "pic.x.com/TbOtArH4sT",
+          "end": 53,
+          "expanded_url": "https://x.com/1onglive_Love/status/2060979532749000940/photo/1",
+          "media_key": "3_2060979517079105536",
+          "start": 30,
+          "url": "https://t.co/TbOtArH4sT"
+        },
+        {
+          "display_url": "pic.x.com/TbOtArH4sT",
+          "end": 53,
+          "expanded_url": "https://x.com/1onglive_Love/status/2060979532749000940/photo/1",
+          "media_key": "3_2060979517091610625",
+          "start": 30,
+          "url": "https://t.co/TbOtArH4sT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084207182325711201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060979532749000940",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @1onglive_Love: 新置顶\n\n内容见图2 https://t.co/TbOtArH4sT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1369,
+        "media_key": "3_2060979517091618816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJoR84WaIAA3jLe.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060979517079105536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJoR84TbMAARMu-.jpg",
+        "width": 945
+      },
+      {
+        "height": 2035,
+        "media_key": "3_2060979517091610625",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJoR84WaAAEpm6C.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060979517091618816",
+            "3_2060979517079105536",
+            "3_2060979517091610625"
+          ]
+        },
+        "author_id": "2018501221393534977",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2060979532749000940",
+        "created_at": "2026-05-31T06:59:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T07:59:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060979532749000940"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TbOtArH4sT",
+              "end": 34,
+              "expanded_url": "https://x.com/1onglive_Love/status/2060979532749000940/photo/1",
+              "media_key": "3_2060979517091618816",
+              "start": 11,
+              "url": "https://t.co/TbOtArH4sT"
+            },
+            {
+              "display_url": "pic.x.com/TbOtArH4sT",
+              "end": 34,
+              "expanded_url": "https://x.com/1onglive_Love/status/2060979532749000940/photo/1",
+              "media_key": "3_2060979517079105536",
+              "start": 11,
+              "url": "https://t.co/TbOtArH4sT"
+            },
+            {
+              "display_url": "pic.x.com/TbOtArH4sT",
+              "end": 34,
+              "expanded_url": "https://x.com/1onglive_Love/status/2060979532749000940/photo/1",
+              "media_key": "3_2060979517091610625",
+              "start": 11,
+              "url": "https://t.co/TbOtArH4sT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060979532749000940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 28552,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "reply_settings": "following",
+        "text": "新置顶\n\n内容见图2 https://t.co/TbOtArH4sT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060979517091618816",
+            "3_2060979517079105536",
+            "3_2060979517091610625"
+          ],
+          "media_source_tweet_id": [
+            "2060979532749000940",
+            "2060979532749000940",
+            "2060979532749000940"
+          ]
+        },
+        "author_id": "2047425753227333632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2084207182325711201",
+        "created_at": "2026-08-03T09:18:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T10:18:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084207182325711201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2018501221393534977",
+              "start": 3,
+              "username": "1onglive_Love"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TbOtArH4sT",
+              "end": 53,
+              "expanded_url": "https://x.com/1onglive_Love/status/2060979532749000940/photo/1",
+              "media_key": "3_2060979517091618816",
+              "start": 30,
+              "url": "https://t.co/TbOtArH4sT"
+            },
+            {
+              "display_url": "pic.x.com/TbOtArH4sT",
+              "end": 53,
+              "expanded_url": "https://x.com/1onglive_Love/status/2060979532749000940/photo/1",
+              "media_key": "3_2060979517079105536",
+              "start": 30,
+              "url": "https://t.co/TbOtArH4sT"
+            },
+            {
+              "display_url": "pic.x.com/TbOtArH4sT",
+              "end": 53,
+              "expanded_url": "https://x.com/1onglive_Love/status/2060979532749000940/photo/1",
+              "media_key": "3_2060979517091610625",
+              "start": 30,
+              "url": "https://t.co/TbOtArH4sT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084207182325711201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060979532749000940",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @1onglive_Love: 新置顶\n\n内容见图2 https://t.co/TbOtArH4sT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 直fo是因为喜欢你呀 |永远怀念@yuganbb823\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "yuganbb823"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "name": "为何人生如此悲惨2.0互关巡回",
+        "pinned_tweet_id": "2083060079872389410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 274,
+          "like_count": 2282,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 574
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-03T01:46:16.000Z",
+        "description": "等等第八世/杭州 命若浮萍 另一个我@deng_june10",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "deng_june10"
+              }
+            ]
+          }
+        },
+        "id": "2018501221393534977",
+        "location": "杭州",
+        "name": "等等",
+        "pinned_tweet_id": "2060979532749000940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059616436331651072/FWTnGIaR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 6,
+          "like_count": 35,
+          "listed_count": 2,
+          "media_count": 15,
+          "tweet_count": 136
+        },
+        "url": "",
+        "username": "1onglive_Love",
+        "verified": false
+      }
+    ]
+  }
+}

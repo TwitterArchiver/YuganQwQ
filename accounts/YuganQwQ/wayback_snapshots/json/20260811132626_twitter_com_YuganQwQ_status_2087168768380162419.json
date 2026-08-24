@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2086738962941432225",
+    "created_at": "2026-08-11T13:26:26.000Z",
+    "display_text_range": [
+      28,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T14:26:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087168768380162419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2048780984418492416",
+          "start": 0,
+          "username": "Michael90398026"
+        },
+        {
+          "end": 27,
+          "id": "38217523",
+          "start": 17,
+          "username": "ZakkysLab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087168768380162419",
+    "in_reply_to_user_id": "2048780984418492416",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087165625366188127",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Michael90398026 @ZakkysLab 😝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2086738962941432225",
+        "created_at": "2026-08-11T13:26:26.000Z",
+        "display_text_range": [
+          28,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T14:26:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087168768380162419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2048780984418492416",
+              "start": 0,
+              "username": "Michael90398026"
+            },
+            {
+              "end": 27,
+              "id": "38217523",
+              "start": 17,
+              "username": "ZakkysLab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087168768380162419",
+        "in_reply_to_user_id": "2048780984418492416",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087165625366188127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Michael90398026 @ZakkysLab 😝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048780984418492416",
+        "conversation_id": "2086738962941432225",
+        "created_at": "2026-08-11T13:13:57.000Z",
+        "display_text_range": [
+          21,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T14:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087165625366188127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2047425753227333632",
+              "start": 0,
+              "username": "YuganQwQ"
+            },
+            {
+              "end": 20,
+              "id": "38217523",
+              "start": 10,
+              "username": "ZakkysLab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087165625366188127",
+        "in_reply_to_user_id": "2047425753227333632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086738962941432225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuganQwQ @ZakkysLab 66可以可以"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 查成分回fo 直fo是因为喜欢你呀 |\n前世@yuganbb823  仆人@ci_shang85157\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yuganbb823"
+              },
+              {
+                "end": 79,
+                "start": 65,
+                "username": "ci_shang85157"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "is_identity_verified": false,
+        "location": "距离你4.5km",
+        "most_recent_tweet_id": "2087168768380162419",
+        "name": "为何人生如此悲惨2.0互关巡回",
+        "pinned_tweet_id": "2083060079872389410",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047425753227333632/1785103248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 312,
+          "like_count": 3046,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 723
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-27T15:07:19.000Z",
+        "description": "邪恶夏树",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ot78725",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ot78725",
+                "start": 0,
+                "url": "https://t.co/3CzjIlW3sx"
+              }
+            ]
+          }
+        },
+        "id": "2048780984418492416",
+        "is_identity_verified": false,
+        "location": "沃尔库塔-5",
+        "most_recent_tweet_id": "2087166210412851547",
+        "name": "Natsuki",
+        "pinned_tweet_id": "2086173833321660888",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2048780984418492416/1786099001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085680977037426688/X3l9dl6n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 37,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 40
+        },
+        "url": "https://t.co/3CzjIlW3sx",
+        "username": "Michael90398026",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-05-06T16:33:52.000Z",
+        "description": "welcome to los pollos hermanos.\n正宗炸鸡兄弟美食，99.7% pr80，扎鸡叔很高兴为您服务",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "https://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/I2Is12SUjx"
+              }
+            ]
+          }
+        },
+        "id": "38217523",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087132243676504569",
+        "name": "Zakky's LAB 养号中",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/38217523/1785504296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083182116012224512/rSNbGMS3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 61,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 86
+        },
+        "url": "https://t.co/I2Is12SUjx",
+        "username": "ZakkysLab",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2082521239260725738",
+    "created_at": "2026-07-29T17:38:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T18:38:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082521239260725738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1579442033483075584",
+          "start": 3,
+          "username": "26suversider"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082521239260725738",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082083620492112145",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @26suversider: 我想问一下路上随便发摇头丸的恐怖大叔到底他妈在哪😂我这种穷逼连毒品都吸不了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2082521239260725738",
+        "created_at": "2026-07-29T17:38:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T18:38:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082521239260725738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1579442033483075584",
+              "start": 3,
+              "username": "26suversider"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082521239260725738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082083620492112145",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @26suversider: 我想问一下路上随便发摇头丸的恐怖大叔到底他妈在哪😂我这种穷逼连毒品都吸不了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1579442033483075584",
+        "conversation_id": "2082083620492112145",
+        "created_at": "2026-07-28T12:39:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T13:39:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082083620492112145"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082083620492112145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6545,
+          "like_count": 121,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "我想问一下路上随便发摇头丸的恐怖大叔到底他妈在哪😂我这种穷逼连毒品都吸不了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 加联系方式🚪188纯绿互关不需要喵 | 只跟同类互fo 直fo是因为喜欢你呀 |永远怀念@yuganbb823",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "yuganbb823"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "name": "为何人生如此悲惨2.0互关巡回",
+        "pinned_tweet_id": "2079370925015715919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 246,
+          "like_count": 1683,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 448
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-10T12:01:48.000Z",
+        "description": "专注我的嗑药生活\n🚪38纯绿聊天朋友圈\n\nhttps://t.co/bRRAIqGEOS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sukieu1",
+                "end": 44,
+                "expanded_url": "https://ngl.link/sukieu1",
+                "start": 21,
+                "url": "https://t.co/bRRAIqGEOS"
+              }
+            ]
+          }
+        },
+        "id": "1579442033483075584",
+        "name": "孙笑川籍吧",
+        "pinned_tweet_id": "2065793737977127349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069652627575414784/Z7qSci36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 798,
+          "following_count": 145,
+          "like_count": 1121,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 1286
+        },
+        "url": "",
+        "username": "26suversider",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2084351189873795186",
+    "created_at": "2026-08-03T19:13:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T20:13:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084356880755781653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2083858416402079745",
+          "start": 0,
+          "username": "EvansRichter"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084356880755781653",
+    "in_reply_to_user_id": "2083858416402079745",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084355512913764422",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EvansRichter 喵喵喵喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2084351189873795186",
+        "created_at": "2026-08-03T19:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T20:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084356880755781653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2083858416402079745",
+              "start": 0,
+              "username": "EvansRichter"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084356880755781653",
+        "in_reply_to_user_id": "2083858416402079745",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084355512913764422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EvansRichter 喵喵喵喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083858416402079745",
+        "conversation_id": "2084351189873795186",
+        "created_at": "2026-08-03T19:07:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T20:07:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084355512913764422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2047425753227333632",
+              "start": 0,
+              "username": "YuganQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084355512913764422",
+        "in_reply_to_user_id": "2047425753227333632",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084351189873795186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuganQwQ 🥺🫂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 直fo是因为喜欢你呀 |永远怀念@yuganbb823\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "yuganbb823"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "name": "为何人生如此悲惨2.0互关巡回",
+        "pinned_tweet_id": "2083060079872389410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 277,
+          "like_count": 2322,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 593
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-08-02T10:13:53.000Z",
+        "description": "这里是一个转生号，我相信熟悉我前世风格的人是能看出来我是谁的。由于多种原因，我基本废弃了我的前世账号，所以大家也不用去那个号找我了。\n还是简单介绍一下自己：\n男  07  身高188体重78  自由意志共产主义者  马克思主义者  ENFP  医学生 互关扩列大欢迎",
+        "id": "2083858416402079745",
+        "name": "59Panzergrenadier-Regiment",
+        "pinned_tweet_id": "2084250959761297592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083919150553145344/fsct0ExM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 155,
+          "like_count": 309,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 49
+        },
+        "url": "",
+        "username": "EvansRichter",
+        "verified": false
+      }
+    ]
+  }
+}

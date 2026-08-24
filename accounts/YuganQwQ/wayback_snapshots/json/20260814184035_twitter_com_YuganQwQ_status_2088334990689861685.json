@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2088089424064094344",
+    "created_at": "2026-08-14T18:40:35.000Z",
+    "display_text_range": [
+      11,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T19:40:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088334990689861685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2086057044662992896",
+          "start": 0,
+          "username": "Link_inku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088334990689861685",
+    "in_reply_to_user_id": "2086057044662992896",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088333819925471720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Link_inku ≽^⚈⩊⚈^≼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2088089424064094344",
+        "created_at": "2026-08-14T18:40:35.000Z",
+        "display_text_range": [
+          11,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T19:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088334990689861685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2086057044662992896",
+              "start": 0,
+              "username": "Link_inku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088334990689861685",
+        "in_reply_to_user_id": "2086057044662992896",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088333819925471720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Link_inku ≽^⚈⩊⚈^≼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2086057044662992896",
+        "conversation_id": "2088089424064094344",
+        "created_at": "2026-08-14T18:35:56.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T19:35:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088333819925471720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2047425753227333632",
+              "start": 0,
+              "username": "YuganQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088333819925471720",
+        "in_reply_to_user_id": "2047425753227333632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088089424064094344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuganQwQ 恭喜！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 查成分回fo 直fo是因为喜欢你呀 |\n前世@yuganbb823  仆人@ci_shang85157\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yuganbb823"
+              },
+              {
+                "end": 79,
+                "start": 65,
+                "username": "ci_shang85157"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "is_identity_verified": false,
+        "location": "距离你4.5km",
+        "most_recent_tweet_id": "2088334990689861685",
+        "name": "为何人生如此悲惨2.0互关巡回",
+        "pinned_tweet_id": "2083060079872389410",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047425753227333632/1785103248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 330,
+          "like_count": 3642,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 828
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-08T11:51:14.000Z",
+        "description": "前世@ink_linku\n漏转可以DM我 纯绿推。\nDM挑感兴趣的回(´-ω-`)\n低浮上",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "ink_linku"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ink_linku",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ink_linku",
+                "start": 0,
+                "url": "https://t.co/CH40glCF8D"
+              }
+            ]
+          }
+        },
+        "id": "2086057044662992896",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2088334614523732265",
+        "name": "Misty",
+        "pinned_tweet_id": "2086065714083852578",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2086057044662992896/1786190510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086057976742174721/1VjN5tRK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 618,
+          "following_count": 127,
+          "like_count": 171,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 271
+        },
+        "url": "https://t.co/CH40glCF8D",
+        "username": "Link_inku",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

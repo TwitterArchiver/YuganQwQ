@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086379501618102272"
+      ],
+      "media_source_tweet_id": [
+        "2086379506835865880"
+      ]
+    },
+    "author_id": "2047425753227333632",
+    "conversation_id": "2086760372782924264",
+    "created_at": "2026-08-10T10:23:37.000Z",
+    "display_text_range": [
+      0,
+      73
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T11:23:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086760372782924264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1751497892001685504",
+          "start": 3,
+          "username": "45_206MHz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fXU9C55Pok",
+          "end": 73,
+          "expanded_url": "https://x.com/45_206MHz/status/2086379506835865880/photo/1",
+          "media_key": "3_2086379501618102272",
+          "start": 50,
+          "url": "https://t.co/fXU9C55Pok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086760372782924264",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086379501618102272"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 95
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086379506835865880",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @45_206MHz: 家人：你和朋友出去玩要注意安全，不要乱交朋友\n实际上的我和我的朋友： https://t.co/fXU9C55Pok"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 206,
+        "media_key": "3_2086379501618102272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPRPGkSagAAMcm_.jpg",
+        "width": 318
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086379501618102272"
+          ]
+        },
+        "author_id": "1751497892001685504",
+        "conversation_id": "2086379506835865880",
+        "created_at": "2026-08-09T09:10:12.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T10:10:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086379506835865880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fXU9C55Pok",
+              "end": 58,
+              "expanded_url": "https://x.com/45_206MHz/status/2086379506835865880/photo/1",
+              "media_key": "3_2086379501618102272",
+              "start": 35,
+              "url": "https://t.co/fXU9C55Pok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086379506835865880",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086379501618102272"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 22163,
+          "like_count": 1414,
+          "quote_count": 5,
+          "reply_count": 60,
+          "retweet_count": 95
+        },
+        "reply_settings": "everyone",
+        "text": "家人：你和朋友出去玩要注意安全，不要乱交朋友\n实际上的我和我的朋友： https://t.co/fXU9C55Pok"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086379501618102272"
+          ],
+          "media_source_tweet_id": [
+            "2086379506835865880"
+          ]
+        },
+        "author_id": "2047425753227333632",
+        "conversation_id": "2086760372782924264",
+        "created_at": "2026-08-10T10:23:37.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T11:23:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086760372782924264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751497892001685504",
+              "start": 3,
+              "username": "45_206MHz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fXU9C55Pok",
+              "end": 73,
+              "expanded_url": "https://x.com/45_206MHz/status/2086379506835865880/photo/1",
+              "media_key": "3_2086379501618102272",
+              "start": 50,
+              "url": "https://t.co/fXU9C55Pok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086760372782924264",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086379501618102272"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 95
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086379506835865880",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @45_206MHz: 家人：你和朋友出去玩要注意安全，不要乱交朋友\n实际上的我和我的朋友： https://t.co/fXU9C55Pok"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 查成分回fo 直fo是因为喜欢你呀 |\n前世@yuganbb823  仆人@ci_shang85157\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yuganbb823"
+              },
+              {
+                "end": 79,
+                "start": 65,
+                "username": "ci_shang85157"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "is_identity_verified": false,
+        "location": "距离你4.5km",
+        "most_recent_tweet_id": "2086760372782924264",
+        "name": "为何人生如此悲惨2.0互关巡回",
+        "pinned_tweet_id": "2083060079872389410",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047425753227333632/1785103248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 283,
+          "like_count": 2804,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 691
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-28T06:50:23.000Z",
+        "description": "zh-CN | en-AU/NZ\nany pronoun\n叫我 45 就好啦\ngender apathetic\n里推: @45_206io | 🐱: @MomoseReina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 60,
+                "username": "45_206io"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "MomoseReina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "45.206mhz.com",
+                "end": 23,
+                "expanded_url": "http://45.206mhz.com",
+                "start": 0,
+                "url": "https://t.co/bRhXiVkO12"
+              }
+            ]
+          }
+        },
+        "id": "1751497892001685504",
+        "is_identity_verified": false,
+        "location": "maimai DX Circle (Int’l)",
+        "most_recent_tweet_id": "2086730367852290139",
+        "name": "45.206 MHᴢ",
+        "pinned_tweet_id": "2076918385678676330",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1751497892001685504/1780239833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039289556911194112/f7iNbdDq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3887,
+          "following_count": 497,
+          "like_count": 39035,
+          "listed_count": 3,
+          "media_count": 1016,
+          "tweet_count": 5079
+        },
+        "url": "https://t.co/bRhXiVkO12",
+        "username": "45_206MHz",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

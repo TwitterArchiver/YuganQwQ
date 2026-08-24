@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084982860721565696"
+      ],
+      "media_source_tweet_id": [
+        "2084982871211585741"
+      ]
+    },
+    "author_id": "2047425753227333632",
+    "conversation_id": "2085076034655805637",
+    "created_at": "2026-08-05T18:50:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T19:50:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085076034655805637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2084973651229626368",
+          "start": 3,
+          "username": "Yuki132831"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TIh1Za0xk0",
+          "end": 123,
+          "expanded_url": "https://x.com/Yuki132831/status/2084982871211585741/photo/1",
+          "media_key": "3_2084982860721565696",
+          "start": 100,
+          "url": "https://t.co/TIh1Za0xk0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085076034655805637",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084982871211585741",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yuki132831: 我是岐，账号全被邪恶msk击落😭\n我发誓这世再也不系度，老实当农民\n不闲麻烦的朋友可以请帮转帖，互fo抽20r\n3名朋友8.9日开奖\n打扰了，请帮转帖互fo魂归夕来😔 https://t.co/TIh1Za0xk0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 728,
+        "media_key": "3_2084982860721565696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO9Y3XgWMAARCXT.jpg",
+        "width": 991
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084982860721565696"
+          ]
+        },
+        "author_id": "2084973651229626368",
+        "conversation_id": "2084982871211585741",
+        "created_at": "2026-08-05T12:40:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T13:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084982871211585741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TIh1Za0xk0",
+              "end": 107,
+              "expanded_url": "https://x.com/Yuki132831/status/2084982871211585741/photo/1",
+              "media_key": "3_2084982860721565696",
+              "start": 84,
+              "url": "https://t.co/TIh1Za0xk0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084982871211585741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1600,
+          "like_count": 53,
+          "quote_count": 2,
+          "reply_count": 18,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "我是岐，账号全被邪恶msk击落😭\n我发誓这世再也不系度，老实当农民\n不闲麻烦的朋友可以请帮转帖，互fo抽20r\n3名朋友8.9日开奖\n打扰了，请帮转帖互fo魂归夕来😔 https://t.co/TIh1Za0xk0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084982860721565696"
+          ],
+          "media_source_tweet_id": [
+            "2084982871211585741"
+          ]
+        },
+        "author_id": "2047425753227333632",
+        "conversation_id": "2085076034655805637",
+        "created_at": "2026-08-05T18:50:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T19:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085076034655805637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2084973651229626368",
+              "start": 3,
+              "username": "Yuki132831"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TIh1Za0xk0",
+              "end": 123,
+              "expanded_url": "https://x.com/Yuki132831/status/2084982871211585741/photo/1",
+              "media_key": "3_2084982860721565696",
+              "start": 100,
+              "url": "https://t.co/TIh1Za0xk0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085076034655805637",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084982871211585741",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yuki132831: 我是岐，账号全被邪恶msk击落😭\n我发誓这世再也不系度，老实当农民\n不闲麻烦的朋友可以请帮转帖，互fo抽20r\n3名朋友8.9日开奖\n打扰了，请帮转帖互fo魂归夕来😔 https://t.co/TIh1Za0xk0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 查成分回fo  直fo是因为喜欢你呀 |\n前世@yuganbb823\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 51,
+                "username": "yuganbb823"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "location": "距离你4.5km",
+        "name": "为何人生如此悲惨2.0互关巡回",
+        "pinned_tweet_id": "2083060079872389410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 287,
+          "like_count": 2422,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 632
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-08-05T12:04:41.000Z",
+        "description": "早已逝去之人，早已宽恕之罪。\n前世  防炸回fo较慢，对不起，我已老实\n@Yuki312813_初号机雪图坠机\n@Yuki281331_二号机系度坠机\n@Yuki283113_四号机还没坠机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 36,
+                "username": "Yuki312813_"
+              },
+              {
+                "end": 68,
+                "start": 56,
+                "username": "Yuki281331_"
+              },
+              {
+                "end": 88,
+                "start": 76,
+                "username": "Yuki283113_"
+              }
+            ]
+          }
+        },
+        "id": "2084973651229626368",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想吐了。3.0。",
+        "pinned_tweet_id": "2084982871211585741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084984735097372672/LhDRHVRS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 82,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 46
+        },
+        "url": "",
+        "username": "Yuki132831",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069440756792905729"
+      ],
+      "media_source_tweet_id": [
+        "2069440766284632540"
+      ]
+    },
+    "author_id": "2047425753227333632",
+    "conversation_id": "2090499662008528978",
+    "created_at": "2026-08-20T18:02:13.000Z",
+    "display_text_range": [
+      0,
+      107
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T19:02:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090499662008528978"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 77,
+          "start": 73,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 83,
+          "start": 79,
+          "tag": "接线下"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1532606510487982080",
+          "start": 3,
+          "username": "Angelic01160483"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SL3NGWygsk",
+          "end": 107,
+          "expanded_url": "https://x.com/Angelic01160483/status/2069440766284632540/photo/1",
+          "media_key": "3_2069440756792905729",
+          "start": 84,
+          "url": "https://t.co/SL3NGWygsk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090499662008528978",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2069440756792905729"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069440766284632540",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Angelic01160483: 这里是新新前世1600 07年 辍学下海家庭原因也不好来赚钱生活求哥哥们溺爱 🧧口令回复哦 价格表私信 #门槛妹  #接线下 https://t.co/SL3NGWygsk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069440756792905729",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLghZ2hbUAEQbE3.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069440756792905729"
+          ],
+          "media_source_tweet_id": [
+            "2069440766284632540"
+          ]
+        },
+        "author_id": "2047425753227333632",
+        "conversation_id": "2090499662008528978",
+        "created_at": "2026-08-20T18:02:13.000Z",
+        "display_text_range": [
+          0,
+          107
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T19:02:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090499662008528978"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 77,
+              "start": 73,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 83,
+              "start": 79,
+              "tag": "接线下"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1532606510487982080",
+              "start": 3,
+              "username": "Angelic01160483"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SL3NGWygsk",
+              "end": 107,
+              "expanded_url": "https://x.com/Angelic01160483/status/2069440766284632540/photo/1",
+              "media_key": "3_2069440756792905729",
+              "start": 84,
+              "url": "https://t.co/SL3NGWygsk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090499662008528978",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2069440756792905729"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069440766284632540",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Angelic01160483: 这里是新新前世1600 07年 辍学下海家庭原因也不好来赚钱生活求哥哥们溺爱 🧧口令回复哦 价格表私信 #门槛妹  #接线下 https://t.co/SL3NGWygsk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069440756792905729"
+          ]
+        },
+        "author_id": "1532606510487982080",
+        "conversation_id": "2069440766284632540",
+        "created_at": "2026-06-23T15:21:41.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-06-23T16:21:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069440766284632540"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 56,
+              "start": 52,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 62,
+              "start": 58,
+              "tag": "接线下"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SL3NGWygsk",
+              "end": 86,
+              "expanded_url": "https://x.com/Angelic01160483/status/2069440766284632540/photo/1",
+              "media_key": "3_2069440756792905729",
+              "start": 63,
+              "url": "https://t.co/SL3NGWygsk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069440766284632540",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2069440756792905729"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 10248,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "这里是新新前世1600 07年 辍学下海家庭原因也不好来赚钱生活求哥哥们溺爱 🧧口令回复哦 价格表私信 #门槛妹  #接线下 https://t.co/SL3NGWygsk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 查成分回fo 直fo是因为喜欢你呀 |\n前世@yuganbb823 宝宝@ci_shang85157\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yuganbb823"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "ci_shang85157"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuganqwq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuganqwq",
+                "start": 0,
+                "url": "https://t.co/19gBB14uzC"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "is_identity_verified": false,
+        "location": "距离你4.5km",
+        "most_recent_tweet_id": "2090499662008528978",
+        "name": "为何人生如此悲惨2.0",
+        "pinned_tweet_id": "2083060079872389410",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047425753227333632/1786741767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 404,
+          "like_count": 4334,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 1099
+        },
+        "url": "https://t.co/19gBB14uzC",
+        "username": "YuganQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-06-03T06:14:18.000Z",
+        "description": "验证20 坐标深圳 广州",
+        "id": "1532606510487982080",
+        "is_identity_verified": false,
+        "location": "🚪188 ",
+        "most_recent_tweet_id": "2090487279278268552",
+        "name": "新新",
+        "pinned_tweet_id": "2069440766284632540",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1532606510487982080/1782227851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069439668467494912/MfTURw-F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 13,
+          "like_count": 11,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 68
+        },
+        "url": "",
+        "username": "Angelic01160483",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

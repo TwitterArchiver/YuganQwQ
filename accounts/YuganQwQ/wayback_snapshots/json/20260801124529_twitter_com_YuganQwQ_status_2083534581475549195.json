@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2082816590911795414",
+    "created_at": "2026-08-01T12:45:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T13:45:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083534581475549195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1970865362368610304",
+          "start": 0,
+          "username": "Brandy322512322"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083534581475549195",
+    "in_reply_to_user_id": "1970865362368610304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083281354859659328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Brandy322512322 我哭了！我都这么惨了还欺负我😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2082816590911795414",
+        "created_at": "2026-08-01T12:45:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T13:45:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083534581475549195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970865362368610304",
+              "start": 0,
+              "username": "Brandy322512322"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083534581475549195",
+        "in_reply_to_user_id": "1970865362368610304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083281354859659328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Brandy322512322 我哭了！我都这么惨了还欺负我😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970865362368610304",
+        "conversation_id": "2082816590911795414",
+        "created_at": "2026-07-31T19:59:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T20:59:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083281354859659328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2047425753227333632",
+              "start": 0,
+              "username": "YuganQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083281354859659328",
+        "in_reply_to_user_id": "2047425753227333632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082816590911795414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuganQwQ 操操操 谁举报你的 去死吧这种傻逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 直fo是因为喜欢你呀 |永远怀念@yuganbb823\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "yuganbb823"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "name": "为何人生如此悲惨2.0互关巡回",
+        "pinned_tweet_id": "2083060079872389410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 250,
+          "like_count": 1874,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 522
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-24T14:58:20.000Z",
+        "description": "无我梦中                                                                                                    前世:@Donna1054957和@otxiashu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 107,
+                "username": "Donna1054957"
+              },
+              {
+                "end": 130,
+                "start": 121,
+                "username": "otxiashu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ot78725",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ot78725",
+                "start": 0,
+                "url": "https://t.co/rAxtcjtivs"
+              }
+            ]
+          }
+        },
+        "id": "1970865362368610304",
+        "location": "沃尔库塔-5",
+        "name": "Ryoshu",
+        "pinned_tweet_id": "2082727062536880534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082721937508405249/1eGSC0rG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 64,
+          "like_count": 81,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 54
+        },
+        "url": "https://t.co/rAxtcjtivs",
+        "username": "Brandy322512322",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2087140040430293231",
+    "created_at": "2026-08-11T11:32:17.000Z",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T12:32:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087140040430293231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2083454983979384832",
+          "start": 3,
+          "username": "PregabalinCxq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087140040430293231",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083464722423390420",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PregabalinCxq: 在我号回来之前 关注加转发 我抽一盒ym好吗🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2087140040430293231",
+        "created_at": "2026-08-11T11:32:17.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T12:32:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087140040430293231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2083454983979384832",
+              "start": 3,
+              "username": "PregabalinCxq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087140040430293231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083464722423390420",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PregabalinCxq: 在我号回来之前 关注加转发 我抽一盒ym好吗🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083454983979384832",
+        "conversation_id": "2083464722423390420",
+        "created_at": "2026-08-01T08:07:53.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-01T09:07:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083464722423390420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pregabalincxq/…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/pregabalincxq/status/2083457188170027155",
+              "start": 25,
+              "url": "https://t.co/AjOPFtVQgZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083464722423390420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 311,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083457188170027155",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在我号回来之前 关注加转发 我抽一盒ym好吗🥺🥺 https://t.co/AjOPFtVQgZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 查成分回fo 直fo是因为喜欢你呀 |\n前世@yuganbb823  仆人@ci_shang85157\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yuganbb823"
+              },
+              {
+                "end": 79,
+                "start": 65,
+                "username": "ci_shang85157"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "is_identity_verified": false,
+        "location": "距离你4.5km",
+        "most_recent_tweet_id": "2087140040430293231",
+        "name": "为何人生如此悲惨2.0互关巡回",
+        "pinned_tweet_id": "2083060079872389410",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047425753227333632/1785103248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 309,
+          "like_count": 3012,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 713
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-01T07:30:57.000Z",
+        "description": "前世是小清分享普瑞巴林不好体验@cxq6666\n07｜餐券妹｜od ｜欢迎互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 15,
+                "username": "cxq6666"
+              }
+            ]
+          }
+        },
+        "id": "2083454983979384832",
+        "is_identity_verified": false,
+        "location": "浙江",
+        "most_recent_tweet_id": "2083464722423390420",
+        "name": "Chenxianq(小清2.0寻回互fo版",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083454983979384832/1785570212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083456306833412096/3serCAPX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 14,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "url": "",
+        "username": "PregabalinCxq",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

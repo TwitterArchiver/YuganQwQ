@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2088445112380510519",
+    "created_at": "2026-08-15T01:58:10.000Z",
+    "display_text_range": [
+      0,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T02:58:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088445112380510519"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/momogz0412/sta…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/momogz0412/status/2087950211356262457",
+          "start": 19,
+          "url": "https://t.co/KFCPtOlWw9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088445112380510519",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087950211356262457",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是我的钱😭😭😭😭╰😱╯╰😱╯╰😱╯ https://t.co/KFCPtOlWw9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 46466,
+        "height": 1024,
+        "media_key": "13_2087949997664804864",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087949997664804864/img/Z-kgm4XgvquDrEen.jpg",
+        "public_metrics": {
+          "view_count": 395443
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087949997664804864/vid/avc1/320x568/kOa4u_eyFPFGSSgk.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087949997664804864/vid/avc1/480x852/wOeXnBrOYnV5_Yem.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087949997664804864/vid/avc1/576x1024/VcxciXCrKucFpjKs.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087949997664804864/pl/KNeI49SZnn0my4RV.m3u8?v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2088445112380510519",
+        "created_at": "2026-08-15T01:58:10.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T02:58:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088445112380510519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/momogz0412/sta…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/momogz0412/status/2087950211356262457",
+              "start": 19,
+              "url": "https://t.co/KFCPtOlWw9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088445112380510519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087950211356262457",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是我的钱😭😭😭😭╰😱╯╰😱╯╰😱╯ https://t.co/KFCPtOlWw9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087949997664804864"
+          ]
+        },
+        "author_id": "868887840230330368",
+        "conversation_id": "2087950211356262457",
+        "created_at": "2026-08-13T17:11:37.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T18:11:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087950211356262457"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tZIO9AvQXK",
+              "end": 52,
+              "expanded_url": "https://x.com/momoGZ0412/status/2087950211356262457/video/1",
+              "media_key": "13_2087949997664804864",
+              "start": 29,
+              "url": "https://t.co/tZIO9AvQXK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087950211356262457",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2087949997664804864"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1458,
+          "impression_count": 780858,
+          "like_count": 4426,
+          "quote_count": 36,
+          "reply_count": 857,
+          "retweet_count": 476
+        },
+        "reply_settings": "everyone",
+        "text": "岳华峰，原西安政协主席，从他家中搜到的现金，达4亿元…… https://t.co/tZIO9AvQXK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 查成分回fo 直fo是因为喜欢你呀 |\n前世@yuganbb823 仆人@ci_shang85157\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yuganbb823"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "ci_shang85157"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "is_identity_verified": false,
+        "location": "距离你4.5km",
+        "most_recent_tweet_id": "2088445112380510519",
+        "name": "为何人生如此悲惨2.0",
+        "pinned_tweet_id": "2083060079872389410",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047425753227333632/1786741767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 345,
+          "like_count": 3809,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 858
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-05-28T17:52:59.000Z",
+        "description": "别人都假装正经，我只有假装不正经。\n\n欢迎投稿https://t.co/k8KJI3Q8bV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/xbc041",
+                "end": 46,
+                "expanded_url": "https://t.me/xbc041",
+                "start": 23,
+                "url": "https://t.co/k8KJI3Q8bV"
+              }
+            ]
+          }
+        },
+        "id": "868887840230330368",
+        "is_identity_verified": false,
+        "location": "Paris, France",
+        "most_recent_tweet_id": "2088437780791652810",
+        "name": "默默",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/868887840230330368/1636231732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996847012906717184/fVYoKJaa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82010,
+          "following_count": 6474,
+          "like_count": 167093,
+          "listed_count": 216,
+          "media_count": 7951,
+          "tweet_count": 24649
+        },
+        "url": "",
+        "username": "momoGZ0412",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2084320607513059329",
+    "created_at": "2026-08-04T10:09:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T11:09:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084582521879036116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1793001753568485376",
+          "start": 0,
+          "username": "YMNKsos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084582521879036116",
+    "in_reply_to_user_id": "1793001753568485376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084549576326009165",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YMNKsos 对呀！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2084320607513059329",
+        "created_at": "2026-08-04T10:09:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T11:09:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084582521879036116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1793001753568485376",
+              "start": 0,
+              "username": "YMNKsos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084582521879036116",
+        "in_reply_to_user_id": "1793001753568485376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084549576326009165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YMNKsos 对呀！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793001753568485376",
+        "conversation_id": "2084320607513059329",
+        "created_at": "2026-08-04T07:58:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T08:58:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084549576326009165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2047425753227333632",
+              "start": 0,
+              "username": "YuganQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084549576326009165",
+        "in_reply_to_user_id": "2047425753227333632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084320607513059329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuganQwQ 还不如墙内了这波"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 直fo是因为喜欢你呀 |永远怀念@yuganbb823\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "yuganbb823"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "name": "为何人生如此悲惨2.0互关巡回",
+        "pinned_tweet_id": "2083060079872389410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 278,
+          "like_count": 2407,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 611
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-21T19:32:20.000Z",
+        "description": "已幸福，再来骚扰直接杀鼠。法鼠！全家鼠！\n泛性恋，顺直也鼠，顺直公畜更是鼠完了😍",
+        "id": "1793001753568485376",
+        "location": "2.3km🚪188/288/520",
+        "name": "＞𐋣＜ 😽💖🏳️‍🌈✨",
+        "pinned_tweet_id": "1918517368680329280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793002232503476224/hbBsEqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 269,
+          "like_count": 6154,
+          "listed_count": 0,
+          "media_count": 232,
+          "tweet_count": 4240
+        },
+        "url": "",
+        "username": "YMNKsos",
+        "verified": false
+      }
+    ]
+  }
+}

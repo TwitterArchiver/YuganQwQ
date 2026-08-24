@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2088083533713801216"
+      ],
+      "media_source_tweet_id": [
+        "2088083591616217367"
+      ]
+    },
+    "author_id": "2047425753227333632",
+    "conversation_id": "2088219346149462108",
+    "created_at": "2026-08-14T11:01:04.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T12:01:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088219346149462108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2081009888818278400",
+          "start": 3,
+          "username": "JiGuang_Lab"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZjM8AqPT2s",
+          "end": 40,
+          "expanded_url": "https://x.com/JiGuang_Lab/status/2088083591616217367/video/1",
+          "media_key": "13_2088083533713801216",
+          "start": 17,
+          "url": "https://t.co/ZjM8AqPT2s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088219346149462108",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2088083533713801216"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088083591616217367",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JiGuang_Lab: https://t.co/ZjM8AqPT2s"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25077,
+        "height": 1280,
+        "media_key": "13_2088083533713801216",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2088083533713801216/img/T7pRAu-BfkR2WHLD.jpg",
+        "public_metrics": {
+          "view_count": 1865
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088083533713801216/vid/avc1/320x568/wPiCu2deTjN12jc6.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088083533713801216/vid/avc1/480x852/0CchqvEjmNO4pmQX.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088083533713801216/vid/avc1/720x1280/UTGgMFNt58OEIVon.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088083533713801216/pl/_jnnE_hyDpZlIVEW.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088083533713801216"
+          ]
+        },
+        "author_id": "2081009888818278400",
+        "conversation_id": "2088083591616217367",
+        "created_at": "2026-08-14T02:01:37.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T03:01:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088083591616217367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZjM8AqPT2s",
+              "end": 23,
+              "expanded_url": "https://x.com/JiGuang_Lab/status/2088083591616217367/video/1",
+              "media_key": "13_2088083533713801216",
+              "start": 0,
+              "url": "https://t.co/ZjM8AqPT2s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088083591616217367",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2088083533713801216"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 3737,
+          "like_count": 105,
+          "quote_count": 2,
+          "reply_count": 18,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ZjM8AqPT2s"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088083533713801216"
+          ],
+          "media_source_tweet_id": [
+            "2088083591616217367"
+          ]
+        },
+        "author_id": "2047425753227333632",
+        "conversation_id": "2088219346149462108",
+        "created_at": "2026-08-14T11:01:04.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T12:01:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088219346149462108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2081009888818278400",
+              "start": 3,
+              "username": "JiGuang_Lab"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZjM8AqPT2s",
+              "end": 40,
+              "expanded_url": "https://x.com/JiGuang_Lab/status/2088083591616217367/video/1",
+              "media_key": "13_2088083533713801216",
+              "start": 17,
+              "url": "https://t.co/ZjM8AqPT2s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088219346149462108",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2088083533713801216"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088083591616217367",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JiGuang_Lab: https://t.co/ZjM8AqPT2s"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 查成分回fo 直fo是因为喜欢你呀 |\n前世@yuganbb823  仆人@ci_shang85157\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yuganbb823"
+              },
+              {
+                "end": 79,
+                "start": 65,
+                "username": "ci_shang85157"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "is_identity_verified": false,
+        "location": "距离你4.5km",
+        "most_recent_tweet_id": "2088219346149462108",
+        "name": "为何人生如此悲惨2.0互关巡回",
+        "pinned_tweet_id": "2083060079872389410",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047425753227333632/1785103248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 322,
+          "like_count": 3519,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 802
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-25T13:33:25.000Z",
+        "description": "极光实验室 致力于成为一个免费开放且持续更新的精神活性物质整合站点，为方便理解，取舍了大量内容 本账号为官方工作人员账号，望熟知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 23,
+                "expanded_url": "https://jile.bid/",
+                "start": 0,
+                "url": "https://t.co/TdRUp52F7j"
+              }
+            ]
+          }
+        },
+        "id": "2081009888818278400",
+        "is_identity_verified": false,
+        "location": "化学极乐 人类崛起",
+        "most_recent_tweet_id": "2088212936955416717",
+        "name": "极光实验室",
+        "pinned_tweet_id": "2083873136043585589",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2081009888818278400/1785668634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083870888664219648/kFxXDJre_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 385,
+          "like_count": 105,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 94
+        },
+        "url": "https://t.co/TdRUp52F7j",
+        "username": "JiGuang_Lab",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

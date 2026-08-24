@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2084351189873795186",
+    "created_at": "2026-08-04T15:31:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T16:31:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084663433492898195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1712342569609506816",
+          "start": 0,
+          "username": "178161021185w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084663433492898195",
+    "in_reply_to_user_id": "1712342569609506816",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084510155446862206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@178161021185w 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2084351189873795186",
+        "created_at": "2026-08-04T15:31:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T16:31:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084663433492898195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1712342569609506816",
+              "start": 0,
+              "username": "178161021185w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084663433492898195",
+        "in_reply_to_user_id": "1712342569609506816",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084510155446862206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@178161021185w 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1712342569609506816",
+        "conversation_id": "2084351189873795186",
+        "created_at": "2026-08-04T05:22:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T06:22:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084510155446862206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2047425753227333632",
+              "start": 0,
+              "username": "YuganQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084510155446862206",
+        "in_reply_to_user_id": "2047425753227333632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084351189873795186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuganQwQ 再买贵点你就可以多停会压耐药了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 查成分回fo  直fo是因为喜欢你呀 |\n前世@yuganbb823\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 51,
+                "username": "yuganbb823"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "location": "距离你4.5km",
+        "name": "为何人生如此悲惨2.0互关巡回",
+        "pinned_tweet_id": "2083060079872389410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 284,
+          "like_count": 2399,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 617
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-12T05:41:05.000Z",
+        "description": "希望这一生不再看见色情和木桶饭/ 本账号一切内容由AI生成 All content on this account is AI-generated",
+        "id": "1712342569609506816",
+        "name": "abas@8964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048983533595856896/u6NVaA99_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 33,
+          "like_count": 1228,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 484
+        },
+        "url": "",
+        "username": "178161021185w",
+        "verified": false
+      }
+    ]
+  }
+}

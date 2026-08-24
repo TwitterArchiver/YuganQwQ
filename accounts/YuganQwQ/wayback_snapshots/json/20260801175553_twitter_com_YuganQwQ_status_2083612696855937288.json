@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2083612696855937288",
+    "created_at": "2026-08-01T17:55:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T18:55:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083612696855937288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1905566526595629060",
+          "start": 3,
+          "username": "Apipleeeee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083612696855937288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 101
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083041688021532833",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Apipleeeee: 哥哥这两个字到底为什么要写成四个“可”啊？任何要求全部答应，任何事情全部允许，任何感情全部通行，任何可能全部发生。哥哥的意思不就是全都可以、无法拒绝吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2083612696855937288",
+        "created_at": "2026-08-01T17:55:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T18:55:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083612696855937288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1905566526595629060",
+              "start": 3,
+              "username": "Apipleeeee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083612696855937288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 101
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083041688021532833",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Apipleeeee: 哥哥这两个字到底为什么要写成四个“可”啊？任何要求全部答应，任何事情全部允许，任何感情全部通行，任何可能全部发生。哥哥的意思不就是全都可以、无法拒绝吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905566526595629060",
+        "conversation_id": "2083041688021532833",
+        "created_at": "2026-07-31T04:06:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T05:06:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083041688021532833"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083041688021532833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 42268,
+          "like_count": 881,
+          "quote_count": 23,
+          "reply_count": 97,
+          "retweet_count": 101
+        },
+        "reply_settings": "everyone",
+        "text": "哥哥这两个字到底为什么要写成四个“可”啊？任何要求全部答应，任何事情全部允许，任何感情全部通行，任何可能全部发生。哥哥的意思不就是全都可以、无法拒绝吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 直fo是因为喜欢你呀 |永远怀念@yuganbb823\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "yuganbb823"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "name": "为何人生如此悲惨2.0互关巡回",
+        "pinned_tweet_id": "2083060079872389410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 259,
+          "like_count": 1964,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 536
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-28T10:24:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "work-fengniao.com",
+                "end": 23,
+                "expanded_url": "https://www.work-fengniao.com",
+                "start": 0,
+                "url": "https://t.co/Dsq2OLMIWP"
+              }
+            ]
+          }
+        },
+        "id": "1905566526595629060",
+        "location": "果の朋友圈",
+        "name": "苹果",
+        "pinned_tweet_id": "2041450168307024329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021931545674850304/T1ritExR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13772,
+          "following_count": 1,
+          "like_count": 4677,
+          "listed_count": 35,
+          "media_count": 629,
+          "tweet_count": 1997
+        },
+        "url": "https://t.co/Dsq2OLMIWP",
+        "username": "Apipleeeee",
+        "verified": false
+      }
+    ]
+  }
+}

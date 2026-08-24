@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2084320607513059329",
+    "created_at": "2026-08-04T10:08:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T11:08:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084582321651433531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1893354824307220485",
+          "start": 0,
+          "username": "1yxnn_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084582321651433531",
+    "in_reply_to_user_id": "1893354824307220485",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084553557685215721",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1yxnn_ 发出去过一会就会被举报，然后强制删掉了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2084320607513059329",
+        "created_at": "2026-08-04T10:08:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T11:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084582321651433531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1893354824307220485",
+              "start": 0,
+              "username": "1yxnn_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084582321651433531",
+        "in_reply_to_user_id": "1893354824307220485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084553557685215721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1yxnn_ 发出去过一会就会被举报，然后强制删掉了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893354824307220485",
+        "conversation_id": "2084320607513059329",
+        "created_at": "2026-08-04T08:14:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T09:14:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084553557685215721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2047425753227333632",
+              "start": 0,
+              "username": "YuganQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084553557685215721",
+        "in_reply_to_user_id": "2047425753227333632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084320607513059329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuganQwQ 我靠真的假的。是發不出去嗎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 直fo是因为喜欢你呀 |永远怀念@yuganbb823\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "yuganbb823"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "name": "为何人生如此悲惨2.0互关巡回",
+        "pinned_tweet_id": "2083060079872389410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 278,
+          "like_count": 2406,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 610
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T17:39:17.000Z",
+        "description": "碎碎念\n不約 想聊黃的可以滾了 我有對象\n訊息會隔很久才回單純懶\n同類型可互fo 忘記回追可以提醒我！",
+        "id": "1893354824307220485",
+        "name": "小優",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076710423223771141/Pcj1pEsz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 39,
+          "like_count": 2219,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1097
+        },
+        "url": "",
+        "username": "1yxnn_",
+        "verified": false
+      }
+    ]
+  }
+}

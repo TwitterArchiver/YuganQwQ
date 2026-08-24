@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2088441873303994734",
+    "created_at": "2026-08-15T01:45:18.000Z",
+    "display_text_range": [
+      0,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T02:45:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088441873303994734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1814948743369961472",
+          "start": 3,
+          "username": "UkyiKim"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088441873303994734",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 58
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088204803197526323",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @UkyiKim: 我的社交方式就是给对面点赞，然后等他来私聊我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2088441873303994734",
+        "created_at": "2026-08-15T01:45:18.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T02:45:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088441873303994734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1814948743369961472",
+              "start": 3,
+              "username": "UkyiKim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088441873303994734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088204803197526323",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @UkyiKim: 我的社交方式就是给对面点赞，然后等他来私聊我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814948743369961472",
+        "conversation_id": "2088204803197526323",
+        "created_at": "2026-08-14T10:03:16.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T11:03:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088204803197526323"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088204803197526323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 36380,
+          "like_count": 548,
+          "quote_count": 14,
+          "reply_count": 250,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "我的社交方式就是给对面点赞，然后等他来私聊我"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 查成分回fo 直fo是因为喜欢你呀 |\n前世@yuganbb823 仆人@ci_shang85157\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yuganbb823"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "ci_shang85157"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "is_identity_verified": false,
+        "location": "距离你4.5km",
+        "most_recent_tweet_id": "2088441873303994734",
+        "name": "为何人生如此悲惨2.0",
+        "pinned_tweet_id": "2083060079872389410",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047425753227333632/1786741767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 343,
+          "like_count": 3777,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 851
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-21T09:01:28.000Z",
+        "description": "我只是一个呆萌的女子。\n                              https://t.co/mCOBcbbEPt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ukyi_",
+                "end": 65,
+                "expanded_url": "https://ngl.link/ukyi_",
+                "start": 42,
+                "url": "https://t.co/mCOBcbbEPt"
+              }
+            ]
+          }
+        },
+        "id": "1814948743369961472",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088276234988142820",
+        "name": "ukyi_",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045852669609406464/dGs9pe40_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 116,
+          "like_count": 1406,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 632
+        },
+        "url": "",
+        "username": "UkyiKim",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

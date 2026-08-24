@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2088031025116889382",
+    "created_at": "2026-08-13T22:32:44.000Z",
+    "display_text_range": [
+      0,
+      68
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T23:32:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088031025116889382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1761343123824001024",
+          "start": 3,
+          "username": "chidori_2006"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088031025116889382",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 51
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087385010139754689",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chidori_2006: 其实我一直以为\n“对方不陪我，那我就找另一个人陪我”\n这个思想是对的\n直到有天我被骂了才知道这叫出轨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2088031025116889382",
+        "created_at": "2026-08-13T22:32:44.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T23:32:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088031025116889382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1761343123824001024",
+              "start": 3,
+              "username": "chidori_2006"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088031025116889382",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 51
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087385010139754689",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chidori_2006: 其实我一直以为\n“对方不陪我，那我就找另一个人陪我”\n这个思想是对的\n直到有天我被骂了才知道这叫出轨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761343123824001024",
+        "conversation_id": "2087385010139754689",
+        "created_at": "2026-08-12T03:45:42.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T04:45:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087385010139754689"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087385010139754689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 72334,
+          "like_count": 1067,
+          "quote_count": 8,
+          "reply_count": 200,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "其实我一直以为\n“对方不陪我，那我就找另一个人陪我”\n这个思想是对的\n直到有天我被骂了才知道这叫出轨"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 查成分回fo 直fo是因为喜欢你呀 |\n前世@yuganbb823  仆人@ci_shang85157\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yuganbb823"
+              },
+              {
+                "end": 79,
+                "start": 65,
+                "username": "ci_shang85157"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "is_identity_verified": false,
+        "location": "距离你4.5km",
+        "most_recent_tweet_id": "2088031025116889382",
+        "name": "为何人生如此悲惨2.0互关巡回",
+        "pinned_tweet_id": "2083060079872389410",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047425753227333632/1785103248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 317,
+          "like_count": 3352,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 773
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-24T10:51:48.000Z",
+        "description": "06 162 90",
+        "id": "1761343123824001024",
+        "is_identity_verified": false,
+        "location": "天津",
+        "most_recent_tweet_id": "2087870612656341115",
+        "name": "千鳥",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963974488581959680/8zcFKE8h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 119,
+          "like_count": 398,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 193
+        },
+        "url": "",
+        "username": "chidori_2006",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

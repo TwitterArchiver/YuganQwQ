@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2083995973844374005",
+    "created_at": "2026-08-02T19:18:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T20:18:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083995973844374005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1544961704898940929",
+          "start": 3,
+          "username": "Baguette__9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083995973844374005",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083882780501684472",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Baguette__9: 别人od自残你们健全逼就偷着乐吧，不然就应该哪天把你这个傻逼直接砍死😹😹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2083995973844374005",
+        "created_at": "2026-08-02T19:18:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T20:18:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083995973844374005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1544961704898940929",
+              "start": 3,
+              "username": "Baguette__9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083995973844374005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083882780501684472",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Baguette__9: 别人od自残你们健全逼就偷着乐吧，不然就应该哪天把你这个傻逼直接砍死😹😹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1544961704898940929",
+        "conversation_id": "2083882780501684472",
+        "created_at": "2026-08-02T11:49:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T12:49:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083882780501684472"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083882780501684472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2427,
+          "like_count": 87,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "别人od自残你们健全逼就偷着乐吧，不然就应该哪天把你这个傻逼直接砍死😹😹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 直fo是因为喜欢你呀 |永远怀念@yuganbb823\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "yuganbb823"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "name": "为何人生如此悲惨2.0互关巡回",
+        "pinned_tweet_id": "2083060079872389410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 274,
+          "like_count": 2242,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 562
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-07T08:29:17.000Z",
+        "description": "我已发现的内心的全部。",
+        "id": "1544961704898940929",
+        "name": "米安尿包",
+        "pinned_tweet_id": "2029043662118957411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878789814675521536/m2gOclDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1896,
+          "following_count": 298,
+          "like_count": 12761,
+          "listed_count": 4,
+          "media_count": 264,
+          "tweet_count": 6871
+        },
+        "url": "",
+        "username": "Baguette__9",
+        "verified": false
+      }
+    ]
+  }
+}

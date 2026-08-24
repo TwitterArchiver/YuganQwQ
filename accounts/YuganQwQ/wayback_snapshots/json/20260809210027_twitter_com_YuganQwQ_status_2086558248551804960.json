@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2086558248551804960",
+    "created_at": "2026-08-09T21:00:27.000Z",
+    "display_text_range": [
+      0,
+      79
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T22:00:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086558248551804960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1997607536258850816",
+          "start": 3,
+          "username": "bJ9VI7VURb14239"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086558248551804960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 190
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085851976735375665",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bJ9VI7VURb14239: 有鸡巴你就吃呗，有逼你就操呗，你他妈隔朋友圈发个秋天和谁谁谁，秋天第一杯奶子，我操你妈，老子他妈请你吃秋天第一炮尿。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2086558248551804960",
+        "created_at": "2026-08-09T21:00:27.000Z",
+        "display_text_range": [
+          0,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T22:00:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086558248551804960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1997607536258850816",
+              "start": 3,
+              "username": "bJ9VI7VURb14239"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086558248551804960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 190
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085851976735375665",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bJ9VI7VURb14239: 有鸡巴你就吃呗，有逼你就操呗，你他妈隔朋友圈发个秋天和谁谁谁，秋天第一杯奶子，我操你妈，老子他妈请你吃秋天第一炮尿。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997607536258850816",
+        "conversation_id": "2085851976735375665",
+        "created_at": "2026-08-07T22:13:59.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-07T23:13:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085851976735375665"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085851976735375665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 104,
+          "impression_count": 433632,
+          "like_count": 4965,
+          "quote_count": 11,
+          "reply_count": 1006,
+          "retweet_count": 190
+        },
+        "reply_settings": "everyone",
+        "text": "有鸡巴你就吃呗，有逼你就操呗，你他妈隔朋友圈发个秋天和谁谁谁，秋天第一杯奶子，我操你妈，老子他妈请你吃秋天第一炮尿。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 查成分回fo 直fo是因为喜欢你呀 |\n前世@yuganbb823\n锁推的人我关注不了，因为我不知道你是啥成分哈 \n仆人ᰔ@ci_shang85157",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yuganbb823"
+              },
+              {
+                "end": 103,
+                "start": 89,
+                "username": "ci_shang85157"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "is_identity_verified": false,
+        "location": "距离你4.5km",
+        "most_recent_tweet_id": "2086558248551804960",
+        "name": "为何人生如此悲惨2.0互关巡回",
+        "pinned_tweet_id": "2083060079872389410",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047425753227333632/1785103248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 282,
+          "like_count": 2618,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 668
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-07T10:02:18.000Z",
+        "description": "很普通很貪吃很嗜睡很變態很粘人的一個人呀。",
+        "id": "1997607536258850816",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086541944738710011",
+        "name": "yuan",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1997607536258850816/1785563886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997608317779378176/nREHhe5E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 29,
+          "like_count": 131,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 34
+        },
+        "url": "",
+        "username": "bJ9VI7VURb14239",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
