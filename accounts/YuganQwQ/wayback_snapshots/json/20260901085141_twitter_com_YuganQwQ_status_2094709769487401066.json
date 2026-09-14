@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2094680393807241622",
+    "created_at": "2026-09-01T08:51:41.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T09:51:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094709769487401066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1124790071314587648",
+          "start": 0,
+          "username": "LanwujiDrink"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094709769487401066",
+    "in_reply_to_user_id": "1124790071314587648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094680393807241622",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LanwujiDrink 是啥！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2094680393807241622",
+        "created_at": "2026-09-01T08:51:41.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T09:51:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094709769487401066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1124790071314587648",
+              "start": 0,
+              "username": "LanwujiDrink"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094709769487401066",
+        "in_reply_to_user_id": "1124790071314587648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094680393807241622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanwujiDrink 是啥！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2094680393807241622",
+        "created_at": "2026-09-01T06:54:57.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T07:54:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094680393807241622"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094680393807241622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 872,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "预告：\n\n将推出一款显著增强工作记忆+长期记忆的产品\n\n价格个位数"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 查成分回fo 直fo是因为喜欢你呀 |\n前世@yuganbb823 宝宝@ci_shang85157\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yuganbb823"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "ci_shang85157"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuganqwq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuganqwq",
+                "start": 0,
+                "url": "https://t.co/19gBB14uzC"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "is_identity_verified": false,
+        "location": "距离你4.5km",
+        "most_recent_tweet_id": "2094709769487401066",
+        "name": "为何人生如此悲惨2.0",
+        "pinned_tweet_id": "2079370925015715919",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047425753227333632/1786741767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 407,
+          "like_count": 4677,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1190
+        },
+        "url": "https://t.co/19gBB14uzC",
+        "username": "YuganQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "声嘶力竭的促智理想最后变成一具只会盈利的空壳。 ||||||||||||||||||||👨‍🔧重度睡眠障碍维修工程师",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "is_identity_verified": false,
+        "location": "长期主义产品only",
+        "most_recent_tweet_id": "2094704075095126203",
+        "name": "☯️🧬無極植物科技 葉經理",
+        "pinned_tweet_id": "2080943910223040583",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124790071314587648/1787324550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088162509668921344/A5ZqYWNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1341,
+          "following_count": 84,
+          "like_count": 3392,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1828
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

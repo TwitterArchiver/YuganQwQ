@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093428991864745984"
+      ],
+      "media_source_tweet_id": [
+        "2093459106778542377"
+      ]
+    },
+    "author_id": "2047425753227333632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2093694123337306383",
+    "created_at": "2026-08-29T13:35:52.000Z",
+    "display_text_range": [
+      0,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T14:35:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093694123337306383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1613079089879076864",
+          "start": 3,
+          "username": "YunJiu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yDc6gkStPZ",
+          "end": 35,
+          "expanded_url": "https://x.com/YunJiu/status/2093459106778542377/photo/1",
+          "media_key": "3_2093428991864745984",
+          "start": 12,
+          "url": "https://t.co/yDc6gkStPZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093694123337306383",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2093428991864745984"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093459106778542377",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YunJiu: https://t.co/yDc6gkStPZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1721,
+        "media_key": "3_2093428991864745984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ1ak56aMAAf4C3.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093428991864745984"
+          ],
+          "media_source_tweet_id": [
+            "2093459106778542377"
+          ]
+        },
+        "author_id": "2047425753227333632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2093694123337306383",
+        "created_at": "2026-08-29T13:35:52.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T14:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093694123337306383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1613079089879076864",
+              "start": 3,
+              "username": "YunJiu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yDc6gkStPZ",
+              "end": 35,
+              "expanded_url": "https://x.com/YunJiu/status/2093459106778542377/photo/1",
+              "media_key": "3_2093428991864745984",
+              "start": 12,
+              "url": "https://t.co/yDc6gkStPZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093694123337306383",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2093428991864745984"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093459106778542377",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YunJiu: https://t.co/yDc6gkStPZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093428991864745984"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2093459106778542377",
+        "created_at": "2026-08-28T22:02:00.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T23:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093459106778542377"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yDc6gkStPZ",
+              "end": 23,
+              "expanded_url": "https://x.com/YunJiu/status/2093459106778542377/photo/1",
+              "media_key": "3_2093428991864745984",
+              "start": 0,
+              "url": "https://t.co/yDc6gkStPZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093459106778542377",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2093428991864745984"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 12749,
+          "like_count": 588,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/yDc6gkStPZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 查成分回fo 直fo是因为喜欢你呀 |\n前世@yuganbb823 宝宝@ci_shang85157\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yuganbb823"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "ci_shang85157"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuganqwq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuganqwq",
+                "start": 0,
+                "url": "https://t.co/19gBB14uzC"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "is_identity_verified": false,
+        "location": "距离你4.5km",
+        "most_recent_tweet_id": "2093694123337306383",
+        "name": "为何人生如此悲惨2.0",
+        "pinned_tweet_id": "2079370925015715919",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047425753227333632/1786741767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 408,
+          "like_count": 4560,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 1156
+        },
+        "url": "https://t.co/19gBB14uzC",
+        "username": "YuganQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n音游人｜欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/CLDGEO",
+                "end": 23,
+                "expanded_url": "https://t.me/CLDGEO",
+                "start": 0,
+                "url": "https://t.co/zrh7yw0I08"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2093682225284075717",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2049199149959221320",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1613079089879076864/1772420117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107163,
+          "following_count": 820,
+          "like_count": 37749,
+          "listed_count": 299,
+          "media_count": 21112,
+          "tweet_count": 29849
+        },
+        "url": "https://t.co/zrh7yw0I08",
+        "username": "YunJiu",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

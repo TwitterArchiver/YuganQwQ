@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095484192578846720"
+      ],
+      "media_source_tweet_id": [
+        "2095484198496989590"
+      ]
+    },
+    "author_id": "2047425753227333632",
+    "conversation_id": "2095695865696456977",
+    "created_at": "2026-09-04T02:10:05.000Z",
+    "display_text_range": [
+      0,
+      58
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T03:10:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095695865696456977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1387226240",
+          "start": 3,
+          "username": "77_xiongx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Xb7PHQ148N",
+          "end": 58,
+          "expanded_url": "https://x.com/77_xiongx/status/2095484198496989590/photo/1",
+          "media_key": "3_2095484192578846720",
+          "start": 35,
+          "url": "https://t.co/Xb7PHQ148N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095695865696456977",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095484192578846720"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 64
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095484198496989590",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @77_xiongx: 你淫商再牛逼，还能牛的过推上的西语人？ https://t.co/Xb7PHQ148N"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 321,
+        "media_key": "3_2095484192578846720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRSnxVMbwAA6vjt.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095484192578846720"
+          ],
+          "media_source_tweet_id": [
+            "2095484198496989590"
+          ]
+        },
+        "author_id": "2047425753227333632",
+        "conversation_id": "2095695865696456977",
+        "created_at": "2026-09-04T02:10:05.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T03:10:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095695865696456977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1387226240",
+              "start": 3,
+              "username": "77_xiongx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xb7PHQ148N",
+              "end": 58,
+              "expanded_url": "https://x.com/77_xiongx/status/2095484198496989590/photo/1",
+              "media_key": "3_2095484192578846720",
+              "start": 35,
+              "url": "https://t.co/Xb7PHQ148N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095695865696456977",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095484192578846720"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095484198496989590",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @77_xiongx: 你淫商再牛逼，还能牛的过推上的西语人？ https://t.co/Xb7PHQ148N"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095484192578846720"
+          ]
+        },
+        "author_id": "1387226240",
+        "conversation_id": "2095484198496989590",
+        "created_at": "2026-09-03T12:08:59.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T13:08:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095484198496989590"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xb7PHQ148N",
+              "end": 43,
+              "expanded_url": "https://x.com/77_xiongx/status/2095484198496989590/photo/1",
+              "media_key": "3_2095484192578846720",
+              "start": 20,
+              "url": "https://t.co/Xb7PHQ148N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095484198496989590",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095484192578846720"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 82,
+          "impression_count": 206009,
+          "like_count": 1870,
+          "quote_count": 9,
+          "reply_count": 317,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "你淫商再牛逼，还能牛的过推上的西语人？ https://t.co/Xb7PHQ148N"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 查成分回fo 直fo是因为喜欢你呀 |\n前世@yuganbb823 宝宝@ci_shang85157\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yuganbb823"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "ci_shang85157"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuganqwq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuganqwq",
+                "start": 0,
+                "url": "https://t.co/19gBB14uzC"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "is_identity_verified": false,
+        "location": "距离你4.5km",
+        "most_recent_tweet_id": "2095695865696456977",
+        "name": "为何人生如此悲惨2.0",
+        "pinned_tweet_id": "2079370925015715919",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047425753227333632/1786741767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 406,
+          "like_count": 4710,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 1210
+        },
+        "url": "https://t.co/19gBB14uzC",
+        "username": "YuganQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-04-28T15:30:54.000Z",
+        "description": "辰妈日常",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/chat/group_join/g2089666266495951286/2gUryx7F7p",
+                "start": 0,
+                "url": "https://t.co/TBNp5FLuXq"
+              }
+            ]
+          }
+        },
+        "id": "1387226240",
+        "is_identity_verified": false,
+        "location": "辰妈粉丝群",
+        "most_recent_tweet_id": "2095670486470652370",
+        "name": "小辰在奔跑",
+        "pinned_tweet_id": "2077045201059901821",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1387226240/1781729166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069665087112003584/xakQHbSx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58904,
+          "following_count": 12,
+          "like_count": 522,
+          "listed_count": 69,
+          "media_count": 43,
+          "tweet_count": 140
+        },
+        "url": "https://t.co/TBNp5FLuXq",
+        "username": "77_xiongx",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

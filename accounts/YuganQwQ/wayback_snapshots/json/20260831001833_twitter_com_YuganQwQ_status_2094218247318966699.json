@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2094218247318966699",
+    "created_at": "2026-08-31T00:18:33.000Z",
+    "display_text_range": [
+      0,
+      75
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T01:18:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094218247318966699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2061434565323886592",
+          "start": 3,
+          "username": "Ooopoowooi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094218247318966699",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093347136448659853",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ooopoowooi: 我什么时候才能100fo \n真求求了 不要一直掉粉\n1等 抽两颗20mg的葡萄酸奶 \n2等 52.00\n3等 19.9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2094218247318966699",
+        "created_at": "2026-08-31T00:18:33.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T01:18:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094218247318966699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2061434565323886592",
+              "start": 3,
+              "username": "Ooopoowooi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094218247318966699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093347136448659853",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ooopoowooi: 我什么时候才能100fo \n真求求了 不要一直掉粉\n1等 抽两颗20mg的葡萄酸奶 \n2等 52.00\n3等 19.9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061434565323886592",
+        "conversation_id": "2093347136448659853",
+        "created_at": "2026-08-28T14:37:04.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T15:37:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093347136448659853"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093347136448659853",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 950,
+          "like_count": 39,
+          "quote_count": 1,
+          "reply_count": 21,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "我什么时候才能100fo \n真求求了 不要一直掉粉\n1等 抽两颗20mg的葡萄酸奶 \n2等 52.00\n3等 19.9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 查成分回fo 直fo是因为喜欢你呀 |\n前世@yuganbb823 宝宝@ci_shang85157\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yuganbb823"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "ci_shang85157"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuganqwq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuganqwq",
+                "start": 0,
+                "url": "https://t.co/19gBB14uzC"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "is_identity_verified": false,
+        "location": "距离你4.5km",
+        "most_recent_tweet_id": "2094218247318966699",
+        "name": "为何人生如此悲惨2.0",
+        "pinned_tweet_id": "2079370925015715919",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047425753227333632/1786741767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 408,
+          "like_count": 4591,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1169
+        },
+        "url": "https://t.co/19gBB14uzC",
+        "username": "YuganQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-01T13:13:04.000Z",
+        "description": "药物会带领我们逃离这个扭曲的世界 欢迎聊天 互fo 药理提问 分享 研究pcp化学成分 不定时抽取一些好玩的 做一些药丸的慈善 需要请私信 合法不列管策划药下个月出 只卖两位数",
+        "id": "2061434565323886592",
+        "is_identity_verified": false,
+        "location": "台湾",
+        "most_recent_tweet_id": "2094089264162320706",
+        "name": "東九",
+        "pinned_tweet_id": "2072129971821412551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2061434565323886592/1784355576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093325373534871552/B3C0OG7-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 101,
+          "like_count": 366,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 440
+        },
+        "url": "",
+        "username": "Ooopoowooi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

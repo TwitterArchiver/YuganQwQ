@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2097802607582482805",
+    "created_at": "2026-09-10T17:09:57.000Z",
+    "display_text_range": [
+      16,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T18:09:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098096654154957225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2085358664299536385",
+          "start": 0,
+          "username": "ChenHaixiao666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098096654154957225",
+    "in_reply_to_user_id": "2085358664299536385",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098091197697077677",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChenHaixiao666 😭那我不死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2097802607582482805",
+        "created_at": "2026-09-10T17:09:57.000Z",
+        "display_text_range": [
+          16,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T18:09:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098096654154957225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2085358664299536385",
+              "start": 0,
+              "username": "ChenHaixiao666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098096654154957225",
+        "in_reply_to_user_id": "2085358664299536385",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098091197697077677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChenHaixiao666 😭那我不死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085358664299536385",
+        "conversation_id": "2097802607582482805",
+        "created_at": "2026-09-10T16:48:16.000Z",
+        "display_text_range": [
+          10,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T17:48:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098091197697077677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2047425753227333632",
+              "start": 0,
+              "username": "YuganQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098091197697077677",
+        "in_reply_to_user_id": "2047425753227333632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097802607582482805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuganQwQ 你要是无了峰哥就少一个互fo了😭😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 查成分回fo 直fo是因为喜欢你呀 |\n前世@yuganbb823 宝宝@ci_shang85157\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yuganbb823"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "ci_shang85157"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuganqwq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuganqwq",
+                "start": 0,
+                "url": "https://t.co/19gBB14uzC"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "is_identity_verified": false,
+        "location": "距离你4.5km",
+        "most_recent_tweet_id": "2098096654154957225",
+        "name": "为何人生如此悲惨2.0",
+        "pinned_tweet_id": "2079370925015715919",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047425753227333632/1786741767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 425,
+          "like_count": 5341,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1305
+        },
+        "url": "https://t.co/19gBB14uzC",
+        "username": "YuganQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-06T13:35:09.000Z",
+        "description": "上一世峰哥的镜子惨遭天道镇压，这一世峰哥转世重修v峰哥50聆听峰哥复仇计划",
+        "id": "2085358664299536385",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098091322590781451",
+        "name": "提瓦特峰哥的镜子",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090426684696907776/WNKIjFS4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 110,
+          "like_count": 1480,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 670
+        },
+        "url": "",
+        "username": "ChenHaixiao666",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2094221136846278860",
+    "created_at": "2026-08-31T00:30:02.000Z",
+    "display_text_range": [
+      0,
+      62
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T01:30:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094221136846278860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "94999172",
+          "start": 3,
+          "username": "toukorina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094221136846278860",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093922021097001087",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @toukorina: 我好像悟了 最容易的死法不是上吊烧炭割腕跳楼 是当odwiki主或者药商 一个个死得比客户还快"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2094221136846278860",
+        "created_at": "2026-08-31T00:30:02.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T01:30:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094221136846278860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "94999172",
+              "start": 3,
+              "username": "toukorina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094221136846278860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093922021097001087",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @toukorina: 我好像悟了 最容易的死法不是上吊烧炭割腕跳楼 是当odwiki主或者药商 一个个死得比客户还快"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "94999172",
+        "conversation_id": "2093922021097001087",
+        "created_at": "2026-08-30T04:41:27.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T05:41:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093922021097001087"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093922021097001087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 9784,
+          "like_count": 168,
+          "quote_count": 8,
+          "reply_count": 14,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "我好像悟了 最容易的死法不是上吊烧炭割腕跳楼 是当odwiki主或者药商 一个个死得比客户还快"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 查成分回fo 直fo是因为喜欢你呀 |\n前世@yuganbb823 宝宝@ci_shang85157\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yuganbb823"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "ci_shang85157"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuganqwq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuganqwq",
+                "start": 0,
+                "url": "https://t.co/19gBB14uzC"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "is_identity_verified": false,
+        "location": "距离你4.5km",
+        "most_recent_tweet_id": "2094221136846278860",
+        "name": "为何人生如此悲惨2.0",
+        "pinned_tweet_id": "2079370925015715919",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047425753227333632/1786741767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 410,
+          "like_count": 4625,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1176
+        },
+        "url": "https://t.co/19gBB14uzC",
+        "username": "YuganQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-12-06T13:33:23.000Z",
+        "description": "#ActuallyAutistic+ADHD+Bipolar. Transfem/Autigender 退学phd gamedev. 🥰@TamikoTomorika 你太NT了我给你送精神病院关两个月. #ハッピーシュガーライフ × @Aspirinrinn feat. @nilshiro ジェルばんは♡ †昇天†",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 0,
+                "tag": "ActuallyAutistic"
+              },
+              {
+                "end": 115,
+                "start": 103,
+                "tag": "ハッピーシュガーライフ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 83,
+                "start": 68,
+                "username": "TamikoTomorika"
+              },
+              {
+                "end": 130,
+                "start": 118,
+                "username": "Aspirinrinn"
+              },
+              {
+                "end": 146,
+                "start": 137,
+                "username": "nilshiro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "touko.social",
+                "end": 23,
+                "expanded_url": "https://touko.social",
+                "start": 0,
+                "url": "https://t.co/wlHCBJDIp1"
+              }
+            ]
+          }
+        },
+        "id": "94999172",
+        "is_identity_verified": false,
+        "location": "/橙子精神病院/Neurodivergent Dept.",
+        "most_recent_tweet_id": "2094219902655861161",
+        "name": "柚原橙子🍄🥕超绝躁郁橙子饼",
+        "pinned_tweet_id": "1527654707765792768",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/94999172/1644518429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1687704514131013632/B9KL8Hpc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7346,
+          "following_count": 954,
+          "like_count": 177857,
+          "listed_count": 18,
+          "media_count": 1531,
+          "tweet_count": 44978
+        },
+        "url": "https://t.co/wlHCBJDIp1",
+        "username": "toukorina",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

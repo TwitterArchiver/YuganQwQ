@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2096558039939637355",
+    "created_at": "2026-09-06T11:16:03.000Z",
+    "display_text_range": [
+      0,
+      72
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T12:16:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096558039939637355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1901339878966636544",
+          "start": 3,
+          "username": "tteokki9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096558039939637355",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096227377106096153",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tteokki9: 好受不了爱自嬷的人 把自己套入一个框架之后就拼命标签化自己卖惨装可怜装可爱 大家都早把你当乐子了你还沉浸在自己的世界"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2096558039939637355",
+        "created_at": "2026-09-06T11:16:03.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T12:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096558039939637355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1901339878966636544",
+              "start": 3,
+              "username": "tteokki9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096558039939637355",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096227377106096153",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tteokki9: 好受不了爱自嬷的人 把自己套入一个框架之后就拼命标签化自己卖惨装可怜装可爱 大家都早把你当乐子了你还沉浸在自己的世界"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901339878966636544",
+        "conversation_id": "2096227377106096153",
+        "created_at": "2026-09-05T13:22:07.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T14:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096227377106096153"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096227377106096153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 11680,
+          "like_count": 231,
+          "quote_count": 3,
+          "reply_count": 67,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "好受不了爱自嬷的人 把自己套入一个框架之后就拼命标签化自己卖惨装可怜装可爱 大家都早把你当乐子了你还沉浸在自己的世界"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 查成分回fo 直fo是因为喜欢你呀 |\n前世@yuganbb823 宝宝@ci_shang85157\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yuganbb823"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "ci_shang85157"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuganqwq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuganqwq",
+                "start": 0,
+                "url": "https://t.co/19gBB14uzC"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "is_identity_verified": false,
+        "location": "距离你4.5km",
+        "most_recent_tweet_id": "2096558039939637355",
+        "name": "为何人生如此悲惨2.0",
+        "pinned_tweet_id": "2079370925015715919",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047425753227333632/1786741767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 410,
+          "like_count": 4759,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 1218
+        },
+        "url": "https://t.co/19gBB14uzC",
+        "username": "YuganQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-16T18:28:59.000Z",
+        "description": "可以叫我小叽叽^o^ 私信只回有意思的 你找不到任何攻击我的地方 因为我只是一个和你共存同个地球争着吸多点氧气让你断气活不下去的小可爱 随便发着玩@yokyo7lly",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "yokyo7lly"
+              }
+            ]
+          }
+        },
+        "id": "1901339878966636544",
+        "is_identity_verified": false,
+        "location": "🚪纯绿",
+        "most_recent_tweet_id": "2096497265859002434",
+        "name": "椰叽",
+        "pinned_tweet_id": "1984659027478102138",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1901339878966636544/1760274253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005152049189797889/D1ONNjj1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6995,
+          "following_count": 72,
+          "like_count": 5165,
+          "listed_count": 6,
+          "media_count": 298,
+          "tweet_count": 3640
+        },
+        "url": "",
+        "username": "tteokki9",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

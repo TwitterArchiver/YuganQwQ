@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2093066759943151892",
+    "created_at": "2026-08-27T20:02:57.000Z",
+    "display_text_range": [
+      0,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T21:02:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093066759943151892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2078028550704332800",
+          "start": 3,
+          "username": "Wodeyanlei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093066759943151892",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092887169979548142",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Wodeyanlei: 来推特了还要管别人发割腕的干啥。这又不是国内的软件，神经病"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2093066759943151892",
+        "created_at": "2026-08-27T20:02:57.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T21:02:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093066759943151892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2078028550704332800",
+              "start": 3,
+              "username": "Wodeyanlei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093066759943151892",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092887169979548142",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Wodeyanlei: 来推特了还要管别人发割腕的干啥。这又不是国内的软件，神经病"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2078028550704332800",
+        "conversation_id": "2092887169979548142",
+        "created_at": "2026-08-27T08:09:19.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T09:09:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092887169979548142"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092887169979548142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 23493,
+          "like_count": 595,
+          "quote_count": 2,
+          "reply_count": 112,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "来推特了还要管别人发割腕的干啥。这又不是国内的软件，神经病"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 查成分回fo 直fo是因为喜欢你呀 |\n前世@yuganbb823 宝宝@ci_shang85157\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yuganbb823"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "ci_shang85157"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuganqwq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuganqwq",
+                "start": 0,
+                "url": "https://t.co/19gBB14uzC"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "is_identity_verified": false,
+        "location": "距离你4.5km",
+        "most_recent_tweet_id": "2093066759943151892",
+        "name": "为何人生如此悲惨2.0",
+        "pinned_tweet_id": "2083060079872389410",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047425753227333632/1786741767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 410,
+          "like_count": 4474,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 1138
+        },
+        "url": "https://t.co/19gBB14uzC",
+        "username": "YuganQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-17T08:07:37.000Z",
+        "description": "我是高中生呀。什么圈子都沾一点。绿🚪25没有福利我也不会主动聊天。你们推特给我发消息我都会回的呀。我不约",
+        "id": "2078028550704332800",
+        "is_identity_verified": false,
+        "location": "匿名https://ngl.link/death24435",
+        "most_recent_tweet_id": "2093015455544012820",
+        "name": "我的眼泪你负责吗",
+        "pinned_tweet_id": "2092448527305867584",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2078028550704332800/1784276561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092824415239364608/NO3V9Tsn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 7,
+          "like_count": 70,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 355
+        },
+        "url": "",
+        "username": "Wodeyanlei",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

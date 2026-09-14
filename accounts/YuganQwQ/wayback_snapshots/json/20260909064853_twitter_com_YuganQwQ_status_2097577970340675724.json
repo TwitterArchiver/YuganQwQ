@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2097577970340675724",
+    "created_at": "2026-09-09T06:48:53.000Z",
+    "display_text_range": [
+      0,
+      69
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T07:48:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097577970340675724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1941955131903254528",
+          "start": 3,
+          "username": "throwaway060725"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097577970340675724",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1902
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097152513291989159",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @throwaway060725: How to quit cutting:\nStep 1. Be too tired to cut"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2097577970340675724",
+        "created_at": "2026-09-09T06:48:53.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T07:48:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097577970340675724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1941955131903254528",
+              "start": 3,
+              "username": "throwaway060725"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097577970340675724",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1902
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097152513291989159",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @throwaway060725: How to quit cutting:\nStep 1. Be too tired to cut"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941955131903254528",
+        "conversation_id": "2097152513291989159",
+        "created_at": "2026-09-08T02:38:17.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T03:38:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097152513291989159"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097152513291989159",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 115,
+          "impression_count": 36088,
+          "like_count": 6388,
+          "quote_count": 87,
+          "reply_count": 36,
+          "retweet_count": 1902
+        },
+        "reply_settings": "everyone",
+        "text": "How to quit cutting:\nStep 1. Be too tired to cut"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 查成分回fo 直fo是因为喜欢你呀 |\n前世@yuganbb823 宝宝@ci_shang85157\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yuganbb823"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "ci_shang85157"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuganqwq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuganqwq",
+                "start": 0,
+                "url": "https://t.co/19gBB14uzC"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "is_identity_verified": false,
+        "location": "距离你4.5km",
+        "most_recent_tweet_id": "2097577970340675724",
+        "name": "为何人生如此悲惨2.0",
+        "pinned_tweet_id": "2079370925015715919",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047425753227333632/1786741767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 415,
+          "like_count": 5044,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 1265
+        },
+        "url": "https://t.co/19gBB14uzC",
+        "username": "YuganQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-06T20:19:21.000Z",
+        "description": "shedtwt\nI AM NOT A MINOR\nI do not encourage self harm. I think it is evil, but I still have complicated thoughts and feelings about it.",
+        "id": "1941955131903254528",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097518901647098261",
+        "name": "VillageExplorer",
+        "pinned_tweet_id": "2066566923416973359",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1941955131903254528/1781543546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941955222454054912/VgmSUkm0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 44,
+          "like_count": 10195,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 306
+        },
+        "url": "",
+        "username": "throwaway060725",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

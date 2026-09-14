@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094341302775107584",
+        "3_2094341302766747648",
+        "3_2094341302796062720"
+      ]
+    },
+    "author_id": "2047425753227333632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2094341321435582808",
+    "created_at": "2026-08-31T08:27:36.000Z",
+    "display_text_range": [
+      0,
+      3
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T09:27:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094341321435582808"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/V9j6wHa6GF",
+          "end": 27,
+          "expanded_url": "https://x.com/YuganQwQ/status/2094341321435582808/photo/1",
+          "media_key": "3_2094341302775107584",
+          "start": 4,
+          "url": "https://t.co/V9j6wHa6GF"
+        },
+        {
+          "display_url": "pic.x.com/V9j6wHa6GF",
+          "end": 27,
+          "expanded_url": "https://x.com/YuganQwQ/status/2094341321435582808/photo/1",
+          "media_key": "3_2094341302766747648",
+          "start": 4,
+          "url": "https://t.co/V9j6wHa6GF"
+        },
+        {
+          "display_url": "pic.x.com/V9j6wHa6GF",
+          "end": 27,
+          "expanded_url": "https://x.com/YuganQwQ/status/2094341321435582808/photo/1",
+          "media_key": "3_2094341302796062720",
+          "start": 4,
+          "url": "https://t.co/V9j6wHa6GF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094341321435582808",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094341302775107584"
+      },
+      {
+        "media_key": "3_2094341302766747648"
+      },
+      {
+        "media_key": "3_2094341302796062720"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哦不！ https://t.co/V9j6wHa6GF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2094341302775107584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRCYUY5W0AA223Y.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2094341302766747648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRCYUY3XQAAqcjs.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2094341302796062720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRCYUY-WkAAEra1.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094341302775107584",
+            "3_2094341302766747648",
+            "3_2094341302796062720"
+          ]
+        },
+        "author_id": "2047425753227333632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2094341321435582808",
+        "created_at": "2026-08-31T08:27:36.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T09:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094341321435582808"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V9j6wHa6GF",
+              "end": 27,
+              "expanded_url": "https://x.com/YuganQwQ/status/2094341321435582808/photo/1",
+              "media_key": "3_2094341302775107584",
+              "start": 4,
+              "url": "https://t.co/V9j6wHa6GF"
+            },
+            {
+              "display_url": "pic.x.com/V9j6wHa6GF",
+              "end": 27,
+              "expanded_url": "https://x.com/YuganQwQ/status/2094341321435582808/photo/1",
+              "media_key": "3_2094341302766747648",
+              "start": 4,
+              "url": "https://t.co/V9j6wHa6GF"
+            },
+            {
+              "display_url": "pic.x.com/V9j6wHa6GF",
+              "end": 27,
+              "expanded_url": "https://x.com/YuganQwQ/status/2094341321435582808/photo/1",
+              "media_key": "3_2094341302796062720",
+              "start": 4,
+              "url": "https://t.co/V9j6wHa6GF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094341321435582808",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094341302775107584"
+          },
+          {
+            "media_key": "3_2094341302766747648"
+          },
+          {
+            "media_key": "3_2094341302796062720"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哦不！ https://t.co/V9j6wHa6GF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 查成分回fo 直fo是因为喜欢你呀 |\n前世@yuganbb823 宝宝@ci_shang85157\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yuganbb823"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "ci_shang85157"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuganqwq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuganqwq",
+                "start": 0,
+                "url": "https://t.co/19gBB14uzC"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "is_identity_verified": false,
+        "location": "距离你4.5km",
+        "most_recent_tweet_id": "2094341321435582808",
+        "name": "为何人生如此悲惨2.0",
+        "pinned_tweet_id": "2079370925015715919",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047425753227333632/1786741767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 409,
+          "like_count": 4638,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1181
+        },
+        "url": "https://t.co/19gBB14uzC",
+        "username": "YuganQwQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

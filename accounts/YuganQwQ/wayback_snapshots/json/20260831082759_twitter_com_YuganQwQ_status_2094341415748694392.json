@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094000329243439104"
+      ],
+      "media_source_tweet_id": [
+        "2094000336826687668"
+      ]
+    },
+    "author_id": "2047425753227333632",
+    "conversation_id": "2094341415748694392",
+    "created_at": "2026-08-31T08:27:59.000Z",
+    "display_text_range": [
+      0,
+      81
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T09:27:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094341415748694392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1493016356182056961",
+          "start": 3,
+          "username": "Mintink3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dw7MtFjCWO",
+          "end": 81,
+          "expanded_url": "https://x.com/Mintink3/status/2094000336826687668/photo/1",
+          "media_key": "3_2094000329243439104",
+          "start": 58,
+          "url": "https://t.co/dw7MtFjCWO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094341415748694392",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094000329243439104"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094000336826687668",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mintink3: 吸毒记录封存原来只封存2026年之后被抓的\n以前被抓的不封存\n这难道不是更鼓励吸毒吗？ https://t.co/dw7MtFjCWO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 740,
+        "media_key": "3_2094000329243439104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ9iNHgbMAASi6Q.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094000329243439104"
+          ],
+          "media_source_tweet_id": [
+            "2094000336826687668"
+          ]
+        },
+        "author_id": "2047425753227333632",
+        "conversation_id": "2094341415748694392",
+        "created_at": "2026-08-31T08:27:59.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T09:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094341415748694392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1493016356182056961",
+              "start": 3,
+              "username": "Mintink3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dw7MtFjCWO",
+              "end": 81,
+              "expanded_url": "https://x.com/Mintink3/status/2094000336826687668/photo/1",
+              "media_key": "3_2094000329243439104",
+              "start": 58,
+              "url": "https://t.co/dw7MtFjCWO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094341415748694392",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094000329243439104"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094000336826687668",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mintink3: 吸毒记录封存原来只封存2026年之后被抓的\n以前被抓的不封存\n这难道不是更鼓励吸毒吗？ https://t.co/dw7MtFjCWO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094000329243439104"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2094000336826687668",
+        "created_at": "2026-08-30T09:52:39.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T10:52:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094000336826687668"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dw7MtFjCWO",
+              "end": 67,
+              "expanded_url": "https://x.com/Mintink3/status/2094000336826687668/photo/1",
+              "media_key": "3_2094000329243439104",
+              "start": 44,
+              "url": "https://t.co/dw7MtFjCWO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094000336826687668",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094000329243439104"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3727,
+          "like_count": 50,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "吸毒记录封存原来只封存2026年之后被抓的\n以前被抓的不封存\n这难道不是更鼓励吸毒吗？ https://t.co/dw7MtFjCWO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 查成分回fo 直fo是因为喜欢你呀 |\n前世@yuganbb823 宝宝@ci_shang85157\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yuganbb823"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "ci_shang85157"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuganqwq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuganqwq",
+                "start": 0,
+                "url": "https://t.co/19gBB14uzC"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "is_identity_verified": false,
+        "location": "距离你4.5km",
+        "most_recent_tweet_id": "2094341415748694392",
+        "name": "为何人生如此悲惨2.0",
+        "pinned_tweet_id": "2079370925015715919",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047425753227333632/1786741767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 409,
+          "like_count": 4640,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1182
+        },
+        "url": "https://t.co/19gBB14uzC",
+        "username": "YuganQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "description": "09 166cm 41kg 性冷淡 重度焦虑 重度睡眠障碍💊休学做夜场 会fo同类和感兴趣的",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2094224200886350224",
+        "name": "Beatrice",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 1105,
+          "like_count": 10327,
+          "listed_count": 1,
+          "media_count": 157,
+          "tweet_count": 1485
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

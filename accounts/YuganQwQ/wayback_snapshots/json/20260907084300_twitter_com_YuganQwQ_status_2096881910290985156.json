@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080459950514675712"
+      ],
+      "media_source_tweet_id": [
+        "2080459971293315160"
+      ]
+    },
+    "author_id": "2047425753227333632",
+    "conversation_id": "2096881910290985156",
+    "created_at": "2026-09-07T08:43:00.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T09:43:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096881910290985156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2002421259829989376",
+          "start": 3,
+          "username": "sammy_mk520"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oLHOcACuzm",
+          "end": 46,
+          "expanded_url": "https://x.com/sammy_mk520/status/2080459971293315160/photo/1",
+          "media_key": "3_2080459950514675712",
+          "start": 23,
+          "url": "https://t.co/oLHOcACuzm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096881910290985156",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2080459950514675712"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080459971293315160",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sammy_mk520: *^_^* https://t.co/oLHOcACuzm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2080459950514675712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN9HTV_aoAAkX8B.jpg",
+        "width": 902
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080459950514675712"
+          ],
+          "media_source_tweet_id": [
+            "2080459971293315160"
+          ]
+        },
+        "author_id": "2047425753227333632",
+        "conversation_id": "2096881910290985156",
+        "created_at": "2026-09-07T08:43:00.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T09:43:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096881910290985156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2002421259829989376",
+              "start": 3,
+              "username": "sammy_mk520"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oLHOcACuzm",
+              "end": 46,
+              "expanded_url": "https://x.com/sammy_mk520/status/2080459971293315160/photo/1",
+              "media_key": "3_2080459950514675712",
+              "start": 23,
+              "url": "https://t.co/oLHOcACuzm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096881910290985156",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2080459950514675712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080459971293315160",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sammy_mk520: *^_^* https://t.co/oLHOcACuzm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080459950514675712"
+          ]
+        },
+        "author_id": "2002421259829989376",
+        "conversation_id": "2080459971293315160",
+        "created_at": "2026-07-24T01:08:04.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-24T02:08:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080459971293315160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oLHOcACuzm",
+              "end": 29,
+              "expanded_url": "https://x.com/sammy_mk520/status/2080459971293315160/photo/1",
+              "media_key": "3_2080459950514675712",
+              "start": 6,
+              "url": "https://t.co/oLHOcACuzm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080459971293315160",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2080459950514675712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 7309,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "*^_^* https://t.co/oLHOcACuzm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 查成分回fo 直fo是因为喜欢你呀 |\n前世@yuganbb823 宝宝@ci_shang85157\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yuganbb823"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "ci_shang85157"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuganqwq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuganqwq",
+                "start": 0,
+                "url": "https://t.co/19gBB14uzC"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "is_identity_verified": false,
+        "location": "距离你4.5km",
+        "most_recent_tweet_id": "2096881910290985156",
+        "name": "为何人生如此悲惨2.0",
+        "pinned_tweet_id": "2079370925015715919",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047425753227333632/1786741767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 513,
+          "following_count": 409,
+          "like_count": 4761,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 1219
+        },
+        "url": "https://t.co/19gBB14uzC",
+        "username": "YuganQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-20T16:50:13.000Z",
+        "description": "@polkmnas09 很漂亮的宝宝，过门绝对不亏我发誓。我接线上线下。不跑外省。私信咨询ᗜ𖥦ᗜ。同类请和我互转互fo...不玩sm不聊骚不回复一切相关。维持体重中……我和ed一直在虐恋不要问我体重饮食。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "polkmnas09"
+              }
+            ]
+          }
+        },
+        "id": "2002421259829989376",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096780881205878833",
+        "name": "教主",
+        "pinned_tweet_id": "2080459971293315160",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002421259829989376/1780666299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096431512011022336/UwCUgWOq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 97,
+          "like_count": 607,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 412
+        },
+        "url": "",
+        "username": "sammy_mk520",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

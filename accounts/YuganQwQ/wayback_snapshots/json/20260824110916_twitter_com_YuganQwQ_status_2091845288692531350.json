@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091845273207091200"
+      ]
+    },
+    "author_id": "2047425753227333632",
+    "conversation_id": "2091845288692531350",
+    "created_at": "2026-08-24T11:09:16.000Z",
+    "display_text_range": [
+      0,
+      68
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T12:09:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091845288692531350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 40,
+          "id": "2035527946354716672",
+          "start": 28,
+          "username": "Amatsukiqwq"
+        },
+        {
+          "end": 52,
+          "id": "2077517932532527104",
+          "start": 42,
+          "username": "_zz_h_dd_"
+        },
+        {
+          "end": 68,
+          "id": "1829502489227575296",
+          "start": 54,
+          "username": "C103ofsixteen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jcKJxMURtR",
+          "end": 92,
+          "expanded_url": "https://x.com/YuganQwQ/status/2091845288692531350/photo/1",
+          "media_key": "3_2091845273207091200",
+          "start": 69,
+          "url": "https://t.co/jcKJxMURtR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091845288692531350",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2091845273207091200"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "开奖惹，因为第一次抽有一个人根本没有关注我所以重新抽啦\n@Amatsukiqwq \n@_zz_h_dd_ \n@C103ofsixteen https://t.co/jcKJxMURtR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1444,
+        "media_key": "3_2091845273207091200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQe6MWKWsAAqO4b.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091845273207091200"
+          ]
+        },
+        "author_id": "2047425753227333632",
+        "conversation_id": "2091845288692531350",
+        "created_at": "2026-08-24T11:09:16.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T12:09:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091845288692531350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 40,
+              "id": "2035527946354716672",
+              "start": 28,
+              "username": "Amatsukiqwq"
+            },
+            {
+              "end": 52,
+              "id": "2077517932532527104",
+              "start": 42,
+              "username": "_zz_h_dd_"
+            },
+            {
+              "end": 68,
+              "id": "1829502489227575296",
+              "start": 54,
+              "username": "C103ofsixteen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jcKJxMURtR",
+              "end": 92,
+              "expanded_url": "https://x.com/YuganQwQ/status/2091845288692531350/photo/1",
+              "media_key": "3_2091845273207091200",
+              "start": 69,
+              "url": "https://t.co/jcKJxMURtR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091845288692531350",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091845273207091200"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开奖惹，因为第一次抽有一个人根本没有关注我所以重新抽啦\n@Amatsukiqwq \n@_zz_h_dd_ \n@C103ofsixteen https://t.co/jcKJxMURtR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 查成分回fo 直fo是因为喜欢你呀 |\n前世@yuganbb823 宝宝@ci_shang85157\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yuganbb823"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "ci_shang85157"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuganqwq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuganqwq",
+                "start": 0,
+                "url": "https://t.co/19gBB14uzC"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "is_identity_verified": false,
+        "location": "距离你4.5km",
+        "most_recent_tweet_id": "2091845288692531350",
+        "name": "为何人生如此悲惨2.0",
+        "pinned_tweet_id": "2083060079872389410",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047425753227333632/1786741767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 407,
+          "like_count": 4395,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 1111
+        },
+        "url": "https://t.co/19gBB14uzC",
+        "username": "YuganQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-22T01:25:44.000Z",
+        "description": "🏳️‍⚧️mtf🍥hrt中|正體中文/简体中文/日本語|日本の文化と文学が好き|バンドリ、プロセカをプレイ\n总之大家可以来找我聊天交朋友\n同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Amatsukiqwq",
+                "end": 23,
+                "expanded_url": "https://t.me/Amatsukiqwq",
+                "start": 0,
+                "url": "https://t.co/LzxOYeAenI"
+              }
+            ]
+          }
+        },
+        "id": "2035527946354716672",
+        "is_identity_verified": false,
+        "location": "重慶",
+        "most_recent_tweet_id": "2091828447970762882",
+        "name": "天月🏳️‍⚧️ 🍥",
+        "pinned_tweet_id": "2072508716562383206",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035527946354716672/1782924399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068511169758064640/ImfSq6Hj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 623,
+          "following_count": 906,
+          "like_count": 10007,
+          "listed_count": 2,
+          "media_count": 42,
+          "tweet_count": 305
+        },
+        "url": "https://t.co/LzxOYeAenI",
+        "username": "Amatsukiqwq",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-15T22:19:56.000Z",
+        "description": "08 | 生理女 | 泛性恋 | ISFP | PTSD | ADHD | 轻躁狂 | 异食癖 | 焦虑症 |💊 | 🚬 | 🍺| 不擅长聊天见谅 | 异宠 | 查成分回fo | 爱我请给我花钱\n宝贝：@dd_zc_zz\n匿名提问在下面哦⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 101,
+                "username": "dd_zc_zz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzhdd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzhdd",
+                "start": 0,
+                "url": "https://t.co/vWByj0LnUf"
+              }
+            ]
+          }
+        },
+        "id": "2077517932532527104",
+        "is_identity_verified": false,
+        "location": "心の中",
+        "most_recent_tweet_id": "2091834303642845544",
+        "name": "スーユウ",
+        "pinned_tweet_id": "2090979007600996702",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077517932532527104/1785532198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078690161047814144/kXTcBw1P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 185,
+          "like_count": 1824,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 1296
+        },
+        "url": "https://t.co/vWByj0LnUf",
+        "username": "_zz_h_dd_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-30T12:52:50.000Z",
+        "description": "阿拉僧本地猫娘｜？｜🏳️‍⚧️（疑｜男｜不线下｜波奇｜双性恋｜♥️@aruannie512｜宠物@S34sonSt ｜各方面都不健全｜各方面都史上最倒霉的人 | 蓝v互fo | 老人|30解锁好友位，20解锁steam的（不要问为什么",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 33,
+                "username": "aruannie512"
+              },
+              {
+                "end": 57,
+                "start": 48,
+                "username": "S34sonSt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/c103ofsixteen1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/c103ofsixteen1",
+                "start": 0,
+                "url": "https://t.co/ZeFZXlKNBF"
+              }
+            ]
+          }
+        },
+        "id": "1829502489227575296",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091841581779124457",
+        "name": "僧夏猫修🦐🍥",
+        "pinned_tweet_id": "2083938434360459319",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1829502489227575296/1785055211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090422992421752832/dsc38c36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1200,
+          "following_count": 646,
+          "like_count": 6066,
+          "listed_count": 5,
+          "media_count": 1893,
+          "tweet_count": 4973
+        },
+        "url": "https://t.co/ZeFZXlKNBF",
+        "username": "C103ofsixteen",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,448 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2097612941705052656",
+    "created_at": "2026-09-09T09:07:51.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T10:07:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097612941705052656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2096172013996089344",
+          "start": 3,
+          "username": "Mintink4"
+        },
+        {
+          "end": 103,
+          "id": "1493016356182056961",
+          "start": 94,
+          "username": "Mintink3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097612941705052656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097412785592557783",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mintink4: 我是Beatrice 喜欢化学的治愈系博主\n\n我有重度焦虑➕重度睡眠障碍\n\n我会记录我治疗自己的过程 我会发一些报告 希望我的推文能帮到你\n\n我不卖东西\n\n前世@Mintink3 申诉中 上一个置顶被见刃举办了 大家也不用帮转了 点赞关注就行\n\n9.…"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [Mintink3].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Mintink3",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "Mintink3"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2097412766718128128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRuBzHuacAA2QHV.jpg",
+        "width": 946
+      },
+      {
+        "height": 1366,
+        "media_key": "3_2097412766764244992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRuBzH5aIAAZdcr.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2097412766760103936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRuBzH4a8AAYjJB.jpg",
+        "width": 1536
+      },
+      {
+        "duration_ms": 4033,
+        "height": 1280,
+        "media_key": "13_2097412766885908480",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2097412766885908480/img/0oWrl-CDjPYDQeYK.jpg",
+        "public_metrics": {
+          "view_count": 115
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097412766885908480/vid/avc1/320x568/IVbQQE3RfuSbEEew.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097412766885908480/vid/avc1/480x852/V3jRMlF2tmrKtPU4.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097412766885908480/vid/avc1/720x1280/gcHQQ9lNK_DME6Y3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2097412766885908480/pl/ExwhUUDWFMrt0yMh.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2097612941705052656",
+        "created_at": "2026-09-09T09:07:51.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T10:07:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097612941705052656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2096172013996089344",
+              "start": 3,
+              "username": "Mintink4"
+            },
+            {
+              "end": 103,
+              "id": "1493016356182056961",
+              "start": 94,
+              "username": "Mintink3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097612941705052656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097412785592557783",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mintink4: 我是Beatrice 喜欢化学的治愈系博主\n\n我有重度焦虑➕重度睡眠障碍\n\n我会记录我治疗自己的过程 我会发一些报告 希望我的推文能帮到你\n\n我不卖东西\n\n前世@Mintink3 申诉中 上一个置顶被见刃举办了 大家也不用帮转了 点赞关注就行\n\n9.…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097412766718128128",
+            "3_2097412766764244992",
+            "3_2097412766760103936",
+            "13_2097412766885908480"
+          ]
+        },
+        "author_id": "2096172013996089344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2097412785592557783",
+        "created_at": "2026-09-08T19:52:30.000Z",
+        "display_text_range": [
+          0,
+          166
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T20:52:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097412785592557783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 89,
+              "id": "1493016356182056961",
+              "start": 80,
+              "username": "Mintink3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uliWFraOm1",
+              "end": 190,
+              "expanded_url": "https://x.com/Mintink4/status/2097412785592557783/video/1",
+              "media_key": "3_2097412766718128128",
+              "start": 167,
+              "url": "https://t.co/uliWFraOm1"
+            },
+            {
+              "display_url": "pic.x.com/uliWFraOm1",
+              "end": 190,
+              "expanded_url": "https://x.com/Mintink4/status/2097412785592557783/video/1",
+              "media_key": "3_2097412766764244992",
+              "start": 167,
+              "url": "https://t.co/uliWFraOm1"
+            },
+            {
+              "display_url": "pic.x.com/uliWFraOm1",
+              "end": 190,
+              "expanded_url": "https://x.com/Mintink4/status/2097412785592557783/video/1",
+              "media_key": "3_2097412766760103936",
+              "start": 167,
+              "url": "https://t.co/uliWFraOm1"
+            },
+            {
+              "display_url": "pic.x.com/uliWFraOm1",
+              "end": 190,
+              "expanded_url": "https://x.com/Mintink4/status/2097412785592557783/video/1",
+              "media_key": "13_2097412766885908480",
+              "start": 167,
+              "url": "https://t.co/uliWFraOm1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097412785592557783",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097412766718128128"
+          },
+          {
+            "media_key": "3_2097412766764244992"
+          },
+          {
+            "media_key": "3_2097412766760103936"
+          },
+          {
+            "media_key": "13_2097412766885908480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1234,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "我是Beatrice 喜欢化学的治愈系博主\n\n我有重度焦虑➕重度睡眠障碍\n\n我会记录我治疗自己的过程 我会发一些报告 希望我的推文能帮到你\n\n我不卖东西\n\n前世@Mintink3 申诉中 上一个置顶被见刃举办了 大家也不用帮转了 点赞关注就行\n\n9.15直接从fo里抽10个12.8CNY\n\n我经常被ban 联系不到请点我主页的频道 https://t.co/uliWFraOm1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 查成分回fo 直fo是因为喜欢你呀 |\n前世@yuganbb823 宝宝@ci_shang85157\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yuganbb823"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "ci_shang85157"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuganqwq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuganqwq",
+                "start": 0,
+                "url": "https://t.co/19gBB14uzC"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "is_identity_verified": false,
+        "location": "距离你4.5km",
+        "most_recent_tweet_id": "2097612941705052656",
+        "name": "为何人生如此悲惨2.0",
+        "pinned_tweet_id": "2079370925015715919",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047425753227333632/1786741767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 417,
+          "like_count": 5068,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 1271
+        },
+        "url": "https://t.co/19gBB14uzC",
+        "username": "YuganQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-05T09:43:32.000Z",
+        "description": "166cm/41kg/前世@Mintink3 个人频道https://t.co/7Nto1YSCMk❤️互fo请私我 我想寻回好友们 感谢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "Mintink3"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+GWs1Kp_yEDAyY…",
+                "end": 50,
+                "expanded_url": "https://t.me/+GWs1Kp_yEDAyYzc9",
+                "start": 27,
+                "url": "https://t.co/7Nto1YSCMk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+GWs1Kp_yEDAyY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+GWs1Kp_yEDAyYzc9",
+                "start": 0,
+                "url": "https://t.co/7Nto1YSCMk"
+              }
+            ]
+          }
+        },
+        "id": "2096172013996089344",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097581300609855665",
+        "name": "Beatrice二世",
+        "pinned_tweet_id": "2097412785592557783",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2096172013996089344/1788601626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096173219044896768/yaMgdXAb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 803,
+          "following_count": 282,
+          "like_count": 621,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 119
+        },
+        "url": "https://t.co/7Nto1YSCMk",
+        "username": "Mintink4",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

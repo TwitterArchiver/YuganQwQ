@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096826785908563968"
+      ],
+      "media_source_tweet_id": [
+        "2096826801029050645"
+      ]
+    },
+    "author_id": "2047425753227333632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2097024115433439417",
+    "created_at": "2026-09-07T18:08:04.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T19:08:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097024115433439417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1816254834938634242",
+          "start": 3,
+          "username": "Ruyuu233"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PBDkQ1uPBP",
+          "end": 37,
+          "expanded_url": "https://x.com/Ruyuu233/status/2096826801029050645/photo/1",
+          "media_key": "3_2096826785908563968",
+          "start": 14,
+          "url": "https://t.co/PBDkQ1uPBP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097024115433439417",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2096826785908563968"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 89
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096826801029050645",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ruyuu233: https://t.co/PBDkQ1uPBP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 948,
+        "media_key": "3_2096826785908563968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRls2jGaoAAExCY.jpg",
+        "width": 1105
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096826785908563968"
+          ],
+          "media_source_tweet_id": [
+            "2096826801029050645"
+          ]
+        },
+        "author_id": "2047425753227333632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2097024115433439417",
+        "created_at": "2026-09-07T18:08:04.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T19:08:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097024115433439417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1816254834938634242",
+              "start": 3,
+              "username": "Ruyuu233"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PBDkQ1uPBP",
+              "end": 37,
+              "expanded_url": "https://x.com/Ruyuu233/status/2096826801029050645/photo/1",
+              "media_key": "3_2096826785908563968",
+              "start": 14,
+              "url": "https://t.co/PBDkQ1uPBP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097024115433439417",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2096826785908563968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 89
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096826801029050645",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ruyuu233: https://t.co/PBDkQ1uPBP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096826785908563968"
+          ]
+        },
+        "author_id": "1816254834938634242",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2096826801029050645",
+        "created_at": "2026-09-07T05:04:01.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T06:04:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096826801029050645"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PBDkQ1uPBP",
+              "end": 23,
+              "expanded_url": "https://x.com/Ruyuu233/status/2096826801029050645/photo/1",
+              "media_key": "3_2096826785908563968",
+              "start": 0,
+              "url": "https://t.co/PBDkQ1uPBP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096826801029050645",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2096826785908563968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 125,
+          "impression_count": 140739,
+          "like_count": 1613,
+          "quote_count": 11,
+          "reply_count": 199,
+          "retweet_count": 89
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/PBDkQ1uPBP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 查成分回fo 直fo是因为喜欢你呀 |\n前世@yuganbb823 宝宝@ci_shang85157\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yuganbb823"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "ci_shang85157"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuganqwq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuganqwq",
+                "start": 0,
+                "url": "https://t.co/19gBB14uzC"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "is_identity_verified": false,
+        "location": "距离你4.5km",
+        "most_recent_tweet_id": "2097024115433439417",
+        "name": "为何人生如此悲惨2.0",
+        "pinned_tweet_id": "2079370925015715919",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047425753227333632/1786741767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 412,
+          "like_count": 4831,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1239
+        },
+        "url": "https://t.co/19gBB14uzC",
+        "username": "YuganQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-24T23:31:30.000Z",
+        "description": "这是汝鱼 这里是我的内心世界 我是尼特族呀",
+        "id": "1816254834938634242",
+        "is_identity_verified": false,
+        "location": "人生难度那么高怎么沒人出攻略?差评★☆☆☆☆",
+        "most_recent_tweet_id": "2097015952391200814",
+        "name": "汽修2班琉羽羽。",
+        "pinned_tweet_id": "2068446475194151028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1816254834938634242/1787934987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083958920989818880/5ezjtMdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 437,
+          "like_count": 4911,
+          "listed_count": 1,
+          "media_count": 449,
+          "tweet_count": 4268
+        },
+        "url": "",
+        "username": "Ruyuu233",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
