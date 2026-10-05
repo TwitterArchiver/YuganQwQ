@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2105637194060701965",
+    "created_at": "2026-10-02T01:15:26.000Z",
+    "display_text_range": [
+      12,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T02:15:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105828974899159419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2103276596345847808",
+          "start": 0,
+          "username": "Scallopxyz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105828974899159419",
+    "in_reply_to_user_id": "2103276596345847808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105637194060701965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Scallopxyz 喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1485,
+        "media_key": "3_2105637173034692608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTi52kyXMAAcRoR.jpg",
+        "width": 1289
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2105637194060701965",
+        "created_at": "2026-10-02T01:15:26.000Z",
+        "display_text_range": [
+          12,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T02:15:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105828974899159419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2103276596345847808",
+              "start": 0,
+              "username": "Scallopxyz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105828974899159419",
+        "in_reply_to_user_id": "2103276596345847808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105637194060701965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Scallopxyz 喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105637173034692608"
+          ]
+        },
+        "author_id": "2103276596345847808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2105637194060701965",
+        "created_at": "2026-10-01T12:33:22.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T13:33:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105637194060701965"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MkHWasMEBU",
+              "end": 91,
+              "expanded_url": "https://x.com/Scallopxyz/status/2105637194060701965/photo/1",
+              "media_key": "3_2105637173034692608",
+              "start": 68,
+              "url": "https://t.co/MkHWasMEBU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105637194060701965",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105637173034692608"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2785,
+          "like_count": 114,
+          "quote_count": 0,
+          "reply_count": 45,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "正好明天要点奶茶然后呃我好像还没抽过奖o 只抽粉丝亚米亚米\n明天从点赞里面抽一个25两个13.14 让grok开吧应该…等我明天再看看 https://t.co/MkHWasMEBU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 查成分回fo 直fo是因为喜欢你呀 |\n前世@yuganbb823 宝宝@ci_shang85157\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yuganbb823"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "ci_shang85157"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuganqwq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuganqwq",
+                "start": 0,
+                "url": "https://t.co/19gBB14uzC"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "is_identity_verified": false,
+        "location": "距离你4.5km",
+        "most_recent_tweet_id": "2105828974899159419",
+        "name": "为何人生如此悲惨2.0",
+        "pinned_tweet_id": "2105458187768131727",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047425753227333632/1786741767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 509,
+          "like_count": 6676,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1590
+        },
+        "url": "https://t.co/19gBB14uzC",
+        "username": "YuganQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-25T00:14:52.000Z",
+        "description": "四世同堂@ZhengX50513 🚪888没福利纯圈钱 只喜欢和有礼貌的人聊天谢谢\n不约不聊骚 不是顶帅薄肌不准给我发照片 不是极品青年音不准给我发语音",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 4,
+                "username": "ZhengX50513"
+              }
+            ]
+          }
+        },
+        "id": "2103276596345847808",
+        "is_identity_verified": false,
+        "location": "2.14km",
+        "most_recent_tweet_id": "2105816255466762366",
+        "name": "此人绝非scallop",
+        "pinned_tweet_id": "2104064568506867813",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2103276596345847808/1790857141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103277191433773056/e2CUAzaW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 66,
+          "like_count": 1068,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 1350
+        },
+        "url": "",
+        "username": "Scallopxyz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

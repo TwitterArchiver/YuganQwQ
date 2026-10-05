@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2104851131293901156",
+    "created_at": "2026-09-29T09:40:45.000Z",
+    "display_text_range": [
+      30,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T10:40:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104868977017233692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2074936970610987008",
+          "start": 0,
+          "username": "NicoleTravabgk"
+        },
+        {
+          "end": 29,
+          "id": "1952660732132425728",
+          "start": 16,
+          "username": "Dead8964line"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104868977017233692",
+    "in_reply_to_user_id": "2074936970610987008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104851131293901156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NicoleTravabgk @Dead8964line 青青糯山"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2285,
+        "media_key": "3_2104851111521984512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTXu7xdaoAA_caU.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2104851131293901156",
+        "created_at": "2026-09-29T09:40:45.000Z",
+        "display_text_range": [
+          30,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T10:40:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104868977017233692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2074936970610987008",
+              "start": 0,
+              "username": "NicoleTravabgk"
+            },
+            {
+              "end": 29,
+              "id": "1952660732132425728",
+              "start": 16,
+              "username": "Dead8964line"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104868977017233692",
+        "in_reply_to_user_id": "2074936970610987008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104851131293901156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NicoleTravabgk @Dead8964line 青青糯山"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104851111521984512"
+          ]
+        },
+        "author_id": "2074936970610987008",
+        "conversation_id": "2104851131293901156",
+        "created_at": "2026-09-29T08:29:50.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T09:29:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104851131293901156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1952660732132425728",
+              "start": 2,
+              "username": "Dead8964line"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HSUXCW4av1",
+              "end": 87,
+              "expanded_url": "https://x.com/NicoleTravabgk/status/2104851131293901156/photo/1",
+              "media_key": "3_2104851111521984512",
+              "start": 64,
+              "url": "https://t.co/HSUXCW4av1"
+            },
+            {
+              "display_url": "x.com/NicoleTravabgk…",
+              "end": 111,
+              "expanded_url": "https://twitter.com/NicoleTravabgk/status/2104068074043474325",
+              "start": 88,
+              "url": "https://t.co/FyjnWAnwYj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104851131293901156",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104851111521984512"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104068074043474325",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "恭喜@Dead8964line 中奖，请回一下私信，本帖关注转发，评论一句自己最喜欢吃的东西，继续空投一份「黄灼」后天开，另外 https://t.co/HSUXCW4av1 https://t.co/FyjnWAnwYj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 查成分回fo 直fo是因为喜欢你呀 |\n前世@yuganbb823 宝宝@ci_shang85157\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yuganbb823"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "ci_shang85157"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuganqwq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuganqwq",
+                "start": 0,
+                "url": "https://t.co/19gBB14uzC"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "is_identity_verified": false,
+        "location": "距离你4.5km",
+        "most_recent_tweet_id": "2104868977017233692",
+        "name": "为何人生如此悲惨2.0",
+        "pinned_tweet_id": "2079370925015715919",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047425753227333632/1786741767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 601,
+          "following_count": 493,
+          "like_count": 6598,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 1546
+        },
+        "url": "https://t.co/19gBB14uzC",
+        "username": "YuganQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-08T19:23:10.000Z",
+        "description": "杀不死我的，只会让我更加强大\n平等交流社区/实验科研/药物科普/rc出售\n备用号：@FffffNnnnnYyyyy\ntg群：https://t.co/6dIV2Getm3\n频道：https://t.co/iotvF7pLoK",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 41,
+                "username": "FffffNnnnnYyyyy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+gjb2OqUsan1jO…",
+                "end": 85,
+                "expanded_url": "https://t.me/+gjb2OqUsan1jOGNl",
+                "start": 62,
+                "url": "https://t.co/6dIV2Getm3"
+              },
+              {
+                "display_url": "t.me/pingjingluo",
+                "end": 112,
+                "expanded_url": "https://t.me/pingjingluo",
+                "start": 89,
+                "url": "https://t.co/iotvF7pLoK"
+              }
+            ]
+          }
+        },
+        "id": "2074936970610987008",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104851131293901156",
+        "name": "平静屋（rc有售）",
+        "pinned_tweet_id": "2103084806007607318",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101285311938797568/8lGOnqme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 22,
+          "like_count": 93,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 44
+        },
+        "url": "",
+        "username": "NicoleTravabgk",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-05T09:19:39.000Z",
+        "description": "头颅若滚不到爱人脚下，便是肩上的负担。",
+        "id": "1952660732132425728",
+        "is_identity_verified": false,
+        "location": "He/They｜同类互fo 直fo就是喜欢你",
+        "most_recent_tweet_id": "2104841016641744992",
+        "name": "🜏deadline🜏",
+        "pinned_tweet_id": "2074555042619953622",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1952660732132425728/1790621180",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104643842331062273/nqWasm8U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 92,
+          "like_count": 1527,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 788
+        },
+        "url": "",
+        "username": "Dead8964line",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

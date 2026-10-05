@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101654289051701248"
+      ],
+      "media_source_tweet_id": [
+        "2101654294487609801"
+      ]
+    },
+    "author_id": "2047425753227333632",
+    "conversation_id": "2101970201004662991",
+    "created_at": "2026-09-21T09:42:03.000Z",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T10:42:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101970201004662991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2078770183079141376",
+          "start": 3,
+          "username": "nxisvz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IhJ7gY8lIs",
+          "end": 49,
+          "expanded_url": "https://x.com/nxisvz/status/2101654294487609801/photo/1",
+          "media_key": "3_2101654289051701248",
+          "start": 26,
+          "url": "https://t.co/IhJ7gY8lIs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101970201004662991",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2101654289051701248"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 221
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101654294487609801",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nxisvz: 君のためならこれくらい…！ https://t.co/IhJ7gY8lIs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2101654289051701248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSqTcNuaUAAlhK1.jpg",
+        "width": 1498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101654289051701248"
+          ],
+          "media_source_tweet_id": [
+            "2101654294487609801"
+          ]
+        },
+        "author_id": "2047425753227333632",
+        "conversation_id": "2101970201004662991",
+        "created_at": "2026-09-21T09:42:03.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T10:42:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101970201004662991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2078770183079141376",
+              "start": 3,
+              "username": "nxisvz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IhJ7gY8lIs",
+              "end": 49,
+              "expanded_url": "https://x.com/nxisvz/status/2101654294487609801/photo/1",
+              "media_key": "3_2101654289051701248",
+              "start": 26,
+              "url": "https://t.co/IhJ7gY8lIs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101970201004662991",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101654289051701248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 221
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101654294487609801",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nxisvz: 君のためならこれくらい…！ https://t.co/IhJ7gY8lIs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101654289051701248"
+          ]
+        },
+        "author_id": "2078770183079141376",
+        "conversation_id": "2101654294487609801",
+        "created_at": "2026-09-20T12:46:45.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T13:46:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101654294487609801"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IhJ7gY8lIs",
+              "end": 37,
+              "expanded_url": "https://x.com/nxisvz/status/2101654294487609801/photo/1",
+              "media_key": "3_2101654289051701248",
+              "start": 14,
+              "url": "https://t.co/IhJ7gY8lIs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101654294487609801",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101654289051701248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 183,
+          "impression_count": 14064,
+          "like_count": 2330,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 221
+        },
+        "reply_settings": "everyone",
+        "text": "君のためならこれくらい…！ https://t.co/IhJ7gY8lIs"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 查成分回fo 直fo是因为喜欢你呀 |\n前世@yuganbb823 宝宝@ci_shang85157\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yuganbb823"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "ci_shang85157"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuganqwq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuganqwq",
+                "start": 0,
+                "url": "https://t.co/19gBB14uzC"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "is_identity_verified": false,
+        "location": "距离你4.5km",
+        "most_recent_tweet_id": "2101970201004662991",
+        "name": "为何人生如此悲惨2.0",
+        "pinned_tweet_id": "2079370925015715919",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047425753227333632/1786741767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 577,
+          "following_count": 469,
+          "like_count": 6063,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1421
+        },
+        "url": "https://t.co/19gBB14uzC",
+        "username": "YuganQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-19T09:14:22.000Z",
+        "description": "依頼はDMへご連絡ください\nFAタグ：#あるへの捧げ物\n\n無断転載使用AI学習禁止",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 19,
+                "tag": "あるへの捧げ物"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nxisvz",
+                "end": 23,
+                "expanded_url": "https://lit.link/nxisvz",
+                "start": 0,
+                "url": "https://t.co/VTRvS3r9X8"
+              }
+            ]
+          }
+        },
+        "id": "2078770183079141376",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101798487562272883",
+        "name": "ある",
+        "pinned_tweet_id": "2099752038133616804",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098431864533082112/9JIs_sAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 9,
+          "like_count": 137,
+          "listed_count": 2,
+          "media_count": 22,
+          "tweet_count": 143
+        },
+        "url": "https://t.co/VTRvS3r9X8",
+        "username": "nxisvz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

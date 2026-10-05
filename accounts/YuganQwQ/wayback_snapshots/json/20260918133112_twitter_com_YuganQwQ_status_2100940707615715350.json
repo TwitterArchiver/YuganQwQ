@@ -1,0 +1,455 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100521472611823616",
+        "3_2100521472615960576",
+        "3_2100521472607584256",
+        "3_2100521472632762368"
+      ],
+      "media_source_tweet_id": [
+        "2100521489728696572",
+        "2100521489728696572",
+        "2100521489728696572",
+        "2100521489728696572"
+      ]
+    },
+    "author_id": "2047425753227333632",
+    "conversation_id": "2100940707615715350",
+    "created_at": "2026-09-18T13:31:12.000Z",
+    "display_text_range": [
+      0,
+      106
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T14:31:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100940707615715350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2063957681984225280",
+          "start": 3,
+          "username": "YuwenMewo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gLplqfhvrN",
+          "end": 106,
+          "expanded_url": "https://x.com/YuwenMewo/status/2100521489728696572/photo/1",
+          "media_key": "3_2100521472611823616",
+          "start": 83,
+          "url": "https://t.co/gLplqfhvrN"
+        },
+        {
+          "display_url": "pic.x.com/gLplqfhvrN",
+          "end": 106,
+          "expanded_url": "https://x.com/YuwenMewo/status/2100521489728696572/photo/1",
+          "media_key": "3_2100521472615960576",
+          "start": 83,
+          "url": "https://t.co/gLplqfhvrN"
+        },
+        {
+          "display_url": "pic.x.com/gLplqfhvrN",
+          "end": 106,
+          "expanded_url": "https://x.com/YuwenMewo/status/2100521489728696572/photo/1",
+          "media_key": "3_2100521472607584256",
+          "start": 83,
+          "url": "https://t.co/gLplqfhvrN"
+        },
+        {
+          "display_url": "pic.x.com/gLplqfhvrN",
+          "end": 106,
+          "expanded_url": "https://x.com/YuwenMewo/status/2100521489728696572/photo/1",
+          "media_key": "3_2100521472632762368",
+          "start": 83,
+          "url": "https://t.co/gLplqfhvrN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100940707615715350",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100521472611823616"
+      },
+      {
+        "media_key": "3_2100521472615960576"
+      },
+      {
+        "media_key": "3_2100521472607584256"
+      },
+      {
+        "media_key": "3_2100521472632762368"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100521489728696572",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YuwenMewo: n55闯入上海双语学校平和金鼎校区找同学蹭课被保安发现\n随后被警察带走（发出惨叫）\n校方回应如下（绷不住了“男同学”，“卖淫行为”）： https://t.co/gLplqfhvrN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2100521472611823616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSaNJnobsAAR3Pc.jpg",
+        "width": 946
+      },
+      {
+        "height": 1990,
+        "media_key": "3_2100521472615960576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSaNJnpa0AALTz4.jpg",
+        "width": 824
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2100521472607584256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSaNJnnbAAARBn5.jpg",
+        "width": 1682
+      },
+      {
+        "height": 1554,
+        "media_key": "3_2100521472632762368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSaNJntbMAAiKqB.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100521472611823616",
+            "3_2100521472615960576",
+            "3_2100521472607584256",
+            "3_2100521472632762368"
+          ],
+          "media_source_tweet_id": [
+            "2100521489728696572",
+            "2100521489728696572",
+            "2100521489728696572",
+            "2100521489728696572"
+          ]
+        },
+        "author_id": "2047425753227333632",
+        "conversation_id": "2100940707615715350",
+        "created_at": "2026-09-18T13:31:12.000Z",
+        "display_text_range": [
+          0,
+          106
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T14:31:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100940707615715350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2063957681984225280",
+              "start": 3,
+              "username": "YuwenMewo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gLplqfhvrN",
+              "end": 106,
+              "expanded_url": "https://x.com/YuwenMewo/status/2100521489728696572/photo/1",
+              "media_key": "3_2100521472611823616",
+              "start": 83,
+              "url": "https://t.co/gLplqfhvrN"
+            },
+            {
+              "display_url": "pic.x.com/gLplqfhvrN",
+              "end": 106,
+              "expanded_url": "https://x.com/YuwenMewo/status/2100521489728696572/photo/1",
+              "media_key": "3_2100521472615960576",
+              "start": 83,
+              "url": "https://t.co/gLplqfhvrN"
+            },
+            {
+              "display_url": "pic.x.com/gLplqfhvrN",
+              "end": 106,
+              "expanded_url": "https://x.com/YuwenMewo/status/2100521489728696572/photo/1",
+              "media_key": "3_2100521472607584256",
+              "start": 83,
+              "url": "https://t.co/gLplqfhvrN"
+            },
+            {
+              "display_url": "pic.x.com/gLplqfhvrN",
+              "end": 106,
+              "expanded_url": "https://x.com/YuwenMewo/status/2100521489728696572/photo/1",
+              "media_key": "3_2100521472632762368",
+              "start": 83,
+              "url": "https://t.co/gLplqfhvrN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100940707615715350",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100521472611823616"
+          },
+          {
+            "media_key": "3_2100521472615960576"
+          },
+          {
+            "media_key": "3_2100521472607584256"
+          },
+          {
+            "media_key": "3_2100521472632762368"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100521489728696572",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YuwenMewo: n55闯入上海双语学校平和金鼎校区找同学蹭课被保安发现\n随后被警察带走（发出惨叫）\n校方回应如下（绷不住了“男同学”，“卖淫行为”）： https://t.co/gLplqfhvrN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100521472611823616",
+            "3_2100521472615960576",
+            "3_2100521472607584256",
+            "3_2100521472632762368"
+          ]
+        },
+        "author_id": "2063957681984225280",
+        "conversation_id": "2100521489728696572",
+        "created_at": "2026-09-17T09:45:23.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T10:45:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100521489728696572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gLplqfhvrN",
+              "end": 91,
+              "expanded_url": "https://x.com/YuwenMewo/status/2100521489728696572/photo/1",
+              "media_key": "3_2100521472611823616",
+              "start": 68,
+              "url": "https://t.co/gLplqfhvrN"
+            },
+            {
+              "display_url": "pic.x.com/gLplqfhvrN",
+              "end": 91,
+              "expanded_url": "https://x.com/YuwenMewo/status/2100521489728696572/photo/1",
+              "media_key": "3_2100521472615960576",
+              "start": 68,
+              "url": "https://t.co/gLplqfhvrN"
+            },
+            {
+              "display_url": "pic.x.com/gLplqfhvrN",
+              "end": 91,
+              "expanded_url": "https://x.com/YuwenMewo/status/2100521489728696572/photo/1",
+              "media_key": "3_2100521472607584256",
+              "start": 68,
+              "url": "https://t.co/gLplqfhvrN"
+            },
+            {
+              "display_url": "pic.x.com/gLplqfhvrN",
+              "end": 91,
+              "expanded_url": "https://x.com/YuwenMewo/status/2100521489728696572/photo/1",
+              "media_key": "3_2100521472632762368",
+              "start": 68,
+              "url": "https://t.co/gLplqfhvrN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100521489728696572",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100521472611823616"
+          },
+          {
+            "media_key": "3_2100521472615960576"
+          },
+          {
+            "media_key": "3_2100521472607584256"
+          },
+          {
+            "media_key": "3_2100521472632762368"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 12262,
+          "like_count": 131,
+          "quote_count": 6,
+          "reply_count": 47,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "n55闯入上海双语学校平和金鼎校区找同学蹭课被保安发现\n随后被警察带走（发出惨叫）\n校方回应如下（绷不住了“男同学”，“卖淫行为”）： https://t.co/gLplqfhvrN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 查成分回fo 直fo是因为喜欢你呀 |\n前世@yuganbb823 宝宝@ci_shang85157\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yuganbb823"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "ci_shang85157"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuganqwq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuganqwq",
+                "start": 0,
+                "url": "https://t.co/19gBB14uzC"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "is_identity_verified": false,
+        "location": "距离你4.5km",
+        "most_recent_tweet_id": "2100940707615715350",
+        "name": "为何人生如此悲惨2.0",
+        "pinned_tweet_id": "2079370925015715919",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047425753227333632/1786741767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 467,
+          "like_count": 5863,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1391
+        },
+        "url": "https://t.co/19gBB14uzC",
+        "username": "YuganQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-08T12:21:21.000Z",
+        "description": "🏳️‍⚧️ MTF ♀\n🎂 10.19\n💉 HRT 2025.06.30\n🍥  持证含糖\n💻 科技宅一只\n✨ 努力长成理想中的自己\n我的telegram群：https://t.co/7n12aPlryP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+UFtO_LPe9vA0O…",
+                "end": 101,
+                "expanded_url": "https://t.me/+UFtO_LPe9vA0OTJk",
+                "start": 78,
+                "url": "https://t.co/7n12aPlryP"
+              }
+            ]
+          }
+        },
+        "id": "2063957681984225280",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100826865128952163",
+        "name": "唐毓文",
+        "pinned_tweet_id": "2097900990750167415",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063957681984225280/1781144220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063959820148064256/gZr_9bTC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2727,
+          "following_count": 101,
+          "like_count": 212,
+          "listed_count": 8,
+          "media_count": 814,
+          "tweet_count": 3275
+        },
+        "url": "",
+        "username": "YuwenMewo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

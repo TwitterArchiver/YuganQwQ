@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2099393330828210551",
+    "created_at": "2026-09-14T07:02:29.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T08:02:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099393330828210551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1084526175727185920",
+          "start": 3,
+          "username": "yukominami520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099393330828210551",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 60
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098992281596387504",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yukominami520: 默认女的上推就是可以随时约随便操的骚货的男的就是最傻逼的群体🚬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2099393330828210551",
+        "created_at": "2026-09-14T07:02:29.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T08:02:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099393330828210551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1084526175727185920",
+              "start": 3,
+              "username": "yukominami520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099393330828210551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 60
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098992281596387504",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yukominami520: 默认女的上推就是可以随时约随便操的骚货的男的就是最傻逼的群体🚬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1084526175727185920",
+        "conversation_id": "2098992281596387504",
+        "created_at": "2026-09-13T04:28:51.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T05:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098992281596387504"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098992281596387504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 137999,
+          "like_count": 2430,
+          "quote_count": 5,
+          "reply_count": 404,
+          "retweet_count": 60
+        },
+        "reply_settings": "everyone",
+        "text": "默认女的上推就是可以随时约随便操的骚货的男的就是最傻逼的群体🚬"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 查成分回fo 直fo是因为喜欢你呀 |\n前世@yuganbb823 宝宝@ci_shang85157\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yuganbb823"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "ci_shang85157"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuganqwq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuganqwq",
+                "start": 0,
+                "url": "https://t.co/19gBB14uzC"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "is_identity_verified": false,
+        "location": "距离你4.5km",
+        "most_recent_tweet_id": "2099393330828210551",
+        "name": "为何人生如此悲惨2.0",
+        "pinned_tweet_id": "2079370925015715919",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047425753227333632/1786741767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 434,
+          "like_count": 5544,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1329
+        },
+        "url": "https://t.co/19gBB14uzC",
+        "username": "YuganQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-01-13T19:02:44.000Z",
+        "description": "enfp不快乐小咪丨天蝎丨168cm 73kg丨年龄是永远18岁丨屁话巨多的碎碎念大王\r一个喜欢欣赏美好肉体的淳朴小女孩😋只是爱说骚话我真的不看🐮不约炮不陪聊\n防走丢小号@Minamiovo520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 85,
+                "username": "Minamiovo520"
+              }
+            ]
+          }
+        },
+        "id": "1084526175727185920",
+        "is_identity_verified": false,
+        "location": "老婆的怀里",
+        "most_recent_tweet_id": "2099077850682818842",
+        "name": "Yukominami",
+        "pinned_tweet_id": "2091573512817561721",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1084526175727185920/1778304000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059467800499122176/fQznr4xS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4530,
+          "following_count": 490,
+          "like_count": 19781,
+          "listed_count": 4,
+          "media_count": 1677,
+          "tweet_count": 7570
+        },
+        "url": "",
+        "username": "yukominami520",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

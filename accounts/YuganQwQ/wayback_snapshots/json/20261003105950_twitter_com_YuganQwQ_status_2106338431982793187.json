@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2106258507473526832",
+    "created_at": "2026-10-03T10:59:50.000Z",
+    "display_text_range": [
+      29,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T11:59:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106338431982793187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1392223750377152516",
+          "start": 0,
+          "username": "FffffNnnnnYyyyy"
+        },
+        {
+          "end": 28,
+          "id": "2085173242814451712",
+          "start": 17,
+          "username": "yuda4_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106338431982793187",
+    "in_reply_to_user_id": "1392223750377152516",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106258507473526832",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FffffNnnnnYyyyy @yuda4_8964 🤤🤤🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 707,
+        "media_key": "3_2106258493510717440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTru8L7bEAA0bkp.jpg",
+        "width": 1259
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2106258507473526832",
+        "created_at": "2026-10-03T10:59:50.000Z",
+        "display_text_range": [
+          29,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T11:59:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106338431982793187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1392223750377152516",
+              "start": 0,
+              "username": "FffffNnnnnYyyyy"
+            },
+            {
+              "end": 28,
+              "id": "2085173242814451712",
+              "start": 17,
+              "username": "yuda4_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106338431982793187",
+        "in_reply_to_user_id": "1392223750377152516",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106258507473526832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FffffNnnnnYyyyy @yuda4_8964 🤤🤤🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106258493510717440"
+          ]
+        },
+        "author_id": "1392223750377152516",
+        "conversation_id": "2106258507473526832",
+        "created_at": "2026-10-03T05:42:15.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T06:42:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106258507473526832"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/viEO1oLXoi",
+              "end": 74,
+              "expanded_url": "https://x.com/FffffNnnnnYyyyy/status/2106258507473526832/photo/1",
+              "media_key": "3_2106258493510717440",
+              "start": 51,
+              "url": "https://t.co/viEO1oLXoi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106258507473526832",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106258493510717440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 298,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "因为我大号又封了，抽奖转移到本号上😭，评论关注转发此贴抽一个人继续空投「黄灼」，两天后开，祝大家好运 https://t.co/viEO1oLXoi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 查成分回fo 直fo是因为喜欢你呀 |\n前世@yuganbb823 宝宝@ci_shang85157\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yuganbb823"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "ci_shang85157"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuganqwq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuganqwq",
+                "start": 0,
+                "url": "https://t.co/19gBB14uzC"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "is_identity_verified": false,
+        "location": "距离你4.5km",
+        "most_recent_tweet_id": "2106338431982793187",
+        "name": "为何人生如此悲惨2.0",
+        "pinned_tweet_id": "2105458187768131727",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047425753227333632/1786741767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 643,
+          "following_count": 527,
+          "like_count": 6786,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1614
+        },
+        "url": "https://t.co/19gBB14uzC",
+        "username": "YuganQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-05-11T21:03:49.000Z",
+        "description": "杀不死我的，只会让我更加强大\n平等交流社区/药物科普/rc出售，此号为备用 \ntg群：https://t.co/s7ixdS58ql\n频道：https://t.co/OGbUPCCmsA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+gjb2OqUsan1jO…",
+                "end": 66,
+                "expanded_url": "https://t.me/+gjb2OqUsan1jOGNl",
+                "start": 43,
+                "url": "https://t.co/s7ixdS58ql"
+              },
+              {
+                "display_url": "t.me/pingjingluo",
+                "end": 93,
+                "expanded_url": "https://t.me/pingjingluo",
+                "start": 70,
+                "url": "https://t.co/OGbUPCCmsA"
+              }
+            ]
+          }
+        },
+        "id": "1392223750377152516",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106299220835627048",
+        "name": "平静屋",
+        "pinned_tweet_id": "2106258507473526832",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103337723063087105/wGzocPXj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 37,
+          "like_count": 480,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 60
+        },
+        "url": "",
+        "username": "FffffNnnnnYyyyy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-06T01:20:17.000Z",
+        "description": "@yuda3_8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "yuda3_8964"
+              }
+            ]
+          }
+        },
+        "id": "2085173242814451712",
+        "is_identity_verified": false,
+        "location": "地心世界",
+        "most_recent_tweet_id": "2106323069719765011",
+        "name": "𝖞𝖚𝖉𝖆🏴‍☠️(4.0)",
+        "pinned_tweet_id": "2105276718181179901",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085173242814451712/1790836439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085174857097150464/Dke2R4rR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 149,
+          "like_count": 9397,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 448
+        },
+        "url": "",
+        "username": "yuda4_8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

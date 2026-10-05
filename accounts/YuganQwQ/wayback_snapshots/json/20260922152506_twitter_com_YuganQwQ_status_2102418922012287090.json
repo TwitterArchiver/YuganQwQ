@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2102339397618213094",
+    "created_at": "2026-09-22T15:25:06.000Z",
+    "display_text_range": [
+      9,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T16:25:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102418922012287090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2005987011866615809",
+          "start": 0,
+          "username": "hhhmbbs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102418922012287090",
+    "in_reply_to_user_id": "2005987011866615809",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102339397618213094",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hhhmbbs 宝宝。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2102339376869154816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS0ChkuaIAAf9Bl.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2102339383399714816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS0Ch9DakAARAFv.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2102339389909237760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS0CiVTaAAAnfOl.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2102339397618213094",
+        "created_at": "2026-09-22T15:25:06.000Z",
+        "display_text_range": [
+          9,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T16:25:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102418922012287090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2005987011866615809",
+              "start": 0,
+              "username": "hhhmbbs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102418922012287090",
+        "in_reply_to_user_id": "2005987011866615809",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102339397618213094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hhhmbbs 宝宝。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102339376869154816",
+            "3_2102339383399714816",
+            "3_2102339389909237760"
+          ]
+        },
+        "author_id": "2005987011866615809",
+        "conversation_id": "2102339397618213094",
+        "created_at": "2026-09-22T10:09:06.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T11:09:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102339397618213094"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d4pvzj4n30",
+              "end": 69,
+              "expanded_url": "https://x.com/hhhmbbs/status/2102339397618213094/photo/1",
+              "media_key": "3_2102339376869154816",
+              "start": 46,
+              "url": "https://t.co/d4pvzj4n30"
+            },
+            {
+              "display_url": "pic.x.com/d4pvzj4n30",
+              "end": 69,
+              "expanded_url": "https://x.com/hhhmbbs/status/2102339397618213094/photo/1",
+              "media_key": "3_2102339383399714816",
+              "start": 46,
+              "url": "https://t.co/d4pvzj4n30"
+            },
+            {
+              "display_url": "pic.x.com/d4pvzj4n30",
+              "end": 69,
+              "expanded_url": "https://x.com/hhhmbbs/status/2102339397618213094/photo/1",
+              "media_key": "3_2102339389909237760",
+              "start": 46,
+              "url": "https://t.co/d4pvzj4n30"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102339397618213094",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102339376869154816"
+          },
+          {
+            "media_key": "3_2102339383399714816"
+          },
+          {
+            "media_key": "3_2102339389909237760"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自杀失败哎呀亚硝酸钠不痛苦先晕然后呕吐然后直接晕倒警察医生把我怎么从我家带到医院的都不知道 https://t.co/d4pvzj4n30"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 查成分回fo 直fo是因为喜欢你呀 |\n前世@yuganbb823 宝宝@ci_shang85157\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yuganbb823"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "ci_shang85157"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuganqwq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuganqwq",
+                "start": 0,
+                "url": "https://t.co/19gBB14uzC"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "is_identity_verified": false,
+        "location": "距离你4.5km",
+        "most_recent_tweet_id": "2102418922012287090",
+        "name": "为何人生如此悲惨2.0",
+        "pinned_tweet_id": "2079370925015715919",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047425753227333632/1786741767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 473,
+          "like_count": 6094,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1436
+        },
+        "url": "https://t.co/19gBB14uzC",
+        "username": "YuganQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-30T12:59:18.000Z",
+        "description": "",
+        "id": "2005987011866615809",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102402820712616179",
+        "name": "百百加",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2005987011866615809/1786473846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086652969093910528/9uTqsBoQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 206,
+          "like_count": 225,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 140
+        },
+        "url": "",
+        "username": "hhhmbbs",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

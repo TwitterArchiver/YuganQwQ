@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2106294636834680884",
+    "created_at": "2026-10-03T08:05:49.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T09:05:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106294636834680884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1999161935875428352",
+          "start": 3,
+          "username": "PlzNoFare8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106294636834680884",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 255
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105872966684639714",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PlzNoFare8964: 正常一点叫做爱 \n口语一点叫上床\n可爱一点叫爱爱\n粗俗一点叫艹逼\n随便一点叫打炮\n学术一点叫性交\n网络一点叫doi\n非主流一点叫啪啪\n隐晦一点叫行房\n哲学一点叫交合\n江湖一点叫办事\n文雅一点叫云雨\n古风一点叫敦伦\n西式一点叫ml\n中二一点叫…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2106294636834680884",
+        "created_at": "2026-10-03T08:05:49.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T09:05:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106294636834680884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1999161935875428352",
+              "start": 3,
+              "username": "PlzNoFare8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106294636834680884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 255
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105872966684639714",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PlzNoFare8964: 正常一点叫做爱 \n口语一点叫上床\n可爱一点叫爱爱\n粗俗一点叫艹逼\n随便一点叫打炮\n学术一点叫性交\n网络一点叫doi\n非主流一点叫啪啪\n隐晦一点叫行房\n哲学一点叫交合\n江湖一点叫办事\n文雅一点叫云雨\n古风一点叫敦伦\n西式一点叫ml\n中二一点叫…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999161935875428352",
+        "conversation_id": "2105872966684639714",
+        "created_at": "2026-10-02T04:10:15.000Z",
+        "display_text_range": [
+          0,
+          124
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T05:10:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105872966684639714"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105872966684639714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 918,
+          "impression_count": 385223,
+          "like_count": 4823,
+          "quote_count": 23,
+          "reply_count": 355,
+          "retweet_count": 255
+        },
+        "reply_settings": "everyone",
+        "text": "正常一点叫做爱 \n口语一点叫上床\n可爱一点叫爱爱\n粗俗一点叫艹逼\n随便一点叫打炮\n学术一点叫性交\n网络一点叫doi\n非主流一点叫啪啪\n隐晦一点叫行房\n哲学一点叫交合\n江湖一点叫办事\n文雅一点叫云雨\n古风一点叫敦伦\n西式一点叫ml\n中二一点叫灵肉合一"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 查成分回fo 直fo是因为喜欢你呀 |\n前世@yuganbb823 宝宝@ci_shang85157\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yuganbb823"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "ci_shang85157"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuganqwq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuganqwq",
+                "start": 0,
+                "url": "https://t.co/19gBB14uzC"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "is_identity_verified": false,
+        "location": "距离你4.5km",
+        "most_recent_tweet_id": "2106294636834680884",
+        "name": "为何人生如此悲惨2.0",
+        "pinned_tweet_id": "2105458187768131727",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047425753227333632/1786741767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 642,
+          "following_count": 527,
+          "like_count": 6757,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1606
+        },
+        "url": "https://t.co/19gBB14uzC",
+        "username": "YuganQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-11T17:00:56.000Z",
+        "description": "谢谢你喜欢我 虽然这是你应该做的\n防丢小号@jinzhifare\n搬运4️⃣全家",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 21,
+                "username": "jinzhifare"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/plznofare8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/plznofare8964",
+                "start": 0,
+                "url": "https://t.co/DQlCFcqd1h"
+              }
+            ]
+          }
+        },
+        "id": "1999161935875428352",
+        "is_identity_verified": false,
+        "location": "问IP拉黑",
+        "most_recent_tweet_id": "2106283554086793453",
+        "name": "禁止发热",
+        "pinned_tweet_id": "2057276967653638149",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1999161935875428352/1765477967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999164161431896064/JyH2A1uS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4701,
+          "following_count": 100,
+          "like_count": 8627,
+          "listed_count": 9,
+          "media_count": 346,
+          "tweet_count": 1915
+        },
+        "url": "https://t.co/DQlCFcqd1h",
+        "username": "PlzNoFare8964",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

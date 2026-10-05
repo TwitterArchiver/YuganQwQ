@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2106417942741372955",
+    "created_at": "2026-10-03T16:15:47.000Z",
+    "display_text_range": [
+      0,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T17:15:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106417942741372955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1655158367466422275",
+          "start": 3,
+          "username": "Roxannebit0616"
+        },
+        {
+          "end": 33,
+          "id": "1356412433204703232",
+          "start": 20,
+          "username": "DaCongMing10"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106417942741372955",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106240917355335737",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Roxannebit0616: @DaCongMing10 有换夫游戏吗 想看老公被操的喵喵叫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2106417942741372955",
+        "created_at": "2026-10-03T16:15:47.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T17:15:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106417942741372955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1655158367466422275",
+              "start": 3,
+              "username": "Roxannebit0616"
+            },
+            {
+              "end": 33,
+              "id": "1356412433204703232",
+              "start": 20,
+              "username": "DaCongMing10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106417942741372955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106240917355335737",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Roxannebit0616: @DaCongMing10 有换夫游戏吗 想看老公被操的喵喵叫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1655158367466422275",
+        "conversation_id": "2106200869888999722",
+        "created_at": "2026-10-03T04:32:21.000Z",
+        "display_text_range": [
+          14,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T05:32:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106240917355335737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1356412433204703232",
+              "start": 0,
+              "username": "DaCongMing10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106240917355335737",
+        "in_reply_to_user_id": "1356412433204703232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 78989,
+          "like_count": 336,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106200869888999722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DaCongMing10 有换夫游戏吗 想看老公被操的喵喵叫"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 查成分回fo 直fo是因为喜欢你呀 |\n前世@yuganbb823 宝宝@ci_shang85157\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yuganbb823"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "ci_shang85157"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuganqwq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuganqwq",
+                "start": 0,
+                "url": "https://t.co/19gBB14uzC"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "is_identity_verified": false,
+        "location": "距离你4.5km",
+        "most_recent_tweet_id": "2106417942741372955",
+        "name": "为何人生如此悲惨2.0",
+        "pinned_tweet_id": "2105458187768131727",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047425753227333632/1786741767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 533,
+          "like_count": 6840,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1632
+        },
+        "url": "https://t.co/19gBB14uzC",
+        "username": "YuganQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-07T10:31:32.000Z",
+        "description": "I love money💵",
+        "id": "1655158367466422275",
+        "is_identity_verified": false,
+        "location": "Lubuk Baja, Indonesia",
+        "most_recent_tweet_id": "2106344651431276692",
+        "name": "你们的互动我看见了再见",
+        "pinned_tweet_id": "2040514661641294004",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1655158367466422275/1786066794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085541226963763200/YbfKCMaa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 97,
+          "like_count": 2178,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 364
+        },
+        "url": "",
+        "username": "Roxannebit0616",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-02-02T01:21:58.000Z",
+        "description": "｜日常观察｜投资交易心得｜\n｜Bitget比特币交易👇\nhttps://t.co/vAMOGHPrpJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "partner.bitget.cafe/bg/M84ESA",
+                "end": 51,
+                "expanded_url": "https://partner.bitget.cafe/bg/M84ESA",
+                "start": 28,
+                "url": "https://t.co/vAMOGHPrpJ"
+              }
+            ]
+          }
+        },
+        "id": "1356412433204703232",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106417034456367557",
+        "name": "什么都有",
+        "pinned_tweet_id": "2106009835238265278",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1356412433204703232/1737339472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915015250862301184/bZaZs1lX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6868,
+          "following_count": 5815,
+          "like_count": 4902,
+          "listed_count": 20,
+          "media_count": 559,
+          "tweet_count": 18521
+        },
+        "url": "",
+        "username": "DaCongMing10",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

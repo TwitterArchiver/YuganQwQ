@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2103726657307885591",
+    "created_at": "2026-09-26T06:01:35.000Z",
+    "display_text_range": [
+      0,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T07:01:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103726657307885591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1865519193405222912",
+          "start": 3,
+          "username": "MiaoGe86898"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103726657307885591",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103442184431456372",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MiaoGe86898: 瘦三斤需要三天，胖三斤只需要一顿。对于猪妖来说，这个世界真的好残忍……我哭了呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2103726657307885591",
+        "created_at": "2026-09-26T06:01:35.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T07:01:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103726657307885591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1865519193405222912",
+              "start": 3,
+              "username": "MiaoGe86898"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103726657307885591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103442184431456372",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MiaoGe86898: 瘦三斤需要三天，胖三斤只需要一顿。对于猪妖来说，这个世界真的好残忍……我哭了呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865519193405222912",
+        "conversation_id": "2103442184431456372",
+        "created_at": "2026-09-25T11:11:11.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T12:11:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103442184431456372"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103442184431456372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 12172,
+          "like_count": 406,
+          "quote_count": 2,
+          "reply_count": 23,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "瘦三斤需要三天，胖三斤只需要一顿。对于猪妖来说，这个世界真的好残忍……我哭了呀"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 查成分回fo 直fo是因为喜欢你呀 |\n前世@yuganbb823 宝宝@ci_shang85157\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yuganbb823"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "ci_shang85157"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuganqwq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuganqwq",
+                "start": 0,
+                "url": "https://t.co/19gBB14uzC"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "is_identity_verified": false,
+        "location": "距离你4.5km",
+        "most_recent_tweet_id": "2103726657307885591",
+        "name": "为何人生如此悲惨2.0",
+        "pinned_tweet_id": "2079370925015715919",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047425753227333632/1786741767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 598,
+          "following_count": 496,
+          "like_count": 6514,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1516
+        },
+        "url": "https://t.co/19gBB14uzC",
+        "username": "YuganQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-07T22:10:20.000Z",
+        "description": "...",
+        "id": "1865519193405222912",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103723746414793029",
+        "name": "人类好无聊啊这个地球完蛋了。",
+        "pinned_tweet_id": "2096917319608098997",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095415215412408320/Eo1nBhwI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 925,
+          "following_count": 12,
+          "like_count": 193,
+          "listed_count": 2,
+          "media_count": 75,
+          "tweet_count": 579
+        },
+        "url": "",
+        "username": "MiaoGe86898",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

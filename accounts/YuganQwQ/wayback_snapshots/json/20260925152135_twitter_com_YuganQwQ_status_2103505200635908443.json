@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2103505200635908443",
+    "created_at": "2026-09-25T15:21:35.000Z",
+    "display_text_range": [
+      0,
+      97
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T16:21:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103505200635908443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2085986483417251840",
+          "start": 3,
+          "username": "babenhua3"
+        }
+      ],
+      "urls": [
+        {
+          "description": "本站不所属或被所属于che mlogix.ca, \"原料革命 \", \"原料革命宣传部 \"，以及其他公司、组织、团体。 与包括但不限于恶俗维基/恶俗狗维基的esu团体有关（affiliated）或自称有关者，不得在本站成为商家、或加入本站运营组。 本站不设置telegram频道/群组，所有telegram频道/群组均为仿冒。 以自己或同居人、同事、同课题组成员生成的邀请码注册的，不得加入本站。",
+          "display_url": "chemlogix.org",
+          "end": 80,
+          "expanded_url": "https://chemlogix.org",
+          "start": 57,
+          "status": 200,
+          "title": "登录 · ChemLogix",
+          "unwound_url": "https://chemlogix.org/index.php?r=login",
+          "url": "https://t.co/HVULc3rKkR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103505200635908443",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103320044612751473",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @babenhua3: 1.7平壤槟榔强势回归，40酸奶葡萄恢复供应！如雪的纤尘仅25一次使用？一切尽在全新https://t.co/HVULc3rKkR网站 私信来取得我们的邀请码！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2103505200635908443",
+        "created_at": "2026-09-25T15:21:35.000Z",
+        "display_text_range": [
+          0,
+          97
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T16:21:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103505200635908443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2085986483417251840",
+              "start": 3,
+              "username": "babenhua3"
+            }
+          ],
+          "urls": [
+            {
+              "description": "本站不所属或被所属于che mlogix.ca, \"原料革命 \", \"原料革命宣传部 \"，以及其他公司、组织、团体。 与包括但不限于恶俗维基/恶俗狗维基的esu团体有关（affiliated）或自称有关者，不得在本站成为商家、或加入本站运营组。 本站不设置telegram频道/群组，所有telegram频道/群组均为仿冒。 以自己或同居人、同事、同课题组成员生成的邀请码注册的，不得加入本站。",
+              "display_url": "chemlogix.org",
+              "end": 80,
+              "expanded_url": "https://chemlogix.org",
+              "start": 57,
+              "status": 200,
+              "title": "登录 · ChemLogix",
+              "unwound_url": "https://chemlogix.org/index.php?r=login",
+              "url": "https://t.co/HVULc3rKkR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103505200635908443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103320044612751473",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @babenhua3: 1.7平壤槟榔强势回归，40酸奶葡萄恢复供应！如雪的纤尘仅25一次使用？一切尽在全新https://t.co/HVULc3rKkR网站 私信来取得我们的邀请码！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085986483417251840",
+        "conversation_id": "2103320044612751473",
+        "created_at": "2026-09-25T03:05:51.000Z",
+        "display_text_range": [
+          0,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T04:05:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103320044612751473"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "本站不所属或被所属于che mlogix.ca, \"原料革命 \", \"原料革命宣传部 \"，以及其他公司、组织、团体。 与包括但不限于恶俗维基/恶俗狗维基的esu团体有关（affiliated）或自称有关者，不得在本站成为商家、或加入本站运营组。 本站不设置telegram频道/群组，所有telegram频道/群组均为仿冒。 以自己或同居人、同事、同课题组成员生成的邀请码注册的，不得加入本站。",
+              "display_url": "chemlogix.org",
+              "end": 65,
+              "expanded_url": "https://chemlogix.org",
+              "start": 42,
+              "status": 200,
+              "title": "登录 · ChemLogix",
+              "unwound_url": "https://chemlogix.org/index.php?r=login",
+              "url": "https://t.co/HVULc3rKkR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103320044612751473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 351,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "1.7平壤槟榔强势回归，40酸奶葡萄恢复供应！如雪的纤尘仅25一次使用？一切尽在全新https://t.co/HVULc3rKkR网站 私信来取得我们的邀请码！！！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 查成分回fo 直fo是因为喜欢你呀 |\n前世@yuganbb823 宝宝@ci_shang85157\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yuganbb823"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "ci_shang85157"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuganqwq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuganqwq",
+                "start": 0,
+                "url": "https://t.co/19gBB14uzC"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "is_identity_verified": false,
+        "location": "距离你4.5km",
+        "most_recent_tweet_id": "2103505200635908443",
+        "name": "为何人生如此悲惨2.0",
+        "pinned_tweet_id": "2079370925015715919",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047425753227333632/1786741767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 595,
+          "following_count": 489,
+          "like_count": 6403,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 1483
+        },
+        "url": "https://t.co/19gBB14uzC",
+        "username": "YuganQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-08T07:08:49.000Z",
+        "description": "",
+        "id": "2085986483417251840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103491011460977121",
+        "name": "八本华",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085986483417251840/1786173292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085988095149867008/Rsvh5Y-R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 69,
+          "like_count": 854,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 57
+        },
+        "url": "",
+        "username": "babenhua3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2103576648004116680",
+    "created_at": "2026-09-25T20:05:30.000Z",
+    "display_text_range": [
+      0,
+      85
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T21:05:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103576648004116680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1655156716965871622",
+          "start": 3,
+          "username": "yanshi2369691"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103576648004116680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 56
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103324782691590298",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yanshi2369691: 15岁的我决定16岁自杀 17岁的我安慰自己说我还年轻 现在马上20岁了依旧是个糖比依旧是个傻逼 我到底还能用青少年的理由痛苦几年？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2103576648004116680",
+        "created_at": "2026-09-25T20:05:30.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T21:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103576648004116680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1655156716965871622",
+              "start": 3,
+              "username": "yanshi2369691"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103576648004116680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103324782691590298",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yanshi2369691: 15岁的我决定16岁自杀 17岁的我安慰自己说我还年轻 现在马上20岁了依旧是个糖比依旧是个傻逼 我到底还能用青少年的理由痛苦几年？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1655156716965871622",
+        "conversation_id": "2103324782691590298",
+        "created_at": "2026-09-25T03:24:40.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T04:24:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103324782691590298"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103324782691590298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 11162,
+          "like_count": 345,
+          "quote_count": 7,
+          "reply_count": 20,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "15岁的我决定16岁自杀 17岁的我安慰自己说我还年轻 现在马上20岁了依旧是个糖比依旧是个傻逼 我到底还能用青少年的理由痛苦几年？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 查成分回fo 直fo是因为喜欢你呀 |\n前世@yuganbb823 宝宝@ci_shang85157\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yuganbb823"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "ci_shang85157"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuganqwq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuganqwq",
+                "start": 0,
+                "url": "https://t.co/19gBB14uzC"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "is_identity_verified": false,
+        "location": "距离你4.5km",
+        "most_recent_tweet_id": "2103576648004116680",
+        "name": "为何人生如此悲惨2.0",
+        "pinned_tweet_id": "2079370925015715919",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047425753227333632/1786741767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 595,
+          "following_count": 492,
+          "like_count": 6502,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1506
+        },
+        "url": "https://t.co/19gBB14uzC",
+        "username": "YuganQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-07T10:24:57.000Z",
+        "description": "丰盈悲爱。",
+        "id": "1655156716965871622",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103528113120694671",
+        "name": "真理",
+        "pinned_tweet_id": "2090406804677185904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1655156716965871622/1787237623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090450616925454337/5jFPvzI4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 386,
+          "like_count": 1853,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 123
+        },
+        "url": "",
+        "username": "yanshi2369691",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

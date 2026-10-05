@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2047425753227333632",
+    "conversation_id": "2101499799237214568",
+    "created_at": "2026-09-20T02:32:50.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T03:32:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101499799237214568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2066629255577182208",
+          "start": 3,
+          "username": "Antares04_64"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101499799237214568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101331999436980589",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Antares04_64: 各位自己做普瑞赛斯胶囊的一定要加辅料。辅料是崩解剂和润滑剂，不加的话，药效会大打折扣!\n 因为普瑞赛斯原粉太纯的话，会像胶一样粘在胃上，导致吸收效率下降\n辅料配方如下：\n（当然，如果没有微晶纤维素，可以直接用淀粉和滑石粉。如果连滑石粉都没有，…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1936,
+        "media_key": "3_2101331983980994560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSluTlxaoAA5rM1.jpg",
+        "width": 3700
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2101499799237214568",
+        "created_at": "2026-09-20T02:32:50.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T03:32:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101499799237214568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2066629255577182208",
+              "start": 3,
+              "username": "Antares04_64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101499799237214568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101331999436980589",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Antares04_64: 各位自己做普瑞赛斯胶囊的一定要加辅料。辅料是崩解剂和润滑剂，不加的话，药效会大打折扣!\n 因为普瑞赛斯原粉太纯的话，会像胶一样粘在胃上，导致吸收效率下降\n辅料配方如下：\n（当然，如果没有微晶纤维素，可以直接用淀粉和滑石粉。如果连滑石粉都没有，…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101331983980994560"
+          ]
+        },
+        "author_id": "2066629255577182208",
+        "conversation_id": "2101331999436980589",
+        "created_at": "2026-09-19T15:26:04.000Z",
+        "display_text_range": [
+          0,
+          145
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T16:26:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101331999436980589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TIGoPbU6Nn",
+              "end": 169,
+              "expanded_url": "https://x.com/Antares04_64/status/2101331999436980589/photo/1",
+              "media_key": "3_2101331983980994560",
+              "start": 146,
+              "url": "https://t.co/TIGoPbU6Nn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101331999436980589",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101331983980994560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 788,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "各位自己做普瑞赛斯胶囊的一定要加辅料。辅料是崩解剂和润滑剂，不加的话，药效会大打折扣!\n 因为普瑞赛斯原粉太纯的话，会像胶一样粘在胃上，导致吸收效率下降\n辅料配方如下：\n（当然，如果没有微晶纤维素，可以直接用淀粉和滑石粉。如果连滑石粉都没有，直接用淀粉也可以不过效果会差一些。)\n\n(补档) https://t.co/TIGoPbU6Nn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 查成分回fo 直fo是因为喜欢你呀 |\n前世@yuganbb823 宝宝@ci_shang85157\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yuganbb823"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "ci_shang85157"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuganqwq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuganqwq",
+                "start": 0,
+                "url": "https://t.co/19gBB14uzC"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "is_identity_verified": false,
+        "location": "距离你4.5km",
+        "most_recent_tweet_id": "2101499799237214568",
+        "name": "为何人生如此悲惨2.0",
+        "pinned_tweet_id": "2079370925015715919",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047425753227333632/1786741767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 576,
+          "following_count": 465,
+          "like_count": 5918,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1407
+        },
+        "url": "https://t.co/19gBB14uzC",
+        "username": "YuganQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-15T21:10:54.000Z",
+        "description": "你好,你可以叫我煜或者04/ODer💊/双相/记忆力很差/自伤/生产日期：2010.9.8♂/正在学习药理学🧬/非必要不建证🏳️/喜欢同类看见会直接回/不支持引导自残嗑药❗/欢迎私信互fo喵/提问箱↓/(这里是煜4.0)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/antares04_8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/antares04_8964",
+                "start": 0,
+                "url": "https://t.co/IDx6PAiC9K"
+              }
+            ]
+          }
+        },
+        "id": "2066629255577182208",
+        "is_identity_verified": false,
+        "location": "＃心宿二",
+        "most_recent_tweet_id": "2101436287085670410",
+        "name": "煜",
+        "pinned_tweet_id": "2101331999436980589",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2066629255577182208/1781558900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066633487910866944/1KdcHk1w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 60,
+          "like_count": 732,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 386
+        },
+        "url": "https://t.co/IDx6PAiC9K",
+        "username": "Antares04_64",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
